@@ -1,0 +1,1615 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 46;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		5D34AB8D1F1509FB0097D4A1 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 5D34AB8C1F1509FB0097D4A1 /* main.m */; };
+		5D34AB901F1509FB0097D4A1 /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 5D34AB8F1F1509FB0097D4A1 /* AppDelegate.m */; };
+		5D34AB931F1509FB0097D4A1 /* MainViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 5D34AB921F1509FB0097D4A1 /* MainViewController.m */; };
+		5D34AB961F1509FB0097D4A1 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 5D34AB941F1509FB0097D4A1 /* Main.storyboard */; };
+		5D34AB981F1509FB0097D4A1 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 5D34AB971F1509FB0097D4A1 /* Assets.xcassets */; };
+		5D34AB9B1F1509FB0097D4A1 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 5D34AB991F1509FB0097D4A1 /* LaunchScreen.storyboard */; };
+		5D34ABA61F1509FB0097D4A1 /* TungalahariTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 5D34ABA51F1509FB0097D4A1 /* TungalahariTests.m */; };
+		5D34ABB11F1509FB0097D4A1 /* TungalahariUITests.m in Sources */ = {isa = PBXBuildFile; fileRef = 5D34ABB01F1509FB0097D4A1 /* TungalahariUITests.m */; };
+		5D34ABC01F150A320097D4A1 /* AlbumViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 5D34ABBF1F150A320097D4A1 /* AlbumViewController.m */; };
+		5D34ABC31F150A3D0097D4A1 /* MediaPlayerViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 5D34ABC21F150A3D0097D4A1 /* MediaPlayerViewController.m */; };
+		5D34AC741F151C3A0097D4A1 /* lyrics.html in Resources */ = {isa = PBXBuildFile; fileRef = 5D34ABC71F151C3A0097D4A1 /* lyrics.html */; };
+		5D34AC751F151C3A0097D4A1 /* lyrics.html in Resources */ = {isa = PBXBuildFile; fileRef = 5D34ABC91F151C3A0097D4A1 /* lyrics.html */; };
+		5D34AC761F151C3A0097D4A1 /* lyrics.html in Resources */ = {isa = PBXBuildFile; fileRef = 5D34ABCB1F151C3A0097D4A1 /* lyrics.html */; };
+		5D34AC771F151C3A0097D4A1 /* lyrics.html in Resources */ = {isa = PBXBuildFile; fileRef = 5D34ABCD1F151C3A0097D4A1 /* lyrics.html */; };
+		5D34AC781F151C3A0097D4A1 /* lyrics.html in Resources */ = {isa = PBXBuildFile; fileRef = 5D34ABCF1F151C3A0097D4A1 /* lyrics.html */; };
+		5D34AC791F151C3A0097D4A1 /* lyrics.html in Resources */ = {isa = PBXBuildFile; fileRef = 5D34ABD11F151C3A0097D4A1 /* lyrics.html */; };
+		5D34AC7A1F151C3A0097D4A1 /* lyrics.html in Resources */ = {isa = PBXBuildFile; fileRef = 5D34ABD31F151C3A0097D4A1 /* lyrics.html */; };
+		5D34AC7B1F151C3A0097D4A1 /* lyrics.html in Resources */ = {isa = PBXBuildFile; fileRef = 5D34ABD51F151C3A0097D4A1 /* lyrics.html */; };
+		5D34AC7C1F151C3A0097D4A1 /* lyrics.html in Resources */ = {isa = PBXBuildFile; fileRef = 5D34ABD71F151C3A0097D4A1 /* lyrics.html */; };
+		5D34AC7D1F151C3A0097D4A1 /* albumDetails.json in Resources */ = {isa = PBXBuildFile; fileRef = 5D34ABD81F151C3A0097D4A1 /* albumDetails.json */; };
+		5D34AC7E1F151C3A0097D4A1 /* lyrics.html in Resources */ = {isa = PBXBuildFile; fileRef = 5D34ABDB1F151C3A0097D4A1 /* lyrics.html */; };
+		5D34AC7F1F151C3A0097D4A1 /* lyrics.html in Resources */ = {isa = PBXBuildFile; fileRef = 5D34ABDD1F151C3A0097D4A1 /* lyrics.html */; };
+		5D34AC801F151C3A0097D4A1 /* lyrics.html in Resources */ = {isa = PBXBuildFile; fileRef = 5D34ABDF1F151C3A0097D4A1 /* lyrics.html */; };
+		5D34AC811F151C3A0097D4A1 /* lyrics.html in Resources */ = {isa = PBXBuildFile; fileRef = 5D34ABE11F151C3A0097D4A1 /* lyrics.html */; };
+		5D34AC821F151C3A0097D4A1 /* lyrics.html in Resources */ = {isa = PBXBuildFile; fileRef = 5D34ABE31F151C3A0097D4A1 /* lyrics.html */; };
+		5D34AC831F151C3A0097D4A1 /* lyrics.html in Resources */ = {isa = PBXBuildFile; fileRef = 5D34ABE51F151C3A0097D4A1 /* lyrics.html */; };
+		5D34AC841F151C3A0097D4A1 /* lyrics.html in Resources */ = {isa = PBXBuildFile; fileRef = 5D34ABE71F151C3A0097D4A1 /* lyrics.html */; };
+		5D34AC851F151C3A0097D4A1 /* lyrics.html in Resources */ = {isa = PBXBuildFile; fileRef = 5D34ABE91F151C3A0097D4A1 /* lyrics.html */; };
+		5D34AC861F151C3A0097D4A1 /* lyrics.html in Resources */ = {isa = PBXBuildFile; fileRef = 5D34ABEB1F151C3A0097D4A1 /* lyrics.html */; };
+		5D34AC871F151C3A0097D4A1 /* lyrics.html in Resources */ = {isa = PBXBuildFile; fileRef = 5D34ABED1F151C3A0097D4A1 /* lyrics.html */; };
+		5D34AC881F151C3A0097D4A1 /* lyrics.html in Resources */ = {isa = PBXBuildFile; fileRef = 5D34ABEF1F151C3A0097D4A1 /* lyrics.html */; };
+		5D34AC891F151C3A0097D4A1 /* lyrics.html in Resources */ = {isa = PBXBuildFile; fileRef = 5D34ABF11F151C3A0097D4A1 /* lyrics.html */; };
+		5D34AC8A1F151C3A0097D4A1 /* lyrics.html in Resources */ = {isa = PBXBuildFile; fileRef = 5D34ABF31F151C3A0097D4A1 /* lyrics.html */; };
+		5D34AC8B1F151C3A0097D4A1 /* lyrics.html in Resources */ = {isa = PBXBuildFile; fileRef = 5D34ABF51F151C3A0097D4A1 /* lyrics.html */; };
+		5D34AC8C1F151C3A0097D4A1 /* lyrics.html in Resources */ = {isa = PBXBuildFile; fileRef = 5D34ABF71F151C3A0097D4A1 /* lyrics.html */; };
+		5D34AC8D1F151C3A0097D4A1 /* lyrics.html in Resources */ = {isa = PBXBuildFile; fileRef = 5D34ABF91F151C3A0097D4A1 /* lyrics.html */; };
+		5D34AC8E1F151C3A0097D4A1 /* albumDetails.json in Resources */ = {isa = PBXBuildFile; fileRef = 5D34ABFA1F151C3A0097D4A1 /* albumDetails.json */; };
+		5D34AC8F1F151C3A0097D4A1 /* lyrics.html in Resources */ = {isa = PBXBuildFile; fileRef = 5D34ABFD1F151C3A0097D4A1 /* lyrics.html */; };
+		5D34AC901F151C3A0097D4A1 /* lyrics.html in Resources */ = {isa = PBXBuildFile; fileRef = 5D34ABFF1F151C3A0097D4A1 /* lyrics.html */; };
+		5D34AC911F151C3A0097D4A1 /* lyrics.html in Resources */ = {isa = PBXBuildFile; fileRef = 5D34AC011F151C3A0097D4A1 /* lyrics.html */; };
+		5D34AC921F151C3A0097D4A1 /* lyrics.html in Resources */ = {isa = PBXBuildFile; fileRef = 5D34AC031F151C3A0097D4A1 /* lyrics.html */; };
+		5D34AC931F151C3A0097D4A1 /* lyrics.html in Resources */ = {isa = PBXBuildFile; fileRef = 5D34AC051F151C3A0097D4A1 /* lyrics.html */; };
+		5D34AC941F151C3A0097D4A1 /* lyrics.html in Resources */ = {isa = PBXBuildFile; fileRef = 5D34AC071F151C3A0097D4A1 /* lyrics.html */; };
+		5D34AC951F151C3A0097D4A1 /* albumDetails.json in Resources */ = {isa = PBXBuildFile; fileRef = 5D34AC081F151C3A0097D4A1 /* albumDetails.json */; };
+		5D34AC961F151C3A0097D4A1 /* lyrics.html in Resources */ = {isa = PBXBuildFile; fileRef = 5D34AC0B1F151C3A0097D4A1 /* lyrics.html */; };
+		5D34AC971F151C3A0097D4A1 /* lyrics.html in Resources */ = {isa = PBXBuildFile; fileRef = 5D34AC0D1F151C3A0097D4A1 /* lyrics.html */; };
+		5D34AC981F151C3A0097D4A1 /* lyrics.html in Resources */ = {isa = PBXBuildFile; fileRef = 5D34AC0F1F151C3A0097D4A1 /* lyrics.html */; };
+		5D34AC991F151C3A0097D4A1 /* lyrics.html in Resources */ = {isa = PBXBuildFile; fileRef = 5D34AC111F151C3A0097D4A1 /* lyrics.html */; };
+		5D34AC9A1F151C3A0097D4A1 /* lyrics.html in Resources */ = {isa = PBXBuildFile; fileRef = 5D34AC131F151C3A0097D4A1 /* lyrics.html */; };
+		5D34AC9B1F151C3A0097D4A1 /* lyrics.html in Resources */ = {isa = PBXBuildFile; fileRef = 5D34AC151F151C3A0097D4A1 /* lyrics.html */; };
+		5D34AC9C1F151C3A0097D4A1 /* lyrics.html in Resources */ = {isa = PBXBuildFile; fileRef = 5D34AC171F151C3A0097D4A1 /* lyrics.html */; };
+		5D34AC9D1F151C3A0097D4A1 /* albumDetails.json in Resources */ = {isa = PBXBuildFile; fileRef = 5D34AC181F151C3A0097D4A1 /* albumDetails.json */; };
+		5D34AC9E1F151C3A0097D4A1 /* lyrics.html in Resources */ = {isa = PBXBuildFile; fileRef = 5D34AC1B1F151C3A0097D4A1 /* lyrics.html */; };
+		5D34AC9F1F151C3A0097D4A1 /* lyrics.html in Resources */ = {isa = PBXBuildFile; fileRef = 5D34AC1D1F151C3A0097D4A1 /* lyrics.html */; };
+		5D34ACA01F151C3A0097D4A1 /* lyrics.html in Resources */ = {isa = PBXBuildFile; fileRef = 5D34AC1F1F151C3A0097D4A1 /* lyrics.html */; };
+		5D34ACA11F151C3A0097D4A1 /* lyrics.html in Resources */ = {isa = PBXBuildFile; fileRef = 5D34AC211F151C3A0097D4A1 /* lyrics.html */; };
+		5D34ACA21F151C3A0097D4A1 /* lyrics.html in Resources */ = {isa = PBXBuildFile; fileRef = 5D34AC231F151C3A0097D4A1 /* lyrics.html */; };
+		5D34ACA31F151C3A0097D4A1 /* lyrics.html in Resources */ = {isa = PBXBuildFile; fileRef = 5D34AC251F151C3A0097D4A1 /* lyrics.html */; };
+		5D34ACA41F151C3A0097D4A1 /* albumDetails.json in Resources */ = {isa = PBXBuildFile; fileRef = 5D34AC261F151C3A0097D4A1 /* albumDetails.json */; };
+		5D34ACA51F151C3A0097D4A1 /* lyrics.html in Resources */ = {isa = PBXBuildFile; fileRef = 5D34AC291F151C3A0097D4A1 /* lyrics.html */; };
+		5D34ACA61F151C3A0097D4A1 /* lyrics.html in Resources */ = {isa = PBXBuildFile; fileRef = 5D34AC2B1F151C3A0097D4A1 /* lyrics.html */; };
+		5D34ACA71F151C3A0097D4A1 /* lyrics.html in Resources */ = {isa = PBXBuildFile; fileRef = 5D34AC2D1F151C3A0097D4A1 /* lyrics.html */; };
+		5D34ACA81F151C3A0097D4A1 /* lyrics.html in Resources */ = {isa = PBXBuildFile; fileRef = 5D34AC2F1F151C3A0097D4A1 /* lyrics.html */; };
+		5D34ACA91F151C3A0097D4A1 /* lyrics.html in Resources */ = {isa = PBXBuildFile; fileRef = 5D34AC311F151C3A0097D4A1 /* lyrics.html */; };
+		5D34ACAA1F151C3A0097D4A1 /* lyrics.html in Resources */ = {isa = PBXBuildFile; fileRef = 5D34AC331F151C3A0097D4A1 /* lyrics.html */; };
+		5D34ACAB1F151C3A0097D4A1 /* albumDetails.json in Resources */ = {isa = PBXBuildFile; fileRef = 5D34AC341F151C3A0097D4A1 /* albumDetails.json */; };
+		5D34ACAC1F151C3A0097D4A1 /* lyrics.html in Resources */ = {isa = PBXBuildFile; fileRef = 5D34AC371F151C3A0097D4A1 /* lyrics.html */; };
+		5D34ACAD1F151C3A0097D4A1 /* lyrics.html in Resources */ = {isa = PBXBuildFile; fileRef = 5D34AC391F151C3A0097D4A1 /* lyrics.html */; };
+		5D34ACAE1F151C3A0097D4A1 /* lyrics.html in Resources */ = {isa = PBXBuildFile; fileRef = 5D34AC3B1F151C3A0097D4A1 /* lyrics.html */; };
+		5D34ACAF1F151C3A0097D4A1 /* lyrics.html in Resources */ = {isa = PBXBuildFile; fileRef = 5D34AC3D1F151C3A0097D4A1 /* lyrics.html */; };
+		5D34ACB01F151C3A0097D4A1 /* lyrics.html in Resources */ = {isa = PBXBuildFile; fileRef = 5D34AC3F1F151C3A0097D4A1 /* lyrics.html */; };
+		5D34ACB11F151C3A0097D4A1 /* lyrics.html in Resources */ = {isa = PBXBuildFile; fileRef = 5D34AC411F151C3A0097D4A1 /* lyrics.html */; };
+		5D34ACB21F151C3A0097D4A1 /* lyrics.html in Resources */ = {isa = PBXBuildFile; fileRef = 5D34AC431F151C3A0097D4A1 /* lyrics.html */; };
+		5D34ACB31F151C3A0097D4A1 /* lyrics.html in Resources */ = {isa = PBXBuildFile; fileRef = 5D34AC451F151C3A0097D4A1 /* lyrics.html */; };
+		5D34ACB41F151C3A0097D4A1 /* lyrics.html in Resources */ = {isa = PBXBuildFile; fileRef = 5D34AC471F151C3A0097D4A1 /* lyrics.html */; };
+		5D34ACB51F151C3A0097D4A1 /* lyrics.html in Resources */ = {isa = PBXBuildFile; fileRef = 5D34AC491F151C3A0097D4A1 /* lyrics.html */; };
+		5D34ACB61F151C3A0097D4A1 /* lyrics.html in Resources */ = {isa = PBXBuildFile; fileRef = 5D34AC4B1F151C3A0097D4A1 /* lyrics.html */; };
+		5D34ACB71F151C3A0097D4A1 /* lyrics.html in Resources */ = {isa = PBXBuildFile; fileRef = 5D34AC4D1F151C3A0097D4A1 /* lyrics.html */; };
+		5D34ACB81F151C3A0097D4A1 /* lyrics.html in Resources */ = {isa = PBXBuildFile; fileRef = 5D34AC4F1F151C3A0097D4A1 /* lyrics.html */; };
+		5D34ACB91F151C3A0097D4A1 /* lyrics.html in Resources */ = {isa = PBXBuildFile; fileRef = 5D34AC511F151C3A0097D4A1 /* lyrics.html */; };
+		5D34ACBA1F151C3A0097D4A1 /* albumDetails.json in Resources */ = {isa = PBXBuildFile; fileRef = 5D34AC521F151C3A0097D4A1 /* albumDetails.json */; };
+		5D34ACBB1F151C3A0097D4A1 /* lyrics.html in Resources */ = {isa = PBXBuildFile; fileRef = 5D34AC551F151C3A0097D4A1 /* lyrics.html */; };
+		5D34ACBC1F151C3A0097D4A1 /* lyrics.html in Resources */ = {isa = PBXBuildFile; fileRef = 5D34AC571F151C3A0097D4A1 /* lyrics.html */; };
+		5D34ACBD1F151C3A0097D4A1 /* lyrics.html in Resources */ = {isa = PBXBuildFile; fileRef = 5D34AC591F151C3A0097D4A1 /* lyrics.html */; };
+		5D34ACBE1F151C3A0097D4A1 /* lyrics.html in Resources */ = {isa = PBXBuildFile; fileRef = 5D34AC5B1F151C3A0097D4A1 /* lyrics.html */; };
+		5D34ACBF1F151C3A0097D4A1 /* lyrics.html in Resources */ = {isa = PBXBuildFile; fileRef = 5D34AC5D1F151C3A0097D4A1 /* lyrics.html */; };
+		5D34ACC01F151C3A0097D4A1 /* lyrics.html in Resources */ = {isa = PBXBuildFile; fileRef = 5D34AC5F1F151C3A0097D4A1 /* lyrics.html */; };
+		5D34ACC11F151C3A0097D4A1 /* lyrics.html in Resources */ = {isa = PBXBuildFile; fileRef = 5D34AC611F151C3A0097D4A1 /* lyrics.html */; };
+		5D34ACC21F151C3A0097D4A1 /* lyrics.html in Resources */ = {isa = PBXBuildFile; fileRef = 5D34AC631F151C3A0097D4A1 /* lyrics.html */; };
+		5D34ACC31F151C3A0097D4A1 /* lyrics.html in Resources */ = {isa = PBXBuildFile; fileRef = 5D34AC651F151C3A0097D4A1 /* lyrics.html */; };
+		5D34ACC41F151C3A0097D4A1 /* lyrics.html in Resources */ = {isa = PBXBuildFile; fileRef = 5D34AC671F151C3A0097D4A1 /* lyrics.html */; };
+		5D34ACC51F151C3A0097D4A1 /* lyrics.html in Resources */ = {isa = PBXBuildFile; fileRef = 5D34AC691F151C3A0097D4A1 /* lyrics.html */; };
+		5D34ACC61F151C3A0097D4A1 /* lyrics.html in Resources */ = {isa = PBXBuildFile; fileRef = 5D34AC6B1F151C3A0097D4A1 /* lyrics.html */; };
+		5D34ACC71F151C3A0097D4A1 /* lyrics.html in Resources */ = {isa = PBXBuildFile; fileRef = 5D34AC6D1F151C3A0097D4A1 /* lyrics.html */; };
+		5D34ACC81F151C3A0097D4A1 /* lyrics.html in Resources */ = {isa = PBXBuildFile; fileRef = 5D34AC6F1F151C3A0097D4A1 /* lyrics.html */; };
+		5D34ACC91F151C3A0097D4A1 /* lyrics.html in Resources */ = {isa = PBXBuildFile; fileRef = 5D34AC711F151C3A0097D4A1 /* lyrics.html */; };
+		5D34ACCA1F151C3A0097D4A1 /* albumDetails.json in Resources */ = {isa = PBXBuildFile; fileRef = 5D34AC721F151C3A0097D4A1 /* albumDetails.json */; };
+		5D34ACCB1F151C3A0097D4A1 /* albums.json in Resources */ = {isa = PBXBuildFile; fileRef = 5D34AC731F151C3A0097D4A1 /* albums.json */; };
+		5D34ACD91F1521F00097D4A1 /* Album.m in Sources */ = {isa = PBXBuildFile; fileRef = 5D34ACD81F1521F00097D4A1 /* Album.m */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXContainerItemProxy section */
+		5D34ABA21F1509FB0097D4A1 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = 5D34AB801F1509FB0097D4A1 /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = 5D34AB871F1509FB0097D4A1;
+			remoteInfo = Tungalahari;
+		};
+		5D34ABAD1F1509FB0097D4A1 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = 5D34AB801F1509FB0097D4A1 /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = 5D34AB871F1509FB0097D4A1;
+			remoteInfo = Tungalahari;
+		};
+/* End PBXContainerItemProxy section */
+
+/* Begin PBXFileReference section */
+		5D34AB881F1509FB0097D4A1 /* Tungalahari.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Tungalahari.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		5D34AB8C1F1509FB0097D4A1 /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
+		5D34AB8E1F1509FB0097D4A1 /* AppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AppDelegate.h; sourceTree = "<group>"; };
+		5D34AB8F1F1509FB0097D4A1 /* AppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = AppDelegate.m; sourceTree = "<group>"; };
+		5D34AB911F1509FB0097D4A1 /* MainViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = MainViewController.h; sourceTree = "<group>"; };
+		5D34AB921F1509FB0097D4A1 /* MainViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = MainViewController.m; sourceTree = "<group>"; };
+		5D34AB951F1509FB0097D4A1 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
+		5D34AB971F1509FB0097D4A1 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
+		5D34AB9A1F1509FB0097D4A1 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
+		5D34AB9C1F1509FB0097D4A1 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		5D34ABA11F1509FB0097D4A1 /* TungalahariTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = TungalahariTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
+		5D34ABA51F1509FB0097D4A1 /* TungalahariTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = TungalahariTests.m; sourceTree = "<group>"; };
+		5D34ABA71F1509FB0097D4A1 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		5D34ABAC1F1509FB0097D4A1 /* TungalahariUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = TungalahariUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
+		5D34ABB01F1509FB0097D4A1 /* TungalahariUITests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = TungalahariUITests.m; sourceTree = "<group>"; };
+		5D34ABB21F1509FB0097D4A1 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		5D34ABBE1F150A320097D4A1 /* AlbumViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = AlbumViewController.h; sourceTree = "<group>"; };
+		5D34ABBF1F150A320097D4A1 /* AlbumViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = AlbumViewController.m; sourceTree = "<group>"; };
+		5D34ABC11F150A3D0097D4A1 /* MediaPlayerViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = MediaPlayerViewController.h; sourceTree = "<group>"; };
+		5D34ABC21F150A3D0097D4A1 /* MediaPlayerViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = MediaPlayerViewController.m; sourceTree = "<group>"; };
+		5D34ABC71F151C3A0097D4A1 /* lyrics.html */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.html; path = lyrics.html; sourceTree = "<group>"; };
+		5D34ABC91F151C3A0097D4A1 /* lyrics.html */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.html; path = lyrics.html; sourceTree = "<group>"; };
+		5D34ABCB1F151C3A0097D4A1 /* lyrics.html */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.html; path = lyrics.html; sourceTree = "<group>"; };
+		5D34ABCD1F151C3A0097D4A1 /* lyrics.html */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.html; path = lyrics.html; sourceTree = "<group>"; };
+		5D34ABCF1F151C3A0097D4A1 /* lyrics.html */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.html; path = lyrics.html; sourceTree = "<group>"; };
+		5D34ABD11F151C3A0097D4A1 /* lyrics.html */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.html; path = lyrics.html; sourceTree = "<group>"; };
+		5D34ABD31F151C3A0097D4A1 /* lyrics.html */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.html; path = lyrics.html; sourceTree = "<group>"; };
+		5D34ABD51F151C3A0097D4A1 /* lyrics.html */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.html; path = lyrics.html; sourceTree = "<group>"; };
+		5D34ABD71F151C3A0097D4A1 /* lyrics.html */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.html; path = lyrics.html; sourceTree = "<group>"; };
+		5D34ABD81F151C3A0097D4A1 /* albumDetails.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = albumDetails.json; sourceTree = "<group>"; };
+		5D34ABDB1F151C3A0097D4A1 /* lyrics.html */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.html; path = lyrics.html; sourceTree = "<group>"; };
+		5D34ABDD1F151C3A0097D4A1 /* lyrics.html */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.html; path = lyrics.html; sourceTree = "<group>"; };
+		5D34ABDF1F151C3A0097D4A1 /* lyrics.html */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.html; path = lyrics.html; sourceTree = "<group>"; };
+		5D34ABE11F151C3A0097D4A1 /* lyrics.html */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.html; path = lyrics.html; sourceTree = "<group>"; };
+		5D34ABE31F151C3A0097D4A1 /* lyrics.html */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.html; path = lyrics.html; sourceTree = "<group>"; };
+		5D34ABE51F151C3A0097D4A1 /* lyrics.html */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.html; path = lyrics.html; sourceTree = "<group>"; };
+		5D34ABE71F151C3A0097D4A1 /* lyrics.html */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.html; path = lyrics.html; sourceTree = "<group>"; };
+		5D34ABE91F151C3A0097D4A1 /* lyrics.html */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.html; path = lyrics.html; sourceTree = "<group>"; };
+		5D34ABEB1F151C3A0097D4A1 /* lyrics.html */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.html; path = lyrics.html; sourceTree = "<group>"; };
+		5D34ABED1F151C3A0097D4A1 /* lyrics.html */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.html; path = lyrics.html; sourceTree = "<group>"; };
+		5D34ABEF1F151C3A0097D4A1 /* lyrics.html */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.html; path = lyrics.html; sourceTree = "<group>"; };
+		5D34ABF11F151C3A0097D4A1 /* lyrics.html */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.html; path = lyrics.html; sourceTree = "<group>"; };
+		5D34ABF31F151C3A0097D4A1 /* lyrics.html */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.html; path = lyrics.html; sourceTree = "<group>"; };
+		5D34ABF51F151C3A0097D4A1 /* lyrics.html */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.html; path = lyrics.html; sourceTree = "<group>"; };
+		5D34ABF71F151C3A0097D4A1 /* lyrics.html */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.html; path = lyrics.html; sourceTree = "<group>"; };
+		5D34ABF91F151C3A0097D4A1 /* lyrics.html */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.html; path = lyrics.html; sourceTree = "<group>"; };
+		5D34ABFA1F151C3A0097D4A1 /* albumDetails.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = albumDetails.json; sourceTree = "<group>"; };
+		5D34ABFD1F151C3A0097D4A1 /* lyrics.html */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.html; path = lyrics.html; sourceTree = "<group>"; };
+		5D34ABFF1F151C3A0097D4A1 /* lyrics.html */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.html; path = lyrics.html; sourceTree = "<group>"; };
+		5D34AC011F151C3A0097D4A1 /* lyrics.html */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.html; path = lyrics.html; sourceTree = "<group>"; };
+		5D34AC031F151C3A0097D4A1 /* lyrics.html */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.html; path = lyrics.html; sourceTree = "<group>"; };
+		5D34AC051F151C3A0097D4A1 /* lyrics.html */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.html; path = lyrics.html; sourceTree = "<group>"; };
+		5D34AC071F151C3A0097D4A1 /* lyrics.html */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.html; path = lyrics.html; sourceTree = "<group>"; };
+		5D34AC081F151C3A0097D4A1 /* albumDetails.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = albumDetails.json; sourceTree = "<group>"; };
+		5D34AC0B1F151C3A0097D4A1 /* lyrics.html */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.html; path = lyrics.html; sourceTree = "<group>"; };
+		5D34AC0D1F151C3A0097D4A1 /* lyrics.html */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.html; path = lyrics.html; sourceTree = "<group>"; };
+		5D34AC0F1F151C3A0097D4A1 /* lyrics.html */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.html; path = lyrics.html; sourceTree = "<group>"; };
+		5D34AC111F151C3A0097D4A1 /* lyrics.html */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.html; path = lyrics.html; sourceTree = "<group>"; };
+		5D34AC131F151C3A0097D4A1 /* lyrics.html */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.html; path = lyrics.html; sourceTree = "<group>"; };
+		5D34AC151F151C3A0097D4A1 /* lyrics.html */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.html; path = lyrics.html; sourceTree = "<group>"; };
+		5D34AC171F151C3A0097D4A1 /* lyrics.html */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.html; path = lyrics.html; sourceTree = "<group>"; };
+		5D34AC181F151C3A0097D4A1 /* albumDetails.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = albumDetails.json; sourceTree = "<group>"; };
+		5D34AC1B1F151C3A0097D4A1 /* lyrics.html */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.html; path = lyrics.html; sourceTree = "<group>"; };
+		5D34AC1D1F151C3A0097D4A1 /* lyrics.html */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.html; path = lyrics.html; sourceTree = "<group>"; };
+		5D34AC1F1F151C3A0097D4A1 /* lyrics.html */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.html; path = lyrics.html; sourceTree = "<group>"; };
+		5D34AC211F151C3A0097D4A1 /* lyrics.html */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.html; path = lyrics.html; sourceTree = "<group>"; };
+		5D34AC231F151C3A0097D4A1 /* lyrics.html */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.html; path = lyrics.html; sourceTree = "<group>"; };
+		5D34AC251F151C3A0097D4A1 /* lyrics.html */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.html; path = lyrics.html; sourceTree = "<group>"; };
+		5D34AC261F151C3A0097D4A1 /* albumDetails.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = albumDetails.json; sourceTree = "<group>"; };
+		5D34AC291F151C3A0097D4A1 /* lyrics.html */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.html; path = lyrics.html; sourceTree = "<group>"; };
+		5D34AC2B1F151C3A0097D4A1 /* lyrics.html */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.html; path = lyrics.html; sourceTree = "<group>"; };
+		5D34AC2D1F151C3A0097D4A1 /* lyrics.html */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.html; path = lyrics.html; sourceTree = "<group>"; };
+		5D34AC2F1F151C3A0097D4A1 /* lyrics.html */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.html; path = lyrics.html; sourceTree = "<group>"; };
+		5D34AC311F151C3A0097D4A1 /* lyrics.html */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.html; path = lyrics.html; sourceTree = "<group>"; };
+		5D34AC331F151C3A0097D4A1 /* lyrics.html */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.html; path = lyrics.html; sourceTree = "<group>"; };
+		5D34AC341F151C3A0097D4A1 /* albumDetails.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = albumDetails.json; sourceTree = "<group>"; };
+		5D34AC371F151C3A0097D4A1 /* lyrics.html */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.html; path = lyrics.html; sourceTree = "<group>"; };
+		5D34AC391F151C3A0097D4A1 /* lyrics.html */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.html; path = lyrics.html; sourceTree = "<group>"; };
+		5D34AC3B1F151C3A0097D4A1 /* lyrics.html */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.html; path = lyrics.html; sourceTree = "<group>"; };
+		5D34AC3D1F151C3A0097D4A1 /* lyrics.html */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.html; path = lyrics.html; sourceTree = "<group>"; };
+		5D34AC3F1F151C3A0097D4A1 /* lyrics.html */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.html; path = lyrics.html; sourceTree = "<group>"; };
+		5D34AC411F151C3A0097D4A1 /* lyrics.html */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.html; path = lyrics.html; sourceTree = "<group>"; };
+		5D34AC431F151C3A0097D4A1 /* lyrics.html */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.html; path = lyrics.html; sourceTree = "<group>"; };
+		5D34AC451F151C3A0097D4A1 /* lyrics.html */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.html; path = lyrics.html; sourceTree = "<group>"; };
+		5D34AC471F151C3A0097D4A1 /* lyrics.html */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.html; path = lyrics.html; sourceTree = "<group>"; };
+		5D34AC491F151C3A0097D4A1 /* lyrics.html */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.html; path = lyrics.html; sourceTree = "<group>"; };
+		5D34AC4B1F151C3A0097D4A1 /* lyrics.html */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.html; path = lyrics.html; sourceTree = "<group>"; };
+		5D34AC4D1F151C3A0097D4A1 /* lyrics.html */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.html; path = lyrics.html; sourceTree = "<group>"; };
+		5D34AC4F1F151C3A0097D4A1 /* lyrics.html */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.html; path = lyrics.html; sourceTree = "<group>"; };
+		5D34AC511F151C3A0097D4A1 /* lyrics.html */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.html; path = lyrics.html; sourceTree = "<group>"; };
+		5D34AC521F151C3A0097D4A1 /* albumDetails.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = albumDetails.json; sourceTree = "<group>"; };
+		5D34AC551F151C3A0097D4A1 /* lyrics.html */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.html; path = lyrics.html; sourceTree = "<group>"; };
+		5D34AC571F151C3A0097D4A1 /* lyrics.html */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.html; path = lyrics.html; sourceTree = "<group>"; };
+		5D34AC591F151C3A0097D4A1 /* lyrics.html */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.html; path = lyrics.html; sourceTree = "<group>"; };
+		5D34AC5B1F151C3A0097D4A1 /* lyrics.html */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.html; path = lyrics.html; sourceTree = "<group>"; };
+		5D34AC5D1F151C3A0097D4A1 /* lyrics.html */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.html; path = lyrics.html; sourceTree = "<group>"; };
+		5D34AC5F1F151C3A0097D4A1 /* lyrics.html */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.html; path = lyrics.html; sourceTree = "<group>"; };
+		5D34AC611F151C3A0097D4A1 /* lyrics.html */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.html; path = lyrics.html; sourceTree = "<group>"; };
+		5D34AC631F151C3A0097D4A1 /* lyrics.html */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.html; path = lyrics.html; sourceTree = "<group>"; };
+		5D34AC651F151C3A0097D4A1 /* lyrics.html */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.html; path = lyrics.html; sourceTree = "<group>"; };
+		5D34AC671F151C3A0097D4A1 /* lyrics.html */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.html; path = lyrics.html; sourceTree = "<group>"; };
+		5D34AC691F151C3A0097D4A1 /* lyrics.html */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.html; path = lyrics.html; sourceTree = "<group>"; };
+		5D34AC6B1F151C3A0097D4A1 /* lyrics.html */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.html; path = lyrics.html; sourceTree = "<group>"; };
+		5D34AC6D1F151C3A0097D4A1 /* lyrics.html */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.html; path = lyrics.html; sourceTree = "<group>"; };
+		5D34AC6F1F151C3A0097D4A1 /* lyrics.html */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.html; path = lyrics.html; sourceTree = "<group>"; };
+		5D34AC711F151C3A0097D4A1 /* lyrics.html */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.html; path = lyrics.html; sourceTree = "<group>"; };
+		5D34AC721F151C3A0097D4A1 /* albumDetails.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = albumDetails.json; sourceTree = "<group>"; };
+		5D34AC731F151C3A0097D4A1 /* albums.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; name = albums.json; path = Tungalahari/Data/albums.json; sourceTree = SOURCE_ROOT; };
+		5D34ACD71F1521F00097D4A1 /* Album.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Album.h; sourceTree = "<group>"; };
+		5D34ACD81F1521F00097D4A1 /* Album.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = Album.m; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		5D34AB851F1509FB0097D4A1 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		5D34AB9E1F1509FB0097D4A1 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		5D34ABA91F1509FB0097D4A1 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		5D34AB7F1F1509FB0097D4A1 = {
+			isa = PBXGroup;
+			children = (
+				5D34AB8A1F1509FB0097D4A1 /* Tungalahari */,
+				5D34ABA41F1509FB0097D4A1 /* TungalahariTests */,
+				5D34ABAF1F1509FB0097D4A1 /* TungalahariUITests */,
+				5D34AB891F1509FB0097D4A1 /* Products */,
+			);
+			sourceTree = "<group>";
+		};
+		5D34AB891F1509FB0097D4A1 /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				5D34AB881F1509FB0097D4A1 /* Tungalahari.app */,
+				5D34ABA11F1509FB0097D4A1 /* TungalahariTests.xctest */,
+				5D34ABAC1F1509FB0097D4A1 /* TungalahariUITests.xctest */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		5D34AB8A1F1509FB0097D4A1 /* Tungalahari */ = {
+			isa = PBXGroup;
+			children = (
+				5D34AB8E1F1509FB0097D4A1 /* AppDelegate.h */,
+				5D34AB8F1F1509FB0097D4A1 /* AppDelegate.m */,
+				5D34ACD71F1521F00097D4A1 /* Album.h */,
+				5D34ACD81F1521F00097D4A1 /* Album.m */,
+				5D34AB911F1509FB0097D4A1 /* MainViewController.h */,
+				5D34AB921F1509FB0097D4A1 /* MainViewController.m */,
+				5D34ABBE1F150A320097D4A1 /* AlbumViewController.h */,
+				5D34ABBF1F150A320097D4A1 /* AlbumViewController.m */,
+				5D34ABC11F150A3D0097D4A1 /* MediaPlayerViewController.h */,
+				5D34ABC21F150A3D0097D4A1 /* MediaPlayerViewController.m */,
+				5D34AB941F1509FB0097D4A1 /* Main.storyboard */,
+				5D34AB971F1509FB0097D4A1 /* Assets.xcassets */,
+				5D34AB991F1509FB0097D4A1 /* LaunchScreen.storyboard */,
+				5D34AB9C1F1509FB0097D4A1 /* Info.plist */,
+				5D34ABC41F151C3A0097D4A1 /* Data */,
+				5D34AB8B1F1509FB0097D4A1 /* Supporting Files */,
+			);
+			path = Tungalahari;
+			sourceTree = "<group>";
+		};
+		5D34AB8B1F1509FB0097D4A1 /* Supporting Files */ = {
+			isa = PBXGroup;
+			children = (
+				5D34AB8C1F1509FB0097D4A1 /* main.m */,
+			);
+			name = "Supporting Files";
+			sourceTree = "<group>";
+		};
+		5D34ABA41F1509FB0097D4A1 /* TungalahariTests */ = {
+			isa = PBXGroup;
+			children = (
+				5D34ABA51F1509FB0097D4A1 /* TungalahariTests.m */,
+				5D34ABA71F1509FB0097D4A1 /* Info.plist */,
+			);
+			path = TungalahariTests;
+			sourceTree = "<group>";
+		};
+		5D34ABAF1F1509FB0097D4A1 /* TungalahariUITests */ = {
+			isa = PBXGroup;
+			children = (
+				5D34ABB01F1509FB0097D4A1 /* TungalahariUITests.m */,
+				5D34ABB21F1509FB0097D4A1 /* Info.plist */,
+			);
+			path = TungalahariUITests;
+			sourceTree = "<group>";
+		};
+		5D34ABC41F151C3A0097D4A1 /* Data */ = {
+			isa = PBXGroup;
+			children = (
+				5D34ABC51F151C3A0097D4A1 /* 001 */,
+				5D34ABD91F151C3A0097D4A1 /* 002 */,
+				5D34ABFB1F151C3A0097D4A1 /* 003 */,
+				5D34AC091F151C3A0097D4A1 /* 004 */,
+				5D34AC191F151C3A0097D4A1 /* 005 */,
+				5D34AC271F151C3A0097D4A1 /* 009 */,
+				5D34AC351F151C3A0097D4A1 /* 010 */,
+				5D34AC531F151C3A0097D4A1 /* 011 */,
+				5D34AC731F151C3A0097D4A1 /* albums.json */,
+			);
+			path = Data;
+			sourceTree = "<group>";
+		};
+		5D34ABC51F151C3A0097D4A1 /* 001 */ = {
+			isa = PBXGroup;
+			children = (
+				5D34ABC61F151C3A0097D4A1 /* 001 */,
+				5D34ABC81F151C3A0097D4A1 /* 002 */,
+				5D34ABCA1F151C3A0097D4A1 /* 003 */,
+				5D34ABCC1F151C3A0097D4A1 /* 004 */,
+				5D34ABCE1F151C3A0097D4A1 /* 005 */,
+				5D34ABD01F151C3A0097D4A1 /* 006 */,
+				5D34ABD21F151C3A0097D4A1 /* 007 */,
+				5D34ABD41F151C3A0097D4A1 /* 008 */,
+				5D34ABD61F151C3A0097D4A1 /* 009 */,
+				5D34ABD81F151C3A0097D4A1 /* albumDetails.json */,
+			);
+			path = 001;
+			sourceTree = "<group>";
+		};
+		5D34ABC61F151C3A0097D4A1 /* 001 */ = {
+			isa = PBXGroup;
+			children = (
+				5D34ABC71F151C3A0097D4A1 /* lyrics.html */,
+			);
+			path = 001;
+			sourceTree = "<group>";
+		};
+		5D34ABC81F151C3A0097D4A1 /* 002 */ = {
+			isa = PBXGroup;
+			children = (
+				5D34ABC91F151C3A0097D4A1 /* lyrics.html */,
+			);
+			path = 002;
+			sourceTree = "<group>";
+		};
+		5D34ABCA1F151C3A0097D4A1 /* 003 */ = {
+			isa = PBXGroup;
+			children = (
+				5D34ABCB1F151C3A0097D4A1 /* lyrics.html */,
+			);
+			path = 003;
+			sourceTree = "<group>";
+		};
+		5D34ABCC1F151C3A0097D4A1 /* 004 */ = {
+			isa = PBXGroup;
+			children = (
+				5D34ABCD1F151C3A0097D4A1 /* lyrics.html */,
+			);
+			path = 004;
+			sourceTree = "<group>";
+		};
+		5D34ABCE1F151C3A0097D4A1 /* 005 */ = {
+			isa = PBXGroup;
+			children = (
+				5D34ABCF1F151C3A0097D4A1 /* lyrics.html */,
+			);
+			path = 005;
+			sourceTree = "<group>";
+		};
+		5D34ABD01F151C3A0097D4A1 /* 006 */ = {
+			isa = PBXGroup;
+			children = (
+				5D34ABD11F151C3A0097D4A1 /* lyrics.html */,
+			);
+			path = 006;
+			sourceTree = "<group>";
+		};
+		5D34ABD21F151C3A0097D4A1 /* 007 */ = {
+			isa = PBXGroup;
+			children = (
+				5D34ABD31F151C3A0097D4A1 /* lyrics.html */,
+			);
+			path = 007;
+			sourceTree = "<group>";
+		};
+		5D34ABD41F151C3A0097D4A1 /* 008 */ = {
+			isa = PBXGroup;
+			children = (
+				5D34ABD51F151C3A0097D4A1 /* lyrics.html */,
+			);
+			path = 008;
+			sourceTree = "<group>";
+		};
+		5D34ABD61F151C3A0097D4A1 /* 009 */ = {
+			isa = PBXGroup;
+			children = (
+				5D34ABD71F151C3A0097D4A1 /* lyrics.html */,
+			);
+			path = 009;
+			sourceTree = "<group>";
+		};
+		5D34ABD91F151C3A0097D4A1 /* 002 */ = {
+			isa = PBXGroup;
+			children = (
+				5D34ABDA1F151C3A0097D4A1 /* 001 */,
+				5D34ABDC1F151C3A0097D4A1 /* 002 */,
+				5D34ABDE1F151C3A0097D4A1 /* 003 */,
+				5D34ABE01F151C3A0097D4A1 /* 004 */,
+				5D34ABE21F151C3A0097D4A1 /* 005 */,
+				5D34ABE41F151C3A0097D4A1 /* 006 */,
+				5D34ABE61F151C3A0097D4A1 /* 007 */,
+				5D34ABE81F151C3A0097D4A1 /* 008 */,
+				5D34ABEA1F151C3A0097D4A1 /* 009 */,
+				5D34ABEC1F151C3A0097D4A1 /* 010 */,
+				5D34ABEE1F151C3A0097D4A1 /* 011 */,
+				5D34ABF01F151C3A0097D4A1 /* 012 */,
+				5D34ABF21F151C3A0097D4A1 /* 013 */,
+				5D34ABF41F151C3A0097D4A1 /* 014 */,
+				5D34ABF61F151C3A0097D4A1 /* 015 */,
+				5D34ABF81F151C3A0097D4A1 /* 016 */,
+				5D34ABFA1F151C3A0097D4A1 /* albumDetails.json */,
+			);
+			path = 002;
+			sourceTree = "<group>";
+		};
+		5D34ABDA1F151C3A0097D4A1 /* 001 */ = {
+			isa = PBXGroup;
+			children = (
+				5D34ABDB1F151C3A0097D4A1 /* lyrics.html */,
+			);
+			path = 001;
+			sourceTree = "<group>";
+		};
+		5D34ABDC1F151C3A0097D4A1 /* 002 */ = {
+			isa = PBXGroup;
+			children = (
+				5D34ABDD1F151C3A0097D4A1 /* lyrics.html */,
+			);
+			path = 002;
+			sourceTree = "<group>";
+		};
+		5D34ABDE1F151C3A0097D4A1 /* 003 */ = {
+			isa = PBXGroup;
+			children = (
+				5D34ABDF1F151C3A0097D4A1 /* lyrics.html */,
+			);
+			path = 003;
+			sourceTree = "<group>";
+		};
+		5D34ABE01F151C3A0097D4A1 /* 004 */ = {
+			isa = PBXGroup;
+			children = (
+				5D34ABE11F151C3A0097D4A1 /* lyrics.html */,
+			);
+			path = 004;
+			sourceTree = "<group>";
+		};
+		5D34ABE21F151C3A0097D4A1 /* 005 */ = {
+			isa = PBXGroup;
+			children = (
+				5D34ABE31F151C3A0097D4A1 /* lyrics.html */,
+			);
+			path = 005;
+			sourceTree = "<group>";
+		};
+		5D34ABE41F151C3A0097D4A1 /* 006 */ = {
+			isa = PBXGroup;
+			children = (
+				5D34ABE51F151C3A0097D4A1 /* lyrics.html */,
+			);
+			path = 006;
+			sourceTree = "<group>";
+		};
+		5D34ABE61F151C3A0097D4A1 /* 007 */ = {
+			isa = PBXGroup;
+			children = (
+				5D34ABE71F151C3A0097D4A1 /* lyrics.html */,
+			);
+			path = 007;
+			sourceTree = "<group>";
+		};
+		5D34ABE81F151C3A0097D4A1 /* 008 */ = {
+			isa = PBXGroup;
+			children = (
+				5D34ABE91F151C3A0097D4A1 /* lyrics.html */,
+			);
+			path = 008;
+			sourceTree = "<group>";
+		};
+		5D34ABEA1F151C3A0097D4A1 /* 009 */ = {
+			isa = PBXGroup;
+			children = (
+				5D34ABEB1F151C3A0097D4A1 /* lyrics.html */,
+			);
+			path = 009;
+			sourceTree = "<group>";
+		};
+		5D34ABEC1F151C3A0097D4A1 /* 010 */ = {
+			isa = PBXGroup;
+			children = (
+				5D34ABED1F151C3A0097D4A1 /* lyrics.html */,
+			);
+			path = 010;
+			sourceTree = "<group>";
+		};
+		5D34ABEE1F151C3A0097D4A1 /* 011 */ = {
+			isa = PBXGroup;
+			children = (
+				5D34ABEF1F151C3A0097D4A1 /* lyrics.html */,
+			);
+			path = 011;
+			sourceTree = "<group>";
+		};
+		5D34ABF01F151C3A0097D4A1 /* 012 */ = {
+			isa = PBXGroup;
+			children = (
+				5D34ABF11F151C3A0097D4A1 /* lyrics.html */,
+			);
+			path = 012;
+			sourceTree = "<group>";
+		};
+		5D34ABF21F151C3A0097D4A1 /* 013 */ = {
+			isa = PBXGroup;
+			children = (
+				5D34ABF31F151C3A0097D4A1 /* lyrics.html */,
+			);
+			path = 013;
+			sourceTree = "<group>";
+		};
+		5D34ABF41F151C3A0097D4A1 /* 014 */ = {
+			isa = PBXGroup;
+			children = (
+				5D34ABF51F151C3A0097D4A1 /* lyrics.html */,
+			);
+			path = 014;
+			sourceTree = "<group>";
+		};
+		5D34ABF61F151C3A0097D4A1 /* 015 */ = {
+			isa = PBXGroup;
+			children = (
+				5D34ABF71F151C3A0097D4A1 /* lyrics.html */,
+			);
+			path = 015;
+			sourceTree = "<group>";
+		};
+		5D34ABF81F151C3A0097D4A1 /* 016 */ = {
+			isa = PBXGroup;
+			children = (
+				5D34ABF91F151C3A0097D4A1 /* lyrics.html */,
+			);
+			path = 016;
+			sourceTree = "<group>";
+		};
+		5D34ABFB1F151C3A0097D4A1 /* 003 */ = {
+			isa = PBXGroup;
+			children = (
+				5D34ABFC1F151C3A0097D4A1 /* 001 */,
+				5D34ABFE1F151C3A0097D4A1 /* 002 */,
+				5D34AC001F151C3A0097D4A1 /* 003 */,
+				5D34AC021F151C3A0097D4A1 /* 004 */,
+				5D34AC041F151C3A0097D4A1 /* 005 */,
+				5D34AC061F151C3A0097D4A1 /* 006 */,
+				5D34AC081F151C3A0097D4A1 /* albumDetails.json */,
+			);
+			path = 003;
+			sourceTree = "<group>";
+		};
+		5D34ABFC1F151C3A0097D4A1 /* 001 */ = {
+			isa = PBXGroup;
+			children = (
+				5D34ABFD1F151C3A0097D4A1 /* lyrics.html */,
+			);
+			path = 001;
+			sourceTree = "<group>";
+		};
+		5D34ABFE1F151C3A0097D4A1 /* 002 */ = {
+			isa = PBXGroup;
+			children = (
+				5D34ABFF1F151C3A0097D4A1 /* lyrics.html */,
+			);
+			path = 002;
+			sourceTree = "<group>";
+		};
+		5D34AC001F151C3A0097D4A1 /* 003 */ = {
+			isa = PBXGroup;
+			children = (
+				5D34AC011F151C3A0097D4A1 /* lyrics.html */,
+			);
+			path = 003;
+			sourceTree = "<group>";
+		};
+		5D34AC021F151C3A0097D4A1 /* 004 */ = {
+			isa = PBXGroup;
+			children = (
+				5D34AC031F151C3A0097D4A1 /* lyrics.html */,
+			);
+			path = 004;
+			sourceTree = "<group>";
+		};
+		5D34AC041F151C3A0097D4A1 /* 005 */ = {
+			isa = PBXGroup;
+			children = (
+				5D34AC051F151C3A0097D4A1 /* lyrics.html */,
+			);
+			path = 005;
+			sourceTree = "<group>";
+		};
+		5D34AC061F151C3A0097D4A1 /* 006 */ = {
+			isa = PBXGroup;
+			children = (
+				5D34AC071F151C3A0097D4A1 /* lyrics.html */,
+			);
+			path = 006;
+			sourceTree = "<group>";
+		};
+		5D34AC091F151C3A0097D4A1 /* 004 */ = {
+			isa = PBXGroup;
+			children = (
+				5D34AC0A1F151C3A0097D4A1 /* 001 */,
+				5D34AC0C1F151C3A0097D4A1 /* 002 */,
+				5D34AC0E1F151C3A0097D4A1 /* 003 */,
+				5D34AC101F151C3A0097D4A1 /* 004 */,
+				5D34AC121F151C3A0097D4A1 /* 005 */,
+				5D34AC141F151C3A0097D4A1 /* 006 */,
+				5D34AC161F151C3A0097D4A1 /* 007 */,
+				5D34AC181F151C3A0097D4A1 /* albumDetails.json */,
+			);
+			path = 004;
+			sourceTree = "<group>";
+		};
+		5D34AC0A1F151C3A0097D4A1 /* 001 */ = {
+			isa = PBXGroup;
+			children = (
+				5D34AC0B1F151C3A0097D4A1 /* lyrics.html */,
+			);
+			path = 001;
+			sourceTree = "<group>";
+		};
+		5D34AC0C1F151C3A0097D4A1 /* 002 */ = {
+			isa = PBXGroup;
+			children = (
+				5D34AC0D1F151C3A0097D4A1 /* lyrics.html */,
+			);
+			path = 002;
+			sourceTree = "<group>";
+		};
+		5D34AC0E1F151C3A0097D4A1 /* 003 */ = {
+			isa = PBXGroup;
+			children = (
+				5D34AC0F1F151C3A0097D4A1 /* lyrics.html */,
+			);
+			path = 003;
+			sourceTree = "<group>";
+		};
+		5D34AC101F151C3A0097D4A1 /* 004 */ = {
+			isa = PBXGroup;
+			children = (
+				5D34AC111F151C3A0097D4A1 /* lyrics.html */,
+			);
+			path = 004;
+			sourceTree = "<group>";
+		};
+		5D34AC121F151C3A0097D4A1 /* 005 */ = {
+			isa = PBXGroup;
+			children = (
+				5D34AC131F151C3A0097D4A1 /* lyrics.html */,
+			);
+			path = 005;
+			sourceTree = "<group>";
+		};
+		5D34AC141F151C3A0097D4A1 /* 006 */ = {
+			isa = PBXGroup;
+			children = (
+				5D34AC151F151C3A0097D4A1 /* lyrics.html */,
+			);
+			path = 006;
+			sourceTree = "<group>";
+		};
+		5D34AC161F151C3A0097D4A1 /* 007 */ = {
+			isa = PBXGroup;
+			children = (
+				5D34AC171F151C3A0097D4A1 /* lyrics.html */,
+			);
+			path = 007;
+			sourceTree = "<group>";
+		};
+		5D34AC191F151C3A0097D4A1 /* 005 */ = {
+			isa = PBXGroup;
+			children = (
+				5D34AC1A1F151C3A0097D4A1 /* 001 */,
+				5D34AC1C1F151C3A0097D4A1 /* 002 */,
+				5D34AC1E1F151C3A0097D4A1 /* 003 */,
+				5D34AC201F151C3A0097D4A1 /* 004 */,
+				5D34AC221F151C3A0097D4A1 /* 005 */,
+				5D34AC241F151C3A0097D4A1 /* 006 */,
+				5D34AC261F151C3A0097D4A1 /* albumDetails.json */,
+			);
+			path = 005;
+			sourceTree = "<group>";
+		};
+		5D34AC1A1F151C3A0097D4A1 /* 001 */ = {
+			isa = PBXGroup;
+			children = (
+				5D34AC1B1F151C3A0097D4A1 /* lyrics.html */,
+			);
+			path = 001;
+			sourceTree = "<group>";
+		};
+		5D34AC1C1F151C3A0097D4A1 /* 002 */ = {
+			isa = PBXGroup;
+			children = (
+				5D34AC1D1F151C3A0097D4A1 /* lyrics.html */,
+			);
+			path = 002;
+			sourceTree = "<group>";
+		};
+		5D34AC1E1F151C3A0097D4A1 /* 003 */ = {
+			isa = PBXGroup;
+			children = (
+				5D34AC1F1F151C3A0097D4A1 /* lyrics.html */,
+			);
+			path = 003;
+			sourceTree = "<group>";
+		};
+		5D34AC201F151C3A0097D4A1 /* 004 */ = {
+			isa = PBXGroup;
+			children = (
+				5D34AC211F151C3A0097D4A1 /* lyrics.html */,
+			);
+			path = 004;
+			sourceTree = "<group>";
+		};
+		5D34AC221F151C3A0097D4A1 /* 005 */ = {
+			isa = PBXGroup;
+			children = (
+				5D34AC231F151C3A0097D4A1 /* lyrics.html */,
+			);
+			path = 005;
+			sourceTree = "<group>";
+		};
+		5D34AC241F151C3A0097D4A1 /* 006 */ = {
+			isa = PBXGroup;
+			children = (
+				5D34AC251F151C3A0097D4A1 /* lyrics.html */,
+			);
+			path = 006;
+			sourceTree = "<group>";
+		};
+		5D34AC271F151C3A0097D4A1 /* 009 */ = {
+			isa = PBXGroup;
+			children = (
+				5D34AC281F151C3A0097D4A1 /* 001 */,
+				5D34AC2A1F151C3A0097D4A1 /* 002 */,
+				5D34AC2C1F151C3A0097D4A1 /* 003 */,
+				5D34AC2E1F151C3A0097D4A1 /* 004 */,
+				5D34AC301F151C3A0097D4A1 /* 005 */,
+				5D34AC321F151C3A0097D4A1 /* 006 */,
+				5D34AC341F151C3A0097D4A1 /* albumDetails.json */,
+			);
+			path = 009;
+			sourceTree = "<group>";
+		};
+		5D34AC281F151C3A0097D4A1 /* 001 */ = {
+			isa = PBXGroup;
+			children = (
+				5D34AC291F151C3A0097D4A1 /* lyrics.html */,
+			);
+			path = 001;
+			sourceTree = "<group>";
+		};
+		5D34AC2A1F151C3A0097D4A1 /* 002 */ = {
+			isa = PBXGroup;
+			children = (
+				5D34AC2B1F151C3A0097D4A1 /* lyrics.html */,
+			);
+			path = 002;
+			sourceTree = "<group>";
+		};
+		5D34AC2C1F151C3A0097D4A1 /* 003 */ = {
+			isa = PBXGroup;
+			children = (
+				5D34AC2D1F151C3A0097D4A1 /* lyrics.html */,
+			);
+			path = 003;
+			sourceTree = "<group>";
+		};
+		5D34AC2E1F151C3A0097D4A1 /* 004 */ = {
+			isa = PBXGroup;
+			children = (
+				5D34AC2F1F151C3A0097D4A1 /* lyrics.html */,
+			);
+			path = 004;
+			sourceTree = "<group>";
+		};
+		5D34AC301F151C3A0097D4A1 /* 005 */ = {
+			isa = PBXGroup;
+			children = (
+				5D34AC311F151C3A0097D4A1 /* lyrics.html */,
+			);
+			path = 005;
+			sourceTree = "<group>";
+		};
+		5D34AC321F151C3A0097D4A1 /* 006 */ = {
+			isa = PBXGroup;
+			children = (
+				5D34AC331F151C3A0097D4A1 /* lyrics.html */,
+			);
+			path = 006;
+			sourceTree = "<group>";
+		};
+		5D34AC351F151C3A0097D4A1 /* 010 */ = {
+			isa = PBXGroup;
+			children = (
+				5D34AC361F151C3A0097D4A1 /* 001 */,
+				5D34AC381F151C3A0097D4A1 /* 002 */,
+				5D34AC3A1F151C3A0097D4A1 /* 003 */,
+				5D34AC3C1F151C3A0097D4A1 /* 004 */,
+				5D34AC3E1F151C3A0097D4A1 /* 005 */,
+				5D34AC401F151C3A0097D4A1 /* 006 */,
+				5D34AC421F151C3A0097D4A1 /* 007 */,
+				5D34AC441F151C3A0097D4A1 /* 008 */,
+				5D34AC461F151C3A0097D4A1 /* 009 */,
+				5D34AC481F151C3A0097D4A1 /* 010 */,
+				5D34AC4A1F151C3A0097D4A1 /* 011 */,
+				5D34AC4C1F151C3A0097D4A1 /* 012 */,
+				5D34AC4E1F151C3A0097D4A1 /* 013 */,
+				5D34AC501F151C3A0097D4A1 /* 014 */,
+				5D34AC521F151C3A0097D4A1 /* albumDetails.json */,
+			);
+			path = 010;
+			sourceTree = "<group>";
+		};
+		5D34AC361F151C3A0097D4A1 /* 001 */ = {
+			isa = PBXGroup;
+			children = (
+				5D34AC371F151C3A0097D4A1 /* lyrics.html */,
+			);
+			path = 001;
+			sourceTree = "<group>";
+		};
+		5D34AC381F151C3A0097D4A1 /* 002 */ = {
+			isa = PBXGroup;
+			children = (
+				5D34AC391F151C3A0097D4A1 /* lyrics.html */,
+			);
+			path = 002;
+			sourceTree = "<group>";
+		};
+		5D34AC3A1F151C3A0097D4A1 /* 003 */ = {
+			isa = PBXGroup;
+			children = (
+				5D34AC3B1F151C3A0097D4A1 /* lyrics.html */,
+			);
+			path = 003;
+			sourceTree = "<group>";
+		};
+		5D34AC3C1F151C3A0097D4A1 /* 004 */ = {
+			isa = PBXGroup;
+			children = (
+				5D34AC3D1F151C3A0097D4A1 /* lyrics.html */,
+			);
+			path = 004;
+			sourceTree = "<group>";
+		};
+		5D34AC3E1F151C3A0097D4A1 /* 005 */ = {
+			isa = PBXGroup;
+			children = (
+				5D34AC3F1F151C3A0097D4A1 /* lyrics.html */,
+			);
+			path = 005;
+			sourceTree = "<group>";
+		};
+		5D34AC401F151C3A0097D4A1 /* 006 */ = {
+			isa = PBXGroup;
+			children = (
+				5D34AC411F151C3A0097D4A1 /* lyrics.html */,
+			);
+			path = 006;
+			sourceTree = "<group>";
+		};
+		5D34AC421F151C3A0097D4A1 /* 007 */ = {
+			isa = PBXGroup;
+			children = (
+				5D34AC431F151C3A0097D4A1 /* lyrics.html */,
+			);
+			path = 007;
+			sourceTree = "<group>";
+		};
+		5D34AC441F151C3A0097D4A1 /* 008 */ = {
+			isa = PBXGroup;
+			children = (
+				5D34AC451F151C3A0097D4A1 /* lyrics.html */,
+			);
+			path = 008;
+			sourceTree = "<group>";
+		};
+		5D34AC461F151C3A0097D4A1 /* 009 */ = {
+			isa = PBXGroup;
+			children = (
+				5D34AC471F151C3A0097D4A1 /* lyrics.html */,
+			);
+			path = 009;
+			sourceTree = "<group>";
+		};
+		5D34AC481F151C3A0097D4A1 /* 010 */ = {
+			isa = PBXGroup;
+			children = (
+				5D34AC491F151C3A0097D4A1 /* lyrics.html */,
+			);
+			path = 010;
+			sourceTree = "<group>";
+		};
+		5D34AC4A1F151C3A0097D4A1 /* 011 */ = {
+			isa = PBXGroup;
+			children = (
+				5D34AC4B1F151C3A0097D4A1 /* lyrics.html */,
+			);
+			path = 011;
+			sourceTree = "<group>";
+		};
+		5D34AC4C1F151C3A0097D4A1 /* 012 */ = {
+			isa = PBXGroup;
+			children = (
+				5D34AC4D1F151C3A0097D4A1 /* lyrics.html */,
+			);
+			path = 012;
+			sourceTree = "<group>";
+		};
+		5D34AC4E1F151C3A0097D4A1 /* 013 */ = {
+			isa = PBXGroup;
+			children = (
+				5D34AC4F1F151C3A0097D4A1 /* lyrics.html */,
+			);
+			path = 013;
+			sourceTree = "<group>";
+		};
+		5D34AC501F151C3A0097D4A1 /* 014 */ = {
+			isa = PBXGroup;
+			children = (
+				5D34AC511F151C3A0097D4A1 /* lyrics.html */,
+			);
+			path = 014;
+			sourceTree = "<group>";
+		};
+		5D34AC531F151C3A0097D4A1 /* 011 */ = {
+			isa = PBXGroup;
+			children = (
+				5D34AC541F151C3A0097D4A1 /* 001 */,
+				5D34AC561F151C3A0097D4A1 /* 002 */,
+				5D34AC581F151C3A0097D4A1 /* 003 */,
+				5D34AC5A1F151C3A0097D4A1 /* 004 */,
+				5D34AC5C1F151C3A0097D4A1 /* 005 */,
+				5D34AC5E1F151C3A0097D4A1 /* 006 */,
+				5D34AC601F151C3A0097D4A1 /* 007 */,
+				5D34AC621F151C3A0097D4A1 /* 008 */,
+				5D34AC641F151C3A0097D4A1 /* 009 */,
+				5D34AC661F151C3A0097D4A1 /* 010 */,
+				5D34AC681F151C3A0097D4A1 /* 011 */,
+				5D34AC6A1F151C3A0097D4A1 /* 012 */,
+				5D34AC6C1F151C3A0097D4A1 /* 013 */,
+				5D34AC6E1F151C3A0097D4A1 /* 014 */,
+				5D34AC701F151C3A0097D4A1 /* 015 */,
+				5D34AC721F151C3A0097D4A1 /* albumDetails.json */,
+			);
+			path = 011;
+			sourceTree = "<group>";
+		};
+		5D34AC541F151C3A0097D4A1 /* 001 */ = {
+			isa = PBXGroup;
+			children = (
+				5D34AC551F151C3A0097D4A1 /* lyrics.html */,
+			);
+			path = 001;
+			sourceTree = "<group>";
+		};
+		5D34AC561F151C3A0097D4A1 /* 002 */ = {
+			isa = PBXGroup;
+			children = (
+				5D34AC571F151C3A0097D4A1 /* lyrics.html */,
+			);
+			path = 002;
+			sourceTree = "<group>";
+		};
+		5D34AC581F151C3A0097D4A1 /* 003 */ = {
+			isa = PBXGroup;
+			children = (
+				5D34AC591F151C3A0097D4A1 /* lyrics.html */,
+			);
+			path = 003;
+			sourceTree = "<group>";
+		};
+		5D34AC5A1F151C3A0097D4A1 /* 004 */ = {
+			isa = PBXGroup;
+			children = (
+				5D34AC5B1F151C3A0097D4A1 /* lyrics.html */,
+			);
+			path = 004;
+			sourceTree = "<group>";
+		};
+		5D34AC5C1F151C3A0097D4A1 /* 005 */ = {
+			isa = PBXGroup;
+			children = (
+				5D34AC5D1F151C3A0097D4A1 /* lyrics.html */,
+			);
+			path = 005;
+			sourceTree = "<group>";
+		};
+		5D34AC5E1F151C3A0097D4A1 /* 006 */ = {
+			isa = PBXGroup;
+			children = (
+				5D34AC5F1F151C3A0097D4A1 /* lyrics.html */,
+			);
+			path = 006;
+			sourceTree = "<group>";
+		};
+		5D34AC601F151C3A0097D4A1 /* 007 */ = {
+			isa = PBXGroup;
+			children = (
+				5D34AC611F151C3A0097D4A1 /* lyrics.html */,
+			);
+			path = 007;
+			sourceTree = "<group>";
+		};
+		5D34AC621F151C3A0097D4A1 /* 008 */ = {
+			isa = PBXGroup;
+			children = (
+				5D34AC631F151C3A0097D4A1 /* lyrics.html */,
+			);
+			path = 008;
+			sourceTree = "<group>";
+		};
+		5D34AC641F151C3A0097D4A1 /* 009 */ = {
+			isa = PBXGroup;
+			children = (
+				5D34AC651F151C3A0097D4A1 /* lyrics.html */,
+			);
+			path = 009;
+			sourceTree = "<group>";
+		};
+		5D34AC661F151C3A0097D4A1 /* 010 */ = {
+			isa = PBXGroup;
+			children = (
+				5D34AC671F151C3A0097D4A1 /* lyrics.html */,
+			);
+			path = 010;
+			sourceTree = "<group>";
+		};
+		5D34AC681F151C3A0097D4A1 /* 011 */ = {
+			isa = PBXGroup;
+			children = (
+				5D34AC691F151C3A0097D4A1 /* lyrics.html */,
+			);
+			path = 011;
+			sourceTree = "<group>";
+		};
+		5D34AC6A1F151C3A0097D4A1 /* 012 */ = {
+			isa = PBXGroup;
+			children = (
+				5D34AC6B1F151C3A0097D4A1 /* lyrics.html */,
+			);
+			path = 012;
+			sourceTree = "<group>";
+		};
+		5D34AC6C1F151C3A0097D4A1 /* 013 */ = {
+			isa = PBXGroup;
+			children = (
+				5D34AC6D1F151C3A0097D4A1 /* lyrics.html */,
+			);
+			path = 013;
+			sourceTree = "<group>";
+		};
+		5D34AC6E1F151C3A0097D4A1 /* 014 */ = {
+			isa = PBXGroup;
+			children = (
+				5D34AC6F1F151C3A0097D4A1 /* lyrics.html */,
+			);
+			path = 014;
+			sourceTree = "<group>";
+		};
+		5D34AC701F151C3A0097D4A1 /* 015 */ = {
+			isa = PBXGroup;
+			children = (
+				5D34AC711F151C3A0097D4A1 /* lyrics.html */,
+			);
+			path = 015;
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		5D34AB871F1509FB0097D4A1 /* Tungalahari */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 5D34ABB51F1509FB0097D4A1 /* Build configuration list for PBXNativeTarget "Tungalahari" */;
+			buildPhases = (
+				5D34AB841F1509FB0097D4A1 /* Sources */,
+				5D34AB851F1509FB0097D4A1 /* Frameworks */,
+				5D34AB861F1509FB0097D4A1 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = Tungalahari;
+			productName = Tungalahari;
+			productReference = 5D34AB881F1509FB0097D4A1 /* Tungalahari.app */;
+			productType = "com.apple.product-type.application";
+		};
+		5D34ABA01F1509FB0097D4A1 /* TungalahariTests */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 5D34ABB81F1509FB0097D4A1 /* Build configuration list for PBXNativeTarget "TungalahariTests" */;
+			buildPhases = (
+				5D34AB9D1F1509FB0097D4A1 /* Sources */,
+				5D34AB9E1F1509FB0097D4A1 /* Frameworks */,
+				5D34AB9F1F1509FB0097D4A1 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+				5D34ABA31F1509FB0097D4A1 /* PBXTargetDependency */,
+			);
+			name = TungalahariTests;
+			productName = TungalahariTests;
+			productReference = 5D34ABA11F1509FB0097D4A1 /* TungalahariTests.xctest */;
+			productType = "com.apple.product-type.bundle.unit-test";
+		};
+		5D34ABAB1F1509FB0097D4A1 /* TungalahariUITests */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 5D34ABBB1F1509FB0097D4A1 /* Build configuration list for PBXNativeTarget "TungalahariUITests" */;
+			buildPhases = (
+				5D34ABA81F1509FB0097D4A1 /* Sources */,
+				5D34ABA91F1509FB0097D4A1 /* Frameworks */,
+				5D34ABAA1F1509FB0097D4A1 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+				5D34ABAE1F1509FB0097D4A1 /* PBXTargetDependency */,
+			);
+			name = TungalahariUITests;
+			productName = TungalahariUITests;
+			productReference = 5D34ABAC1F1509FB0097D4A1 /* TungalahariUITests.xctest */;
+			productType = "com.apple.product-type.bundle.ui-testing";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		5D34AB801F1509FB0097D4A1 /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				LastUpgradeCheck = 0830;
+				ORGANIZATIONNAME = srirangadigital;
+				TargetAttributes = {
+					5D34AB871F1509FB0097D4A1 = {
+						CreatedOnToolsVersion = 8.3.3;
+						DevelopmentTeam = L8JSCA8WK4;
+						ProvisioningStyle = Automatic;
+					};
+					5D34ABA01F1509FB0097D4A1 = {
+						CreatedOnToolsVersion = 8.3.3;
+						DevelopmentTeam = L8JSCA8WK4;
+						ProvisioningStyle = Automatic;
+						TestTargetID = 5D34AB871F1509FB0097D4A1;
+					};
+					5D34ABAB1F1509FB0097D4A1 = {
+						CreatedOnToolsVersion = 8.3.3;
+						DevelopmentTeam = L8JSCA8WK4;
+						ProvisioningStyle = Automatic;
+						TestTargetID = 5D34AB871F1509FB0097D4A1;
+					};
+				};
+			};
+			buildConfigurationList = 5D34AB831F1509FB0097D4A1 /* Build configuration list for PBXProject "Tungalahari" */;
+			compatibilityVersion = "Xcode 3.2";
+			developmentRegion = English;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+				Base,
+			);
+			mainGroup = 5D34AB7F1F1509FB0097D4A1;
+			productRefGroup = 5D34AB891F1509FB0097D4A1 /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				5D34AB871F1509FB0097D4A1 /* Tungalahari */,
+				5D34ABA01F1509FB0097D4A1 /* TungalahariTests */,
+				5D34ABAB1F1509FB0097D4A1 /* TungalahariUITests */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXResourcesBuildPhase section */
+		5D34AB861F1509FB0097D4A1 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				5D34ACC21F151C3A0097D4A1 /* lyrics.html in Resources */,
+				5D34ACB21F151C3A0097D4A1 /* lyrics.html in Resources */,
+				5D34ACAB1F151C3A0097D4A1 /* albumDetails.json in Resources */,
+				5D34ACB31F151C3A0097D4A1 /* lyrics.html in Resources */,
+				5D34AC9C1F151C3A0097D4A1 /* lyrics.html in Resources */,
+				5D34ACA11F151C3A0097D4A1 /* lyrics.html in Resources */,
+				5D34ACA21F151C3A0097D4A1 /* lyrics.html in Resources */,
+				5D34ACB01F151C3A0097D4A1 /* lyrics.html in Resources */,
+				5D34AC991F151C3A0097D4A1 /* lyrics.html in Resources */,
+				5D34AC911F151C3A0097D4A1 /* lyrics.html in Resources */,
+				5D34AC861F151C3A0097D4A1 /* lyrics.html in Resources */,
+				5D34ACBA1F151C3A0097D4A1 /* albumDetails.json in Resources */,
+				5D34AC9E1F151C3A0097D4A1 /* lyrics.html in Resources */,
+				5D34AC7C1F151C3A0097D4A1 /* lyrics.html in Resources */,
+				5D34ACB81F151C3A0097D4A1 /* lyrics.html in Resources */,
+				5D34ACAD1F151C3A0097D4A1 /* lyrics.html in Resources */,
+				5D34AC971F151C3A0097D4A1 /* lyrics.html in Resources */,
+				5D34ACBC1F151C3A0097D4A1 /* lyrics.html in Resources */,
+				5D34AC891F151C3A0097D4A1 /* lyrics.html in Resources */,
+				5D34AC8B1F151C3A0097D4A1 /* lyrics.html in Resources */,
+				5D34ACAC1F151C3A0097D4A1 /* lyrics.html in Resources */,
+				5D34AC901F151C3A0097D4A1 /* lyrics.html in Resources */,
+				5D34AC7B1F151C3A0097D4A1 /* lyrics.html in Resources */,
+				5D34ACBD1F151C3A0097D4A1 /* lyrics.html in Resources */,
+				5D34AC761F151C3A0097D4A1 /* lyrics.html in Resources */,
+				5D34AC871F151C3A0097D4A1 /* lyrics.html in Resources */,
+				5D34ACB71F151C3A0097D4A1 /* lyrics.html in Resources */,
+				5D34ACA31F151C3A0097D4A1 /* lyrics.html in Resources */,
+				5D34ACB61F151C3A0097D4A1 /* lyrics.html in Resources */,
+				5D34AC771F151C3A0097D4A1 /* lyrics.html in Resources */,
+				5D34ACBB1F151C3A0097D4A1 /* lyrics.html in Resources */,
+				5D34AC951F151C3A0097D4A1 /* albumDetails.json in Resources */,
+				5D34ACC51F151C3A0097D4A1 /* lyrics.html in Resources */,
+				5D34ACBF1F151C3A0097D4A1 /* lyrics.html in Resources */,
+				5D34AC981F151C3A0097D4A1 /* lyrics.html in Resources */,
+				5D34AC9F1F151C3A0097D4A1 /* lyrics.html in Resources */,
+				5D34ACA41F151C3A0097D4A1 /* albumDetails.json in Resources */,
+				5D34ACC41F151C3A0097D4A1 /* lyrics.html in Resources */,
+				5D34ACC61F151C3A0097D4A1 /* lyrics.html in Resources */,
+				5D34ACB51F151C3A0097D4A1 /* lyrics.html in Resources */,
+				5D34AC8C1F151C3A0097D4A1 /* lyrics.html in Resources */,
+				5D34ACA71F151C3A0097D4A1 /* lyrics.html in Resources */,
+				5D34ACCA1F151C3A0097D4A1 /* albumDetails.json in Resources */,
+				5D34AC801F151C3A0097D4A1 /* lyrics.html in Resources */,
+				5D34AC941F151C3A0097D4A1 /* lyrics.html in Resources */,
+				5D34ACC81F151C3A0097D4A1 /* lyrics.html in Resources */,
+				5D34AC7A1F151C3A0097D4A1 /* lyrics.html in Resources */,
+				5D34ACB41F151C3A0097D4A1 /* lyrics.html in Resources */,
+				5D34AC8D1F151C3A0097D4A1 /* lyrics.html in Resources */,
+				5D34ACBE1F151C3A0097D4A1 /* lyrics.html in Resources */,
+				5D34AC961F151C3A0097D4A1 /* lyrics.html in Resources */,
+				5D34AC8E1F151C3A0097D4A1 /* albumDetails.json in Resources */,
+				5D34AC741F151C3A0097D4A1 /* lyrics.html in Resources */,
+				5D34AC791F151C3A0097D4A1 /* lyrics.html in Resources */,
+				5D34ACA61F151C3A0097D4A1 /* lyrics.html in Resources */,
+				5D34AC8F1F151C3A0097D4A1 /* lyrics.html in Resources */,
+				5D34ACC91F151C3A0097D4A1 /* lyrics.html in Resources */,
+				5D34AC7D1F151C3A0097D4A1 /* albumDetails.json in Resources */,
+				5D34AC7E1F151C3A0097D4A1 /* lyrics.html in Resources */,
+				5D34ACC01F151C3A0097D4A1 /* lyrics.html in Resources */,
+				5D34AC881F151C3A0097D4A1 /* lyrics.html in Resources */,
+				5D34ACA81F151C3A0097D4A1 /* lyrics.html in Resources */,
+				5D34AB9B1F1509FB0097D4A1 /* LaunchScreen.storyboard in Resources */,
+				5D34ACB11F151C3A0097D4A1 /* lyrics.html in Resources */,
+				5D34ACC11F151C3A0097D4A1 /* lyrics.html in Resources */,
+				5D34AC931F151C3A0097D4A1 /* lyrics.html in Resources */,
+				5D34AC781F151C3A0097D4A1 /* lyrics.html in Resources */,
+				5D34ACAA1F151C3A0097D4A1 /* lyrics.html in Resources */,
+				5D34ACB91F151C3A0097D4A1 /* lyrics.html in Resources */,
+				5D34AC8A1F151C3A0097D4A1 /* lyrics.html in Resources */,
+				5D34AC841F151C3A0097D4A1 /* lyrics.html in Resources */,
+				5D34ACAE1F151C3A0097D4A1 /* lyrics.html in Resources */,
+				5D34ACC71F151C3A0097D4A1 /* lyrics.html in Resources */,
+				5D34ACCB1F151C3A0097D4A1 /* albums.json in Resources */,
+				5D34AC821F151C3A0097D4A1 /* lyrics.html in Resources */,
+				5D34ACA01F151C3A0097D4A1 /* lyrics.html in Resources */,
+				5D34AC751F151C3A0097D4A1 /* lyrics.html in Resources */,
+				5D34AC851F151C3A0097D4A1 /* lyrics.html in Resources */,
+				5D34AC7F1F151C3A0097D4A1 /* lyrics.html in Resources */,
+				5D34ACA51F151C3A0097D4A1 /* lyrics.html in Resources */,
+				5D34AC9A1F151C3A0097D4A1 /* lyrics.html in Resources */,
+				5D34AB981F1509FB0097D4A1 /* Assets.xcassets in Resources */,
+				5D34AC9B1F151C3A0097D4A1 /* lyrics.html in Resources */,
+				5D34AC831F151C3A0097D4A1 /* lyrics.html in Resources */,
+				5D34ACAF1F151C3A0097D4A1 /* lyrics.html in Resources */,
+				5D34AC811F151C3A0097D4A1 /* lyrics.html in Resources */,
+				5D34AC9D1F151C3A0097D4A1 /* albumDetails.json in Resources */,
+				5D34ACA91F151C3A0097D4A1 /* lyrics.html in Resources */,
+				5D34AC921F151C3A0097D4A1 /* lyrics.html in Resources */,
+				5D34AB961F1509FB0097D4A1 /* Main.storyboard in Resources */,
+				5D34ACC31F151C3A0097D4A1 /* lyrics.html in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		5D34AB9F1F1509FB0097D4A1 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		5D34ABAA1F1509FB0097D4A1 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+		5D34AB841F1509FB0097D4A1 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				5D34ABC01F150A320097D4A1 /* AlbumViewController.m in Sources */,
+				5D34AB931F1509FB0097D4A1 /* MainViewController.m in Sources */,
+				5D34AB901F1509FB0097D4A1 /* AppDelegate.m in Sources */,
+				5D34ACD91F1521F00097D4A1 /* Album.m in Sources */,
+				5D34AB8D1F1509FB0097D4A1 /* main.m in Sources */,
+				5D34ABC31F150A3D0097D4A1 /* MediaPlayerViewController.m in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		5D34AB9D1F1509FB0097D4A1 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				5D34ABA61F1509FB0097D4A1 /* TungalahariTests.m in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		5D34ABA81F1509FB0097D4A1 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				5D34ABB11F1509FB0097D4A1 /* TungalahariUITests.m in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin PBXTargetDependency section */
+		5D34ABA31F1509FB0097D4A1 /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			target = 5D34AB871F1509FB0097D4A1 /* Tungalahari */;
+			targetProxy = 5D34ABA21F1509FB0097D4A1 /* PBXContainerItemProxy */;
+		};
+		5D34ABAE1F1509FB0097D4A1 /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			target = 5D34AB871F1509FB0097D4A1 /* Tungalahari */;
+			targetProxy = 5D34ABAD1F1509FB0097D4A1 /* PBXContainerItemProxy */;
+		};
+/* End PBXTargetDependency section */
+
+/* Begin PBXVariantGroup section */
+		5D34AB941F1509FB0097D4A1 /* Main.storyboard */ = {
+			isa = PBXVariantGroup;
+			children = (
+				5D34AB951F1509FB0097D4A1 /* Base */,
+			);
+			name = Main.storyboard;
+			sourceTree = "<group>";
+		};
+		5D34AB991F1509FB0097D4A1 /* LaunchScreen.storyboard */ = {
+			isa = PBXVariantGroup;
+			children = (
+				5D34AB9A1F1509FB0097D4A1 /* Base */,
+			);
+			name = LaunchScreen.storyboard;
+			sourceTree = "<group>";
+		};
+/* End PBXVariantGroup section */
+
+/* Begin XCBuildConfiguration section */
+		5D34ABB31F1509FB0097D4A1 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++0x";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = dwarf;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				ENABLE_TESTABILITY = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 10.3;
+				MTL_ENABLE_DEBUG_INFO = YES;
+				ONLY_ACTIVE_ARCH = YES;
+				SDKROOT = iphoneos;
+				TARGETED_DEVICE_FAMILY = "1,2";
+			};
+			name = Debug;
+		};
+		5D34ABB41F1509FB0097D4A1 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++0x";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				ENABLE_NS_ASSERTIONS = NO;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 10.3;
+				MTL_ENABLE_DEBUG_INFO = NO;
+				SDKROOT = iphoneos;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				VALIDATE_PRODUCT = YES;
+			};
+			name = Release;
+		};
+		5D34ABB61F1509FB0097D4A1 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				DEVELOPMENT_TEAM = L8JSCA8WK4;
+				INFOPLIST_FILE = Tungalahari/Info.plist;
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
+				PRODUCT_BUNDLE_IDENTIFIER = com.srirangadigital.Tungalahari;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+			};
+			name = Debug;
+		};
+		5D34ABB71F1509FB0097D4A1 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				DEVELOPMENT_TEAM = L8JSCA8WK4;
+				INFOPLIST_FILE = Tungalahari/Info.plist;
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
+				PRODUCT_BUNDLE_IDENTIFIER = com.srirangadigital.Tungalahari;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+			};
+			name = Release;
+		};
+		5D34ABB91F1509FB0097D4A1 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				BUNDLE_LOADER = "$(TEST_HOST)";
+				DEVELOPMENT_TEAM = L8JSCA8WK4;
+				INFOPLIST_FILE = TungalahariTests/Info.plist;
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
+				PRODUCT_BUNDLE_IDENTIFIER = com.srirangadigital.TungalahariTests;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/Tungalahari.app/Tungalahari";
+			};
+			name = Debug;
+		};
+		5D34ABBA1F1509FB0097D4A1 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				BUNDLE_LOADER = "$(TEST_HOST)";
+				DEVELOPMENT_TEAM = L8JSCA8WK4;
+				INFOPLIST_FILE = TungalahariTests/Info.plist;
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
+				PRODUCT_BUNDLE_IDENTIFIER = com.srirangadigital.TungalahariTests;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/Tungalahari.app/Tungalahari";
+			};
+			name = Release;
+		};
+		5D34ABBC1F1509FB0097D4A1 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				DEVELOPMENT_TEAM = L8JSCA8WK4;
+				INFOPLIST_FILE = TungalahariUITests/Info.plist;
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
+				PRODUCT_BUNDLE_IDENTIFIER = com.srirangadigital.TungalahariUITests;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				TEST_TARGET_NAME = Tungalahari;
+			};
+			name = Debug;
+		};
+		5D34ABBD1F1509FB0097D4A1 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				DEVELOPMENT_TEAM = L8JSCA8WK4;
+				INFOPLIST_FILE = TungalahariUITests/Info.plist;
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
+				PRODUCT_BUNDLE_IDENTIFIER = com.srirangadigital.TungalahariUITests;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				TEST_TARGET_NAME = Tungalahari;
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		5D34AB831F1509FB0097D4A1 /* Build configuration list for PBXProject "Tungalahari" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				5D34ABB31F1509FB0097D4A1 /* Debug */,
+				5D34ABB41F1509FB0097D4A1 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		5D34ABB51F1509FB0097D4A1 /* Build configuration list for PBXNativeTarget "Tungalahari" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				5D34ABB61F1509FB0097D4A1 /* Debug */,
+				5D34ABB71F1509FB0097D4A1 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+		};
+		5D34ABB81F1509FB0097D4A1 /* Build configuration list for PBXNativeTarget "TungalahariTests" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				5D34ABB91F1509FB0097D4A1 /* Debug */,
+				5D34ABBA1F1509FB0097D4A1 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+		};
+		5D34ABBB1F1509FB0097D4A1 /* Build configuration list for PBXNativeTarget "TungalahariUITests" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				5D34ABBC1F1509FB0097D4A1 /* Debug */,
+				5D34ABBD1F1509FB0097D4A1 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = 5D34AB801F1509FB0097D4A1 /* Project object */;
+}
