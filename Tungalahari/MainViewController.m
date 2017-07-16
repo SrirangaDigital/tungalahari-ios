@@ -8,12 +8,13 @@
 
 #import "MainViewController.h"
 #import "Album.h"
+#import "AlbumViewController.h"
 #import <QuartzCore/QuartzCore.h>
 
 #define cellIdentifier @"albumCell"
 @interface MainViewController ()
 @property NSArray * listOfAlbums;
-
+@property Album * selectedAlbum;
 @end
 
 @implementation MainViewController
@@ -89,6 +90,16 @@
     albumNoOfSongs.text =  [NSString stringWithFormat:@"%@ songs",album.numberOfSongs ];
     return cell;
 }
+
+- (void)collectionView:(UICollectionView *)collectionView didSelectItemAtIndexPath:(NSIndexPath *)indexPath
+{
+    _selectedAlbum = [_listOfAlbums objectAtIndex:indexPath.row];
+   [self performSegueWithIdentifier:@"albumSegue" sender:self];
+    
+    
+}
+
+
 #pragma mark Collection view layout things
 
 //- (CGFloat)collectionView:(UICollectionView *)collectionView layout:(UICollectionViewLayout*)collectionViewLayout minimumInteritemSpacingForSectionAtIndex:(NSInteger)section {
@@ -105,4 +116,21 @@
     // return UIEdgeInsetsMake(0,8,0,8);  // top, left, bottom, right
     return UIEdgeInsetsMake(0,8,8,8);  // top, left, bottom, right
 }
+
+
+
+ #pragma mark - Navigation
+ 
+ // In a storyboard-based application, you will often want to do a little preparation before navigation
+ - (void)prepareForSegue:(UIStoryboardSegue *)segue sender:(id)sender {
+     if([segue.identifier isEqualToString:@"albumSegue" ])
+     {
+         AlbumViewController * albumVC = [segue destinationViewController];
+         albumVC.album = _selectedAlbum;
+     }
+     
+ // Get the new view controller using [segue destinationViewController].
+ // Pass the selected object to the new view controller.
+ }
+ 
 @end

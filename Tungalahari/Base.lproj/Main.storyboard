@@ -146,25 +146,19 @@
                         <rect key="frame" x="0.0" y="0.0" width="375" height="667"/>
                         <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
                         <subviews>
-                            <view contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="Wu1-8f-IT9">
-                                <rect key="frame" x="0.0" y="64" width="375" height="233.5"/>
-                                <subviews>
-                                    <imageView userInteractionEnabled="NO" contentMode="scaleToFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" image="album_003" translatesAutoresizingMaskIntoConstraints="NO" id="93v-8q-bwy">
-                                        <rect key="frame" x="94" y="36.5" width="187.5" height="140.5"/>
-                                    </imageView>
-                                </subviews>
-                                <color key="backgroundColor" white="0.33333333333333331" alpha="1" colorSpace="calibratedWhite"/>
-                                <constraints>
-                                    <constraint firstItem="93v-8q-bwy" firstAttribute="width" secondItem="Wu1-8f-IT9" secondAttribute="width" multiplier="0.5" id="158-B3-Tmp"/>
-                                    <constraint firstItem="93v-8q-bwy" firstAttribute="centerX" secondItem="Wu1-8f-IT9" secondAttribute="centerX" id="UJL-5D-yzg"/>
-                                    <constraint firstItem="93v-8q-bwy" firstAttribute="height" secondItem="Wu1-8f-IT9" secondAttribute="height" multiplier="0.6" id="Zgt-HY-wAf"/>
-                                    <constraint firstItem="93v-8q-bwy" firstAttribute="centerY" secondItem="Wu1-8f-IT9" secondAttribute="centerY" constant="-10" id="rkQ-q3-8kz"/>
-                                </constraints>
-                            </view>
+                            <imageView userInteractionEnabled="NO" contentMode="scaleToFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" image="bg_floral" translatesAutoresizingMaskIntoConstraints="NO" id="fG7-BW-EB7" userLabel="You">
+                                <rect key="frame" x="-0.5" y="64" width="375" height="233.5"/>
+                            </imageView>
+                            <imageView userInteractionEnabled="NO" contentMode="scaleToFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" image="album_001" translatesAutoresizingMaskIntoConstraints="NO" id="53Y-tK-ySe">
+                                <rect key="frame" x="93.5" y="99" width="187.5" height="163.5"/>
+                            </imageView>
                             <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Label" textAlignment="center" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="InQ-2L-tQh">
-                                <rect key="frame" x="-0.5" y="250.5" width="375" height="21"/>
+                                <rect key="frame" x="-0.5" y="272.5" width="375" height="21"/>
+                                <constraints>
+                                    <constraint firstAttribute="height" constant="21" id="UYP-yA-DOs"/>
+                                </constraints>
                                 <fontDescription key="fontDescription" type="system" pointSize="17"/>
-                                <color key="textColor" red="1" green="1" blue="1" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                                <color key="textColor" white="0.0" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
                                 <nil key="highlightedColor"/>
                             </label>
                             <tableView clipsSubviews="YES" contentMode="scaleToFill" alwaysBounceVertical="YES" dataMode="prototypes" style="plain" separatorStyle="default" rowHeight="44" sectionHeaderHeight="28" sectionFooterHeight="28" translatesAutoresizingMaskIntoConstraints="NO" id="2rl-7e-pBH">
@@ -190,7 +184,7 @@
                                                     <nil key="textColor"/>
                                                     <nil key="highlightedColor"/>
                                                 </label>
-                                                <label opaque="NO" userInteractionEnabled="NO" tag="103" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Label" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="lR1-8f-SMB">
+                                                <label opaque="NO" userInteractionEnabled="NO" tag="102" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Label" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="lR1-8f-SMB">
                                                     <rect key="frame" x="307.5" y="13.5" width="37.5" height="18"/>
                                                     <fontDescription key="fontDescription" type="system" pointSize="15"/>
                                                     <color key="textColor" white="0.33333333333333331" alpha="1" colorSpace="calibratedWhite"/>
@@ -212,25 +206,33 @@
                                         </constraints>
                                     </tableViewCell>
                                 </prototypes>
+                                <connections>
+                                    <outlet property="dataSource" destination="XJo-EL-2o5" id="cj8-K3-UQt"/>
+                                    <outlet property="delegate" destination="XJo-EL-2o5" id="R8q-62-7nJ"/>
+                                </connections>
                             </tableView>
                         </subviews>
                         <color key="backgroundColor" white="1" alpha="1" colorSpace="calibratedWhite"/>
                         <constraints>
+                            <constraint firstItem="fG7-BW-EB7" firstAttribute="width" secondItem="PjG-PW-sjZ" secondAttribute="width" id="0n3-dX-869"/>
                             <constraint firstItem="2rl-7e-pBH" firstAttribute="centerX" secondItem="PjG-PW-sjZ" secondAttribute="centerX" id="1bP-pb-gWf"/>
-                            <constraint firstItem="InQ-2L-tQh" firstAttribute="width" secondItem="Wu1-8f-IT9" secondAttribute="width" id="2Vq-kG-Ipn"/>
-                            <constraint firstItem="InQ-2L-tQh" firstAttribute="centerY" secondItem="Wu1-8f-IT9" secondAttribute="centerY" constant="80" id="Mg9-Za-7xk"/>
-                            <constraint firstItem="Wu1-8f-IT9" firstAttribute="centerX" secondItem="PjG-PW-sjZ" secondAttribute="centerX" id="RVx-R1-iMQ"/>
-                            <constraint firstItem="2rl-7e-pBH" firstAttribute="top" secondItem="Wu1-8f-IT9" secondAttribute="bottom" id="dgm-gf-xvg"/>
-                            <constraint firstItem="InQ-2L-tQh" firstAttribute="centerX" secondItem="Wu1-8f-IT9" secondAttribute="centerX" id="jWH-Eu-3lr"/>
+                            <constraint firstItem="53Y-tK-ySe" firstAttribute="centerY" secondItem="fG7-BW-EB7" secondAttribute="centerY" id="7Pb-Sq-UzG"/>
+                            <constraint firstItem="53Y-tK-ySe" firstAttribute="centerX" secondItem="fG7-BW-EB7" secondAttribute="centerX" id="A48-hb-mLc"/>
+                            <constraint firstItem="53Y-tK-ySe" firstAttribute="height" secondItem="fG7-BW-EB7" secondAttribute="height" multiplier="0.7" id="EYk-vd-Cv6"/>
+                            <constraint firstItem="InQ-2L-tQh" firstAttribute="centerX" secondItem="53Y-tK-ySe" secondAttribute="centerX" id="Fji-pe-TGP"/>
+                            <constraint firstItem="fG7-BW-EB7" firstAttribute="centerX" secondItem="PjG-PW-sjZ" secondAttribute="centerX" id="MEf-pm-G6b"/>
+                            <constraint firstItem="2rl-7e-pBH" firstAttribute="top" secondItem="fG7-BW-EB7" secondAttribute="bottom" id="Olk-cn-j2O"/>
+                            <constraint firstItem="53Y-tK-ySe" firstAttribute="width" secondItem="fG7-BW-EB7" secondAttribute="width" multiplier="0.5" id="aTl-VD-nwF"/>
+                            <constraint firstItem="InQ-2L-tQh" firstAttribute="top" secondItem="53Y-tK-ySe" secondAttribute="bottom" constant="10" id="dr0-ya-SmC"/>
+                            <constraint firstItem="InQ-2L-tQh" firstAttribute="width" secondItem="fG7-BW-EB7" secondAttribute="width" id="hiG-4A-f8F"/>
+                            <constraint firstItem="fG7-BW-EB7" firstAttribute="top" secondItem="Nhc-nZ-ZAf" secondAttribute="bottom" id="jsA-s8-QJA"/>
                             <constraint firstItem="N83-it-dLV" firstAttribute="top" secondItem="2rl-7e-pBH" secondAttribute="bottom" id="qZu-5d-vtY"/>
-                            <constraint firstItem="Wu1-8f-IT9" firstAttribute="top" secondItem="Nhc-nZ-ZAf" secondAttribute="bottom" id="tTH-ZA-5jO"/>
-                            <constraint firstItem="Wu1-8f-IT9" firstAttribute="height" secondItem="PjG-PW-sjZ" secondAttribute="height" multiplier="0.35" id="uo7-3a-Pac"/>
-                            <constraint firstItem="Wu1-8f-IT9" firstAttribute="width" secondItem="PjG-PW-sjZ" secondAttribute="width" id="xJc-zv-W52"/>
+                            <constraint firstItem="fG7-BW-EB7" firstAttribute="height" secondItem="PjG-PW-sjZ" secondAttribute="height" multiplier="0.35" id="t5O-t3-L8k"/>
                             <constraint firstItem="2rl-7e-pBH" firstAttribute="width" secondItem="PjG-PW-sjZ" secondAttribute="width" id="yxU-Oi-s2a"/>
                         </constraints>
                     </view>
                     <connections>
-                        <outlet property="albumArt" destination="93v-8q-bwy" id="i56-uy-3S4"/>
+                        <outlet property="albumArt" destination="53Y-tK-ySe" id="8UB-Kt-qbu"/>
                         <outlet property="albumTitle" destination="InQ-2L-tQh" id="M8s-Ry-WHD"/>
                         <segue destination="26v-r9-alC" kind="show" identifier="songSegue" id="AfZ-Du-Ryr"/>
                     </connections>
@@ -260,7 +262,7 @@
     </scenes>
     <resources>
         <image name="album_001" width="100" height="100"/>
-        <image name="album_003" width="100" height="100"/>
+        <image name="bg_floral" width="333" height="250"/>
         <image name="cover" width="167" height="111"/>
     </resources>
 </document>

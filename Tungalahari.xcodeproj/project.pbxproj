@@ -17,95 +17,96 @@
 		5D34ABB11F1509FB0097D4A1 /* TungalahariUITests.m in Sources */ = {isa = PBXBuildFile; fileRef = 5D34ABB01F1509FB0097D4A1 /* TungalahariUITests.m */; };
 		5D34ABC01F150A320097D4A1 /* AlbumViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 5D34ABBF1F150A320097D4A1 /* AlbumViewController.m */; };
 		5D34ABC31F150A3D0097D4A1 /* MediaPlayerViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 5D34ABC21F150A3D0097D4A1 /* MediaPlayerViewController.m */; };
-		5D34AC741F151C3A0097D4A1 /* lyrics.html in Resources */ = {isa = PBXBuildFile; fileRef = 5D34ABC71F151C3A0097D4A1 /* lyrics.html */; };
-		5D34AC751F151C3A0097D4A1 /* lyrics.html in Resources */ = {isa = PBXBuildFile; fileRef = 5D34ABC91F151C3A0097D4A1 /* lyrics.html */; };
-		5D34AC761F151C3A0097D4A1 /* lyrics.html in Resources */ = {isa = PBXBuildFile; fileRef = 5D34ABCB1F151C3A0097D4A1 /* lyrics.html */; };
-		5D34AC771F151C3A0097D4A1 /* lyrics.html in Resources */ = {isa = PBXBuildFile; fileRef = 5D34ABCD1F151C3A0097D4A1 /* lyrics.html */; };
-		5D34AC781F151C3A0097D4A1 /* lyrics.html in Resources */ = {isa = PBXBuildFile; fileRef = 5D34ABCF1F151C3A0097D4A1 /* lyrics.html */; };
-		5D34AC791F151C3A0097D4A1 /* lyrics.html in Resources */ = {isa = PBXBuildFile; fileRef = 5D34ABD11F151C3A0097D4A1 /* lyrics.html */; };
-		5D34AC7A1F151C3A0097D4A1 /* lyrics.html in Resources */ = {isa = PBXBuildFile; fileRef = 5D34ABD31F151C3A0097D4A1 /* lyrics.html */; };
-		5D34AC7B1F151C3A0097D4A1 /* lyrics.html in Resources */ = {isa = PBXBuildFile; fileRef = 5D34ABD51F151C3A0097D4A1 /* lyrics.html */; };
-		5D34AC7C1F151C3A0097D4A1 /* lyrics.html in Resources */ = {isa = PBXBuildFile; fileRef = 5D34ABD71F151C3A0097D4A1 /* lyrics.html */; };
-		5D34AC7D1F151C3A0097D4A1 /* albumDetails.json in Resources */ = {isa = PBXBuildFile; fileRef = 5D34ABD81F151C3A0097D4A1 /* albumDetails.json */; };
-		5D34AC7E1F151C3A0097D4A1 /* lyrics.html in Resources */ = {isa = PBXBuildFile; fileRef = 5D34ABDB1F151C3A0097D4A1 /* lyrics.html */; };
-		5D34AC7F1F151C3A0097D4A1 /* lyrics.html in Resources */ = {isa = PBXBuildFile; fileRef = 5D34ABDD1F151C3A0097D4A1 /* lyrics.html */; };
-		5D34AC801F151C3A0097D4A1 /* lyrics.html in Resources */ = {isa = PBXBuildFile; fileRef = 5D34ABDF1F151C3A0097D4A1 /* lyrics.html */; };
-		5D34AC811F151C3A0097D4A1 /* lyrics.html in Resources */ = {isa = PBXBuildFile; fileRef = 5D34ABE11F151C3A0097D4A1 /* lyrics.html */; };
-		5D34AC821F151C3A0097D4A1 /* lyrics.html in Resources */ = {isa = PBXBuildFile; fileRef = 5D34ABE31F151C3A0097D4A1 /* lyrics.html */; };
-		5D34AC831F151C3A0097D4A1 /* lyrics.html in Resources */ = {isa = PBXBuildFile; fileRef = 5D34ABE51F151C3A0097D4A1 /* lyrics.html */; };
-		5D34AC841F151C3A0097D4A1 /* lyrics.html in Resources */ = {isa = PBXBuildFile; fileRef = 5D34ABE71F151C3A0097D4A1 /* lyrics.html */; };
-		5D34AC851F151C3A0097D4A1 /* lyrics.html in Resources */ = {isa = PBXBuildFile; fileRef = 5D34ABE91F151C3A0097D4A1 /* lyrics.html */; };
-		5D34AC861F151C3A0097D4A1 /* lyrics.html in Resources */ = {isa = PBXBuildFile; fileRef = 5D34ABEB1F151C3A0097D4A1 /* lyrics.html */; };
-		5D34AC871F151C3A0097D4A1 /* lyrics.html in Resources */ = {isa = PBXBuildFile; fileRef = 5D34ABED1F151C3A0097D4A1 /* lyrics.html */; };
-		5D34AC881F151C3A0097D4A1 /* lyrics.html in Resources */ = {isa = PBXBuildFile; fileRef = 5D34ABEF1F151C3A0097D4A1 /* lyrics.html */; };
-		5D34AC891F151C3A0097D4A1 /* lyrics.html in Resources */ = {isa = PBXBuildFile; fileRef = 5D34ABF11F151C3A0097D4A1 /* lyrics.html */; };
-		5D34AC8A1F151C3A0097D4A1 /* lyrics.html in Resources */ = {isa = PBXBuildFile; fileRef = 5D34ABF31F151C3A0097D4A1 /* lyrics.html */; };
-		5D34AC8B1F151C3A0097D4A1 /* lyrics.html in Resources */ = {isa = PBXBuildFile; fileRef = 5D34ABF51F151C3A0097D4A1 /* lyrics.html */; };
-		5D34AC8C1F151C3A0097D4A1 /* lyrics.html in Resources */ = {isa = PBXBuildFile; fileRef = 5D34ABF71F151C3A0097D4A1 /* lyrics.html */; };
-		5D34AC8D1F151C3A0097D4A1 /* lyrics.html in Resources */ = {isa = PBXBuildFile; fileRef = 5D34ABF91F151C3A0097D4A1 /* lyrics.html */; };
-		5D34AC8E1F151C3A0097D4A1 /* albumDetails.json in Resources */ = {isa = PBXBuildFile; fileRef = 5D34ABFA1F151C3A0097D4A1 /* albumDetails.json */; };
-		5D34AC8F1F151C3A0097D4A1 /* lyrics.html in Resources */ = {isa = PBXBuildFile; fileRef = 5D34ABFD1F151C3A0097D4A1 /* lyrics.html */; };
-		5D34AC901F151C3A0097D4A1 /* lyrics.html in Resources */ = {isa = PBXBuildFile; fileRef = 5D34ABFF1F151C3A0097D4A1 /* lyrics.html */; };
-		5D34AC911F151C3A0097D4A1 /* lyrics.html in Resources */ = {isa = PBXBuildFile; fileRef = 5D34AC011F151C3A0097D4A1 /* lyrics.html */; };
-		5D34AC921F151C3A0097D4A1 /* lyrics.html in Resources */ = {isa = PBXBuildFile; fileRef = 5D34AC031F151C3A0097D4A1 /* lyrics.html */; };
-		5D34AC931F151C3A0097D4A1 /* lyrics.html in Resources */ = {isa = PBXBuildFile; fileRef = 5D34AC051F151C3A0097D4A1 /* lyrics.html */; };
-		5D34AC941F151C3A0097D4A1 /* lyrics.html in Resources */ = {isa = PBXBuildFile; fileRef = 5D34AC071F151C3A0097D4A1 /* lyrics.html */; };
-		5D34AC951F151C3A0097D4A1 /* albumDetails.json in Resources */ = {isa = PBXBuildFile; fileRef = 5D34AC081F151C3A0097D4A1 /* albumDetails.json */; };
-		5D34AC961F151C3A0097D4A1 /* lyrics.html in Resources */ = {isa = PBXBuildFile; fileRef = 5D34AC0B1F151C3A0097D4A1 /* lyrics.html */; };
-		5D34AC971F151C3A0097D4A1 /* lyrics.html in Resources */ = {isa = PBXBuildFile; fileRef = 5D34AC0D1F151C3A0097D4A1 /* lyrics.html */; };
-		5D34AC981F151C3A0097D4A1 /* lyrics.html in Resources */ = {isa = PBXBuildFile; fileRef = 5D34AC0F1F151C3A0097D4A1 /* lyrics.html */; };
-		5D34AC991F151C3A0097D4A1 /* lyrics.html in Resources */ = {isa = PBXBuildFile; fileRef = 5D34AC111F151C3A0097D4A1 /* lyrics.html */; };
-		5D34AC9A1F151C3A0097D4A1 /* lyrics.html in Resources */ = {isa = PBXBuildFile; fileRef = 5D34AC131F151C3A0097D4A1 /* lyrics.html */; };
-		5D34AC9B1F151C3A0097D4A1 /* lyrics.html in Resources */ = {isa = PBXBuildFile; fileRef = 5D34AC151F151C3A0097D4A1 /* lyrics.html */; };
-		5D34AC9C1F151C3A0097D4A1 /* lyrics.html in Resources */ = {isa = PBXBuildFile; fileRef = 5D34AC171F151C3A0097D4A1 /* lyrics.html */; };
-		5D34AC9D1F151C3A0097D4A1 /* albumDetails.json in Resources */ = {isa = PBXBuildFile; fileRef = 5D34AC181F151C3A0097D4A1 /* albumDetails.json */; };
-		5D34AC9E1F151C3A0097D4A1 /* lyrics.html in Resources */ = {isa = PBXBuildFile; fileRef = 5D34AC1B1F151C3A0097D4A1 /* lyrics.html */; };
-		5D34AC9F1F151C3A0097D4A1 /* lyrics.html in Resources */ = {isa = PBXBuildFile; fileRef = 5D34AC1D1F151C3A0097D4A1 /* lyrics.html */; };
-		5D34ACA01F151C3A0097D4A1 /* lyrics.html in Resources */ = {isa = PBXBuildFile; fileRef = 5D34AC1F1F151C3A0097D4A1 /* lyrics.html */; };
-		5D34ACA11F151C3A0097D4A1 /* lyrics.html in Resources */ = {isa = PBXBuildFile; fileRef = 5D34AC211F151C3A0097D4A1 /* lyrics.html */; };
-		5D34ACA21F151C3A0097D4A1 /* lyrics.html in Resources */ = {isa = PBXBuildFile; fileRef = 5D34AC231F151C3A0097D4A1 /* lyrics.html */; };
-		5D34ACA31F151C3A0097D4A1 /* lyrics.html in Resources */ = {isa = PBXBuildFile; fileRef = 5D34AC251F151C3A0097D4A1 /* lyrics.html */; };
-		5D34ACA41F151C3A0097D4A1 /* albumDetails.json in Resources */ = {isa = PBXBuildFile; fileRef = 5D34AC261F151C3A0097D4A1 /* albumDetails.json */; };
-		5D34ACA51F151C3A0097D4A1 /* lyrics.html in Resources */ = {isa = PBXBuildFile; fileRef = 5D34AC291F151C3A0097D4A1 /* lyrics.html */; };
-		5D34ACA61F151C3A0097D4A1 /* lyrics.html in Resources */ = {isa = PBXBuildFile; fileRef = 5D34AC2B1F151C3A0097D4A1 /* lyrics.html */; };
-		5D34ACA71F151C3A0097D4A1 /* lyrics.html in Resources */ = {isa = PBXBuildFile; fileRef = 5D34AC2D1F151C3A0097D4A1 /* lyrics.html */; };
-		5D34ACA81F151C3A0097D4A1 /* lyrics.html in Resources */ = {isa = PBXBuildFile; fileRef = 5D34AC2F1F151C3A0097D4A1 /* lyrics.html */; };
-		5D34ACA91F151C3A0097D4A1 /* lyrics.html in Resources */ = {isa = PBXBuildFile; fileRef = 5D34AC311F151C3A0097D4A1 /* lyrics.html */; };
-		5D34ACAA1F151C3A0097D4A1 /* lyrics.html in Resources */ = {isa = PBXBuildFile; fileRef = 5D34AC331F151C3A0097D4A1 /* lyrics.html */; };
-		5D34ACAB1F151C3A0097D4A1 /* albumDetails.json in Resources */ = {isa = PBXBuildFile; fileRef = 5D34AC341F151C3A0097D4A1 /* albumDetails.json */; };
-		5D34ACAC1F151C3A0097D4A1 /* lyrics.html in Resources */ = {isa = PBXBuildFile; fileRef = 5D34AC371F151C3A0097D4A1 /* lyrics.html */; };
-		5D34ACAD1F151C3A0097D4A1 /* lyrics.html in Resources */ = {isa = PBXBuildFile; fileRef = 5D34AC391F151C3A0097D4A1 /* lyrics.html */; };
-		5D34ACAE1F151C3A0097D4A1 /* lyrics.html in Resources */ = {isa = PBXBuildFile; fileRef = 5D34AC3B1F151C3A0097D4A1 /* lyrics.html */; };
-		5D34ACAF1F151C3A0097D4A1 /* lyrics.html in Resources */ = {isa = PBXBuildFile; fileRef = 5D34AC3D1F151C3A0097D4A1 /* lyrics.html */; };
-		5D34ACB01F151C3A0097D4A1 /* lyrics.html in Resources */ = {isa = PBXBuildFile; fileRef = 5D34AC3F1F151C3A0097D4A1 /* lyrics.html */; };
-		5D34ACB11F151C3A0097D4A1 /* lyrics.html in Resources */ = {isa = PBXBuildFile; fileRef = 5D34AC411F151C3A0097D4A1 /* lyrics.html */; };
-		5D34ACB21F151C3A0097D4A1 /* lyrics.html in Resources */ = {isa = PBXBuildFile; fileRef = 5D34AC431F151C3A0097D4A1 /* lyrics.html */; };
-		5D34ACB31F151C3A0097D4A1 /* lyrics.html in Resources */ = {isa = PBXBuildFile; fileRef = 5D34AC451F151C3A0097D4A1 /* lyrics.html */; };
-		5D34ACB41F151C3A0097D4A1 /* lyrics.html in Resources */ = {isa = PBXBuildFile; fileRef = 5D34AC471F151C3A0097D4A1 /* lyrics.html */; };
-		5D34ACB51F151C3A0097D4A1 /* lyrics.html in Resources */ = {isa = PBXBuildFile; fileRef = 5D34AC491F151C3A0097D4A1 /* lyrics.html */; };
-		5D34ACB61F151C3A0097D4A1 /* lyrics.html in Resources */ = {isa = PBXBuildFile; fileRef = 5D34AC4B1F151C3A0097D4A1 /* lyrics.html */; };
-		5D34ACB71F151C3A0097D4A1 /* lyrics.html in Resources */ = {isa = PBXBuildFile; fileRef = 5D34AC4D1F151C3A0097D4A1 /* lyrics.html */; };
-		5D34ACB81F151C3A0097D4A1 /* lyrics.html in Resources */ = {isa = PBXBuildFile; fileRef = 5D34AC4F1F151C3A0097D4A1 /* lyrics.html */; };
-		5D34ACB91F151C3A0097D4A1 /* lyrics.html in Resources */ = {isa = PBXBuildFile; fileRef = 5D34AC511F151C3A0097D4A1 /* lyrics.html */; };
-		5D34ACBA1F151C3A0097D4A1 /* albumDetails.json in Resources */ = {isa = PBXBuildFile; fileRef = 5D34AC521F151C3A0097D4A1 /* albumDetails.json */; };
-		5D34ACBB1F151C3A0097D4A1 /* lyrics.html in Resources */ = {isa = PBXBuildFile; fileRef = 5D34AC551F151C3A0097D4A1 /* lyrics.html */; };
-		5D34ACBC1F151C3A0097D4A1 /* lyrics.html in Resources */ = {isa = PBXBuildFile; fileRef = 5D34AC571F151C3A0097D4A1 /* lyrics.html */; };
-		5D34ACBD1F151C3A0097D4A1 /* lyrics.html in Resources */ = {isa = PBXBuildFile; fileRef = 5D34AC591F151C3A0097D4A1 /* lyrics.html */; };
-		5D34ACBE1F151C3A0097D4A1 /* lyrics.html in Resources */ = {isa = PBXBuildFile; fileRef = 5D34AC5B1F151C3A0097D4A1 /* lyrics.html */; };
-		5D34ACBF1F151C3A0097D4A1 /* lyrics.html in Resources */ = {isa = PBXBuildFile; fileRef = 5D34AC5D1F151C3A0097D4A1 /* lyrics.html */; };
-		5D34ACC01F151C3A0097D4A1 /* lyrics.html in Resources */ = {isa = PBXBuildFile; fileRef = 5D34AC5F1F151C3A0097D4A1 /* lyrics.html */; };
-		5D34ACC11F151C3A0097D4A1 /* lyrics.html in Resources */ = {isa = PBXBuildFile; fileRef = 5D34AC611F151C3A0097D4A1 /* lyrics.html */; };
-		5D34ACC21F151C3A0097D4A1 /* lyrics.html in Resources */ = {isa = PBXBuildFile; fileRef = 5D34AC631F151C3A0097D4A1 /* lyrics.html */; };
-		5D34ACC31F151C3A0097D4A1 /* lyrics.html in Resources */ = {isa = PBXBuildFile; fileRef = 5D34AC651F151C3A0097D4A1 /* lyrics.html */; };
-		5D34ACC41F151C3A0097D4A1 /* lyrics.html in Resources */ = {isa = PBXBuildFile; fileRef = 5D34AC671F151C3A0097D4A1 /* lyrics.html */; };
-		5D34ACC51F151C3A0097D4A1 /* lyrics.html in Resources */ = {isa = PBXBuildFile; fileRef = 5D34AC691F151C3A0097D4A1 /* lyrics.html */; };
-		5D34ACC61F151C3A0097D4A1 /* lyrics.html in Resources */ = {isa = PBXBuildFile; fileRef = 5D34AC6B1F151C3A0097D4A1 /* lyrics.html */; };
-		5D34ACC71F151C3A0097D4A1 /* lyrics.html in Resources */ = {isa = PBXBuildFile; fileRef = 5D34AC6D1F151C3A0097D4A1 /* lyrics.html */; };
-		5D34ACC81F151C3A0097D4A1 /* lyrics.html in Resources */ = {isa = PBXBuildFile; fileRef = 5D34AC6F1F151C3A0097D4A1 /* lyrics.html */; };
-		5D34ACC91F151C3A0097D4A1 /* lyrics.html in Resources */ = {isa = PBXBuildFile; fileRef = 5D34AC711F151C3A0097D4A1 /* lyrics.html */; };
-		5D34ACCA1F151C3A0097D4A1 /* albumDetails.json in Resources */ = {isa = PBXBuildFile; fileRef = 5D34AC721F151C3A0097D4A1 /* albumDetails.json */; };
-		5D34ACCB1F151C3A0097D4A1 /* albums.json in Resources */ = {isa = PBXBuildFile; fileRef = 5D34AC731F151C3A0097D4A1 /* albums.json */; };
 		5D34ACD91F1521F00097D4A1 /* Album.m in Sources */ = {isa = PBXBuildFile; fileRef = 5D34ACD81F1521F00097D4A1 /* Album.m */; };
+		5D34AD8A1F1B36850097D4A1 /* lyrics_001_001.html in Resources */ = {isa = PBXBuildFile; fileRef = 5D34ACDD1F1B36850097D4A1 /* lyrics_001_001.html */; };
+		5D34AD8B1F1B36850097D4A1 /* lyrics_001_002.html in Resources */ = {isa = PBXBuildFile; fileRef = 5D34ACDF1F1B36850097D4A1 /* lyrics_001_002.html */; };
+		5D34AD8C1F1B36850097D4A1 /* lyrics_001_003.html in Resources */ = {isa = PBXBuildFile; fileRef = 5D34ACE11F1B36850097D4A1 /* lyrics_001_003.html */; };
+		5D34AD8D1F1B36850097D4A1 /* lyrics_001_004.html in Resources */ = {isa = PBXBuildFile; fileRef = 5D34ACE31F1B36850097D4A1 /* lyrics_001_004.html */; };
+		5D34AD8E1F1B36850097D4A1 /* lyrics_001_005.html in Resources */ = {isa = PBXBuildFile; fileRef = 5D34ACE51F1B36850097D4A1 /* lyrics_001_005.html */; };
+		5D34AD8F1F1B36850097D4A1 /* lyrics_001_006.html in Resources */ = {isa = PBXBuildFile; fileRef = 5D34ACE71F1B36850097D4A1 /* lyrics_001_006.html */; };
+		5D34AD901F1B36850097D4A1 /* lyrics_001_007.html in Resources */ = {isa = PBXBuildFile; fileRef = 5D34ACE91F1B36850097D4A1 /* lyrics_001_007.html */; };
+		5D34AD911F1B36850097D4A1 /* lyrics_001_008.html in Resources */ = {isa = PBXBuildFile; fileRef = 5D34ACEB1F1B36850097D4A1 /* lyrics_001_008.html */; };
+		5D34AD921F1B36850097D4A1 /* lyrics_001_009.html in Resources */ = {isa = PBXBuildFile; fileRef = 5D34ACED1F1B36850097D4A1 /* lyrics_001_009.html */; };
+		5D34AD931F1B36850097D4A1 /* albumDetails_001.json in Resources */ = {isa = PBXBuildFile; fileRef = 5D34ACEE1F1B36850097D4A1 /* albumDetails_001.json */; };
+		5D34AD941F1B36850097D4A1 /* lyrics_002_001.html in Resources */ = {isa = PBXBuildFile; fileRef = 5D34ACF11F1B36850097D4A1 /* lyrics_002_001.html */; };
+		5D34AD951F1B36850097D4A1 /* lyrics_002_002.html in Resources */ = {isa = PBXBuildFile; fileRef = 5D34ACF31F1B36850097D4A1 /* lyrics_002_002.html */; };
+		5D34AD961F1B36850097D4A1 /* lyrics_002_003.html in Resources */ = {isa = PBXBuildFile; fileRef = 5D34ACF51F1B36850097D4A1 /* lyrics_002_003.html */; };
+		5D34AD971F1B36850097D4A1 /* lyrics_002_004.html in Resources */ = {isa = PBXBuildFile; fileRef = 5D34ACF71F1B36850097D4A1 /* lyrics_002_004.html */; };
+		5D34AD981F1B36850097D4A1 /* lyrics_002_005.html in Resources */ = {isa = PBXBuildFile; fileRef = 5D34ACF91F1B36850097D4A1 /* lyrics_002_005.html */; };
+		5D34AD991F1B36850097D4A1 /* lyrics_002_006.html in Resources */ = {isa = PBXBuildFile; fileRef = 5D34ACFB1F1B36850097D4A1 /* lyrics_002_006.html */; };
+		5D34AD9A1F1B36850097D4A1 /* lyrics_002_007.html in Resources */ = {isa = PBXBuildFile; fileRef = 5D34ACFD1F1B36850097D4A1 /* lyrics_002_007.html */; };
+		5D34AD9B1F1B36850097D4A1 /* lyrics_002_008.html in Resources */ = {isa = PBXBuildFile; fileRef = 5D34ACFF1F1B36850097D4A1 /* lyrics_002_008.html */; };
+		5D34AD9C1F1B36850097D4A1 /* lyrics_002_009.html in Resources */ = {isa = PBXBuildFile; fileRef = 5D34AD011F1B36850097D4A1 /* lyrics_002_009.html */; };
+		5D34AD9D1F1B36850097D4A1 /* lyrics_002_010.html in Resources */ = {isa = PBXBuildFile; fileRef = 5D34AD031F1B36850097D4A1 /* lyrics_002_010.html */; };
+		5D34AD9E1F1B36850097D4A1 /* lyrics_002_011.html in Resources */ = {isa = PBXBuildFile; fileRef = 5D34AD051F1B36850097D4A1 /* lyrics_002_011.html */; };
+		5D34AD9F1F1B36850097D4A1 /* lyrics_002_012.html in Resources */ = {isa = PBXBuildFile; fileRef = 5D34AD071F1B36850097D4A1 /* lyrics_002_012.html */; };
+		5D34ADA01F1B36850097D4A1 /* lyrics_002_013.html in Resources */ = {isa = PBXBuildFile; fileRef = 5D34AD091F1B36850097D4A1 /* lyrics_002_013.html */; };
+		5D34ADA11F1B36850097D4A1 /* lyrics_002_014.html in Resources */ = {isa = PBXBuildFile; fileRef = 5D34AD0B1F1B36850097D4A1 /* lyrics_002_014.html */; };
+		5D34ADA21F1B36850097D4A1 /* lyrics_002_015.html in Resources */ = {isa = PBXBuildFile; fileRef = 5D34AD0D1F1B36850097D4A1 /* lyrics_002_015.html */; };
+		5D34ADA31F1B36850097D4A1 /* lyrics_002_016.html in Resources */ = {isa = PBXBuildFile; fileRef = 5D34AD0F1F1B36850097D4A1 /* lyrics_002_016.html */; };
+		5D34ADA41F1B36850097D4A1 /* albumDetails_002.json in Resources */ = {isa = PBXBuildFile; fileRef = 5D34AD101F1B36850097D4A1 /* albumDetails_002.json */; };
+		5D34ADA51F1B36850097D4A1 /* lyrics_003_001.html in Resources */ = {isa = PBXBuildFile; fileRef = 5D34AD131F1B36850097D4A1 /* lyrics_003_001.html */; };
+		5D34ADA61F1B36850097D4A1 /* lyrics_003_002.html in Resources */ = {isa = PBXBuildFile; fileRef = 5D34AD151F1B36850097D4A1 /* lyrics_003_002.html */; };
+		5D34ADA71F1B36850097D4A1 /* lyrics_003_003.html in Resources */ = {isa = PBXBuildFile; fileRef = 5D34AD171F1B36850097D4A1 /* lyrics_003_003.html */; };
+		5D34ADA81F1B36850097D4A1 /* lyrics_003_004.html in Resources */ = {isa = PBXBuildFile; fileRef = 5D34AD191F1B36850097D4A1 /* lyrics_003_004.html */; };
+		5D34ADA91F1B36850097D4A1 /* lyrics_003_005.html in Resources */ = {isa = PBXBuildFile; fileRef = 5D34AD1B1F1B36850097D4A1 /* lyrics_003_005.html */; };
+		5D34ADAA1F1B36850097D4A1 /* lyrics_003_006.html in Resources */ = {isa = PBXBuildFile; fileRef = 5D34AD1D1F1B36850097D4A1 /* lyrics_003_006.html */; };
+		5D34ADAB1F1B36850097D4A1 /* albumDetails_003.json in Resources */ = {isa = PBXBuildFile; fileRef = 5D34AD1E1F1B36850097D4A1 /* albumDetails_003.json */; };
+		5D34ADAC1F1B36850097D4A1 /* lyrics_004_001.html in Resources */ = {isa = PBXBuildFile; fileRef = 5D34AD211F1B36850097D4A1 /* lyrics_004_001.html */; };
+		5D34ADAD1F1B36850097D4A1 /* lyrics_004_002.html in Resources */ = {isa = PBXBuildFile; fileRef = 5D34AD231F1B36850097D4A1 /* lyrics_004_002.html */; };
+		5D34ADAE1F1B36850097D4A1 /* lyrics_004_003.html in Resources */ = {isa = PBXBuildFile; fileRef = 5D34AD251F1B36850097D4A1 /* lyrics_004_003.html */; };
+		5D34ADAF1F1B36850097D4A1 /* lyrics_004_004.html in Resources */ = {isa = PBXBuildFile; fileRef = 5D34AD271F1B36850097D4A1 /* lyrics_004_004.html */; };
+		5D34ADB01F1B36850097D4A1 /* lyrics_004_005.html in Resources */ = {isa = PBXBuildFile; fileRef = 5D34AD291F1B36850097D4A1 /* lyrics_004_005.html */; };
+		5D34ADB11F1B36850097D4A1 /* lyrics_004_006.html in Resources */ = {isa = PBXBuildFile; fileRef = 5D34AD2B1F1B36850097D4A1 /* lyrics_004_006.html */; };
+		5D34ADB21F1B36850097D4A1 /* lyrics_004_007.html in Resources */ = {isa = PBXBuildFile; fileRef = 5D34AD2D1F1B36850097D4A1 /* lyrics_004_007.html */; };
+		5D34ADB31F1B36850097D4A1 /* albumDetails_004.json in Resources */ = {isa = PBXBuildFile; fileRef = 5D34AD2E1F1B36850097D4A1 /* albumDetails_004.json */; };
+		5D34ADB41F1B36850097D4A1 /* lyrics_005_001.html in Resources */ = {isa = PBXBuildFile; fileRef = 5D34AD311F1B36850097D4A1 /* lyrics_005_001.html */; };
+		5D34ADB51F1B36850097D4A1 /* lyrics_005_002.html in Resources */ = {isa = PBXBuildFile; fileRef = 5D34AD331F1B36850097D4A1 /* lyrics_005_002.html */; };
+		5D34ADB61F1B36850097D4A1 /* lyrics_005_003.html in Resources */ = {isa = PBXBuildFile; fileRef = 5D34AD351F1B36850097D4A1 /* lyrics_005_003.html */; };
+		5D34ADB71F1B36850097D4A1 /* lyrics_005_004.html in Resources */ = {isa = PBXBuildFile; fileRef = 5D34AD371F1B36850097D4A1 /* lyrics_005_004.html */; };
+		5D34ADB81F1B36850097D4A1 /* lyrics_005_005.html in Resources */ = {isa = PBXBuildFile; fileRef = 5D34AD391F1B36850097D4A1 /* lyrics_005_005.html */; };
+		5D34ADB91F1B36850097D4A1 /* lyrics_005_006.html in Resources */ = {isa = PBXBuildFile; fileRef = 5D34AD3B1F1B36850097D4A1 /* lyrics_005_006.html */; };
+		5D34ADBA1F1B36850097D4A1 /* albumDetails_005.json in Resources */ = {isa = PBXBuildFile; fileRef = 5D34AD3C1F1B36850097D4A1 /* albumDetails_005.json */; };
+		5D34ADBB1F1B36850097D4A1 /* lyrics_009_001.html in Resources */ = {isa = PBXBuildFile; fileRef = 5D34AD3F1F1B36850097D4A1 /* lyrics_009_001.html */; };
+		5D34ADBC1F1B36850097D4A1 /* lyrics_009_002.html in Resources */ = {isa = PBXBuildFile; fileRef = 5D34AD411F1B36850097D4A1 /* lyrics_009_002.html */; };
+		5D34ADBD1F1B36850097D4A1 /* lyrics_009_003.html in Resources */ = {isa = PBXBuildFile; fileRef = 5D34AD431F1B36850097D4A1 /* lyrics_009_003.html */; };
+		5D34ADBE1F1B36850097D4A1 /* lyrics_009_004.html in Resources */ = {isa = PBXBuildFile; fileRef = 5D34AD451F1B36850097D4A1 /* lyrics_009_004.html */; };
+		5D34ADBF1F1B36850097D4A1 /* lyrics_009_005.html in Resources */ = {isa = PBXBuildFile; fileRef = 5D34AD471F1B36850097D4A1 /* lyrics_009_005.html */; };
+		5D34ADC01F1B36850097D4A1 /* lyrics_009_006.html in Resources */ = {isa = PBXBuildFile; fileRef = 5D34AD491F1B36850097D4A1 /* lyrics_009_006.html */; };
+		5D34ADC11F1B36850097D4A1 /* albumDetails_009.json in Resources */ = {isa = PBXBuildFile; fileRef = 5D34AD4A1F1B36850097D4A1 /* albumDetails_009.json */; };
+		5D34ADC21F1B36850097D4A1 /* lyrics_010_001.html in Resources */ = {isa = PBXBuildFile; fileRef = 5D34AD4D1F1B36850097D4A1 /* lyrics_010_001.html */; };
+		5D34ADC31F1B36850097D4A1 /* lyrics_010_002.html in Resources */ = {isa = PBXBuildFile; fileRef = 5D34AD4F1F1B36850097D4A1 /* lyrics_010_002.html */; };
+		5D34ADC41F1B36850097D4A1 /* lyrics_010_003.html in Resources */ = {isa = PBXBuildFile; fileRef = 5D34AD511F1B36850097D4A1 /* lyrics_010_003.html */; };
+		5D34ADC51F1B36850097D4A1 /* lyrics_010_004.html in Resources */ = {isa = PBXBuildFile; fileRef = 5D34AD531F1B36850097D4A1 /* lyrics_010_004.html */; };
+		5D34ADC61F1B36850097D4A1 /* lyrics_010_005.html in Resources */ = {isa = PBXBuildFile; fileRef = 5D34AD551F1B36850097D4A1 /* lyrics_010_005.html */; };
+		5D34ADC71F1B36850097D4A1 /* lyrics_010_006.html in Resources */ = {isa = PBXBuildFile; fileRef = 5D34AD571F1B36850097D4A1 /* lyrics_010_006.html */; };
+		5D34ADC81F1B36850097D4A1 /* lyrics_010_007.html in Resources */ = {isa = PBXBuildFile; fileRef = 5D34AD591F1B36850097D4A1 /* lyrics_010_007.html */; };
+		5D34ADC91F1B36850097D4A1 /* lyrics_010_008.html in Resources */ = {isa = PBXBuildFile; fileRef = 5D34AD5B1F1B36850097D4A1 /* lyrics_010_008.html */; };
+		5D34ADCA1F1B36850097D4A1 /* lyrics_010_009.html in Resources */ = {isa = PBXBuildFile; fileRef = 5D34AD5D1F1B36850097D4A1 /* lyrics_010_009.html */; };
+		5D34ADCB1F1B36850097D4A1 /* lyrics_010_010.html in Resources */ = {isa = PBXBuildFile; fileRef = 5D34AD5F1F1B36850097D4A1 /* lyrics_010_010.html */; };
+		5D34ADCC1F1B36850097D4A1 /* lyrics_010_011.html in Resources */ = {isa = PBXBuildFile; fileRef = 5D34AD611F1B36850097D4A1 /* lyrics_010_011.html */; };
+		5D34ADCD1F1B36850097D4A1 /* lyrics_010_012.html in Resources */ = {isa = PBXBuildFile; fileRef = 5D34AD631F1B36850097D4A1 /* lyrics_010_012.html */; };
+		5D34ADCE1F1B36850097D4A1 /* lyrics_010_013.html in Resources */ = {isa = PBXBuildFile; fileRef = 5D34AD651F1B36850097D4A1 /* lyrics_010_013.html */; };
+		5D34ADCF1F1B36850097D4A1 /* lyrics_010_014.html in Resources */ = {isa = PBXBuildFile; fileRef = 5D34AD671F1B36850097D4A1 /* lyrics_010_014.html */; };
+		5D34ADD01F1B36850097D4A1 /* albumDetails_010.json in Resources */ = {isa = PBXBuildFile; fileRef = 5D34AD681F1B36850097D4A1 /* albumDetails_010.json */; };
+		5D34ADD11F1B36850097D4A1 /* lyrics_011_001.html in Resources */ = {isa = PBXBuildFile; fileRef = 5D34AD6B1F1B36850097D4A1 /* lyrics_011_001.html */; };
+		5D34ADD21F1B36850097D4A1 /* lyrics_011_002.html in Resources */ = {isa = PBXBuildFile; fileRef = 5D34AD6D1F1B36850097D4A1 /* lyrics_011_002.html */; };
+		5D34ADD31F1B36850097D4A1 /* lyrics_011_003.html in Resources */ = {isa = PBXBuildFile; fileRef = 5D34AD6F1F1B36850097D4A1 /* lyrics_011_003.html */; };
+		5D34ADD41F1B36850097D4A1 /* lyrics_011_004.html in Resources */ = {isa = PBXBuildFile; fileRef = 5D34AD711F1B36850097D4A1 /* lyrics_011_004.html */; };
+		5D34ADD51F1B36850097D4A1 /* lyrics_011_005.html in Resources */ = {isa = PBXBuildFile; fileRef = 5D34AD731F1B36850097D4A1 /* lyrics_011_005.html */; };
+		5D34ADD61F1B36850097D4A1 /* lyrics_011_006.html in Resources */ = {isa = PBXBuildFile; fileRef = 5D34AD751F1B36850097D4A1 /* lyrics_011_006.html */; };
+		5D34ADD71F1B36850097D4A1 /* lyrics_011_007.html in Resources */ = {isa = PBXBuildFile; fileRef = 5D34AD771F1B36850097D4A1 /* lyrics_011_007.html */; };
+		5D34ADD81F1B36850097D4A1 /* lyrics_011_008.html in Resources */ = {isa = PBXBuildFile; fileRef = 5D34AD791F1B36850097D4A1 /* lyrics_011_008.html */; };
+		5D34ADD91F1B36850097D4A1 /* lyrics_011_009.html in Resources */ = {isa = PBXBuildFile; fileRef = 5D34AD7B1F1B36850097D4A1 /* lyrics_011_009.html */; };
+		5D34ADDA1F1B36850097D4A1 /* lyrics_011_010.html in Resources */ = {isa = PBXBuildFile; fileRef = 5D34AD7D1F1B36850097D4A1 /* lyrics_011_010.html */; };
+		5D34ADDB1F1B36850097D4A1 /* lyrics_011_011.html in Resources */ = {isa = PBXBuildFile; fileRef = 5D34AD7F1F1B36850097D4A1 /* lyrics_011_011.html */; };
+		5D34ADDC1F1B36850097D4A1 /* lyrics_011_012.html in Resources */ = {isa = PBXBuildFile; fileRef = 5D34AD811F1B36850097D4A1 /* lyrics_011_012.html */; };
+		5D34ADDD1F1B36850097D4A1 /* lyrics_011_013.html in Resources */ = {isa = PBXBuildFile; fileRef = 5D34AD831F1B36850097D4A1 /* lyrics_011_013.html */; };
+		5D34ADDE1F1B36850097D4A1 /* lyrics_011_014.html in Resources */ = {isa = PBXBuildFile; fileRef = 5D34AD851F1B36850097D4A1 /* lyrics_011_014.html */; };
+		5D34ADDF1F1B36850097D4A1 /* lyrics_011_015.html in Resources */ = {isa = PBXBuildFile; fileRef = 5D34AD871F1B36850097D4A1 /* lyrics_011_015.html */; };
+		5D34ADE01F1B36850097D4A1 /* albumDetails_011.json in Resources */ = {isa = PBXBuildFile; fileRef = 5D34AD881F1B36850097D4A1 /* albumDetails_011.json */; };
+		5D34ADE11F1B36850097D4A1 /* albums.json in Resources */ = {isa = PBXBuildFile; fileRef = 5D34AD891F1B36850097D4A1 /* albums.json */; };
+		5D34ADE41F1B39960097D4A1 /* Song.m in Sources */ = {isa = PBXBuildFile; fileRef = 5D34ADE31F1B39960097D4A1 /* Song.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -146,96 +147,98 @@
 		5D34ABBF1F150A320097D4A1 /* AlbumViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = AlbumViewController.m; sourceTree = "<group>"; };
 		5D34ABC11F150A3D0097D4A1 /* MediaPlayerViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = MediaPlayerViewController.h; sourceTree = "<group>"; };
 		5D34ABC21F150A3D0097D4A1 /* MediaPlayerViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = MediaPlayerViewController.m; sourceTree = "<group>"; };
-		5D34ABC71F151C3A0097D4A1 /* lyrics.html */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.html; path = lyrics.html; sourceTree = "<group>"; };
-		5D34ABC91F151C3A0097D4A1 /* lyrics.html */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.html; path = lyrics.html; sourceTree = "<group>"; };
-		5D34ABCB1F151C3A0097D4A1 /* lyrics.html */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.html; path = lyrics.html; sourceTree = "<group>"; };
-		5D34ABCD1F151C3A0097D4A1 /* lyrics.html */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.html; path = lyrics.html; sourceTree = "<group>"; };
-		5D34ABCF1F151C3A0097D4A1 /* lyrics.html */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.html; path = lyrics.html; sourceTree = "<group>"; };
-		5D34ABD11F151C3A0097D4A1 /* lyrics.html */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.html; path = lyrics.html; sourceTree = "<group>"; };
-		5D34ABD31F151C3A0097D4A1 /* lyrics.html */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.html; path = lyrics.html; sourceTree = "<group>"; };
-		5D34ABD51F151C3A0097D4A1 /* lyrics.html */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.html; path = lyrics.html; sourceTree = "<group>"; };
-		5D34ABD71F151C3A0097D4A1 /* lyrics.html */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.html; path = lyrics.html; sourceTree = "<group>"; };
-		5D34ABD81F151C3A0097D4A1 /* albumDetails.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = albumDetails.json; sourceTree = "<group>"; };
-		5D34ABDB1F151C3A0097D4A1 /* lyrics.html */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.html; path = lyrics.html; sourceTree = "<group>"; };
-		5D34ABDD1F151C3A0097D4A1 /* lyrics.html */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.html; path = lyrics.html; sourceTree = "<group>"; };
-		5D34ABDF1F151C3A0097D4A1 /* lyrics.html */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.html; path = lyrics.html; sourceTree = "<group>"; };
-		5D34ABE11F151C3A0097D4A1 /* lyrics.html */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.html; path = lyrics.html; sourceTree = "<group>"; };
-		5D34ABE31F151C3A0097D4A1 /* lyrics.html */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.html; path = lyrics.html; sourceTree = "<group>"; };
-		5D34ABE51F151C3A0097D4A1 /* lyrics.html */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.html; path = lyrics.html; sourceTree = "<group>"; };
-		5D34ABE71F151C3A0097D4A1 /* lyrics.html */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.html; path = lyrics.html; sourceTree = "<group>"; };
-		5D34ABE91F151C3A0097D4A1 /* lyrics.html */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.html; path = lyrics.html; sourceTree = "<group>"; };
-		5D34ABEB1F151C3A0097D4A1 /* lyrics.html */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.html; path = lyrics.html; sourceTree = "<group>"; };
-		5D34ABED1F151C3A0097D4A1 /* lyrics.html */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.html; path = lyrics.html; sourceTree = "<group>"; };
-		5D34ABEF1F151C3A0097D4A1 /* lyrics.html */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.html; path = lyrics.html; sourceTree = "<group>"; };
-		5D34ABF11F151C3A0097D4A1 /* lyrics.html */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.html; path = lyrics.html; sourceTree = "<group>"; };
-		5D34ABF31F151C3A0097D4A1 /* lyrics.html */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.html; path = lyrics.html; sourceTree = "<group>"; };
-		5D34ABF51F151C3A0097D4A1 /* lyrics.html */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.html; path = lyrics.html; sourceTree = "<group>"; };
-		5D34ABF71F151C3A0097D4A1 /* lyrics.html */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.html; path = lyrics.html; sourceTree = "<group>"; };
-		5D34ABF91F151C3A0097D4A1 /* lyrics.html */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.html; path = lyrics.html; sourceTree = "<group>"; };
-		5D34ABFA1F151C3A0097D4A1 /* albumDetails.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = albumDetails.json; sourceTree = "<group>"; };
-		5D34ABFD1F151C3A0097D4A1 /* lyrics.html */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.html; path = lyrics.html; sourceTree = "<group>"; };
-		5D34ABFF1F151C3A0097D4A1 /* lyrics.html */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.html; path = lyrics.html; sourceTree = "<group>"; };
-		5D34AC011F151C3A0097D4A1 /* lyrics.html */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.html; path = lyrics.html; sourceTree = "<group>"; };
-		5D34AC031F151C3A0097D4A1 /* lyrics.html */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.html; path = lyrics.html; sourceTree = "<group>"; };
-		5D34AC051F151C3A0097D4A1 /* lyrics.html */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.html; path = lyrics.html; sourceTree = "<group>"; };
-		5D34AC071F151C3A0097D4A1 /* lyrics.html */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.html; path = lyrics.html; sourceTree = "<group>"; };
-		5D34AC081F151C3A0097D4A1 /* albumDetails.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = albumDetails.json; sourceTree = "<group>"; };
-		5D34AC0B1F151C3A0097D4A1 /* lyrics.html */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.html; path = lyrics.html; sourceTree = "<group>"; };
-		5D34AC0D1F151C3A0097D4A1 /* lyrics.html */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.html; path = lyrics.html; sourceTree = "<group>"; };
-		5D34AC0F1F151C3A0097D4A1 /* lyrics.html */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.html; path = lyrics.html; sourceTree = "<group>"; };
-		5D34AC111F151C3A0097D4A1 /* lyrics.html */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.html; path = lyrics.html; sourceTree = "<group>"; };
-		5D34AC131F151C3A0097D4A1 /* lyrics.html */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.html; path = lyrics.html; sourceTree = "<group>"; };
-		5D34AC151F151C3A0097D4A1 /* lyrics.html */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.html; path = lyrics.html; sourceTree = "<group>"; };
-		5D34AC171F151C3A0097D4A1 /* lyrics.html */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.html; path = lyrics.html; sourceTree = "<group>"; };
-		5D34AC181F151C3A0097D4A1 /* albumDetails.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = albumDetails.json; sourceTree = "<group>"; };
-		5D34AC1B1F151C3A0097D4A1 /* lyrics.html */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.html; path = lyrics.html; sourceTree = "<group>"; };
-		5D34AC1D1F151C3A0097D4A1 /* lyrics.html */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.html; path = lyrics.html; sourceTree = "<group>"; };
-		5D34AC1F1F151C3A0097D4A1 /* lyrics.html */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.html; path = lyrics.html; sourceTree = "<group>"; };
-		5D34AC211F151C3A0097D4A1 /* lyrics.html */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.html; path = lyrics.html; sourceTree = "<group>"; };
-		5D34AC231F151C3A0097D4A1 /* lyrics.html */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.html; path = lyrics.html; sourceTree = "<group>"; };
-		5D34AC251F151C3A0097D4A1 /* lyrics.html */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.html; path = lyrics.html; sourceTree = "<group>"; };
-		5D34AC261F151C3A0097D4A1 /* albumDetails.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = albumDetails.json; sourceTree = "<group>"; };
-		5D34AC291F151C3A0097D4A1 /* lyrics.html */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.html; path = lyrics.html; sourceTree = "<group>"; };
-		5D34AC2B1F151C3A0097D4A1 /* lyrics.html */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.html; path = lyrics.html; sourceTree = "<group>"; };
-		5D34AC2D1F151C3A0097D4A1 /* lyrics.html */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.html; path = lyrics.html; sourceTree = "<group>"; };
-		5D34AC2F1F151C3A0097D4A1 /* lyrics.html */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.html; path = lyrics.html; sourceTree = "<group>"; };
-		5D34AC311F151C3A0097D4A1 /* lyrics.html */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.html; path = lyrics.html; sourceTree = "<group>"; };
-		5D34AC331F151C3A0097D4A1 /* lyrics.html */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.html; path = lyrics.html; sourceTree = "<group>"; };
-		5D34AC341F151C3A0097D4A1 /* albumDetails.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = albumDetails.json; sourceTree = "<group>"; };
-		5D34AC371F151C3A0097D4A1 /* lyrics.html */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.html; path = lyrics.html; sourceTree = "<group>"; };
-		5D34AC391F151C3A0097D4A1 /* lyrics.html */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.html; path = lyrics.html; sourceTree = "<group>"; };
-		5D34AC3B1F151C3A0097D4A1 /* lyrics.html */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.html; path = lyrics.html; sourceTree = "<group>"; };
-		5D34AC3D1F151C3A0097D4A1 /* lyrics.html */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.html; path = lyrics.html; sourceTree = "<group>"; };
-		5D34AC3F1F151C3A0097D4A1 /* lyrics.html */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.html; path = lyrics.html; sourceTree = "<group>"; };
-		5D34AC411F151C3A0097D4A1 /* lyrics.html */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.html; path = lyrics.html; sourceTree = "<group>"; };
-		5D34AC431F151C3A0097D4A1 /* lyrics.html */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.html; path = lyrics.html; sourceTree = "<group>"; };
-		5D34AC451F151C3A0097D4A1 /* lyrics.html */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.html; path = lyrics.html; sourceTree = "<group>"; };
-		5D34AC471F151C3A0097D4A1 /* lyrics.html */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.html; path = lyrics.html; sourceTree = "<group>"; };
-		5D34AC491F151C3A0097D4A1 /* lyrics.html */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.html; path = lyrics.html; sourceTree = "<group>"; };
-		5D34AC4B1F151C3A0097D4A1 /* lyrics.html */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.html; path = lyrics.html; sourceTree = "<group>"; };
-		5D34AC4D1F151C3A0097D4A1 /* lyrics.html */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.html; path = lyrics.html; sourceTree = "<group>"; };
-		5D34AC4F1F151C3A0097D4A1 /* lyrics.html */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.html; path = lyrics.html; sourceTree = "<group>"; };
-		5D34AC511F151C3A0097D4A1 /* lyrics.html */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.html; path = lyrics.html; sourceTree = "<group>"; };
-		5D34AC521F151C3A0097D4A1 /* albumDetails.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = albumDetails.json; sourceTree = "<group>"; };
-		5D34AC551F151C3A0097D4A1 /* lyrics.html */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.html; path = lyrics.html; sourceTree = "<group>"; };
-		5D34AC571F151C3A0097D4A1 /* lyrics.html */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.html; path = lyrics.html; sourceTree = "<group>"; };
-		5D34AC591F151C3A0097D4A1 /* lyrics.html */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.html; path = lyrics.html; sourceTree = "<group>"; };
-		5D34AC5B1F151C3A0097D4A1 /* lyrics.html */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.html; path = lyrics.html; sourceTree = "<group>"; };
-		5D34AC5D1F151C3A0097D4A1 /* lyrics.html */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.html; path = lyrics.html; sourceTree = "<group>"; };
-		5D34AC5F1F151C3A0097D4A1 /* lyrics.html */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.html; path = lyrics.html; sourceTree = "<group>"; };
-		5D34AC611F151C3A0097D4A1 /* lyrics.html */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.html; path = lyrics.html; sourceTree = "<group>"; };
-		5D34AC631F151C3A0097D4A1 /* lyrics.html */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.html; path = lyrics.html; sourceTree = "<group>"; };
-		5D34AC651F151C3A0097D4A1 /* lyrics.html */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.html; path = lyrics.html; sourceTree = "<group>"; };
-		5D34AC671F151C3A0097D4A1 /* lyrics.html */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.html; path = lyrics.html; sourceTree = "<group>"; };
-		5D34AC691F151C3A0097D4A1 /* lyrics.html */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.html; path = lyrics.html; sourceTree = "<group>"; };
-		5D34AC6B1F151C3A0097D4A1 /* lyrics.html */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.html; path = lyrics.html; sourceTree = "<group>"; };
-		5D34AC6D1F151C3A0097D4A1 /* lyrics.html */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.html; path = lyrics.html; sourceTree = "<group>"; };
-		5D34AC6F1F151C3A0097D4A1 /* lyrics.html */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.html; path = lyrics.html; sourceTree = "<group>"; };
-		5D34AC711F151C3A0097D4A1 /* lyrics.html */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.html; path = lyrics.html; sourceTree = "<group>"; };
-		5D34AC721F151C3A0097D4A1 /* albumDetails.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = albumDetails.json; sourceTree = "<group>"; };
-		5D34AC731F151C3A0097D4A1 /* albums.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; name = albums.json; path = Tungalahari/Data/albums.json; sourceTree = SOURCE_ROOT; };
 		5D34ACD71F1521F00097D4A1 /* Album.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Album.h; sourceTree = "<group>"; };
 		5D34ACD81F1521F00097D4A1 /* Album.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = Album.m; sourceTree = "<group>"; };
+		5D34ACDD1F1B36850097D4A1 /* lyrics_001_001.html */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.html; path = lyrics_001_001.html; sourceTree = "<group>"; };
+		5D34ACDF1F1B36850097D4A1 /* lyrics_001_002.html */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.html; path = lyrics_001_002.html; sourceTree = "<group>"; };
+		5D34ACE11F1B36850097D4A1 /* lyrics_001_003.html */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.html; path = lyrics_001_003.html; sourceTree = "<group>"; };
+		5D34ACE31F1B36850097D4A1 /* lyrics_001_004.html */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.html; path = lyrics_001_004.html; sourceTree = "<group>"; };
+		5D34ACE51F1B36850097D4A1 /* lyrics_001_005.html */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.html; path = lyrics_001_005.html; sourceTree = "<group>"; };
+		5D34ACE71F1B36850097D4A1 /* lyrics_001_006.html */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.html; path = lyrics_001_006.html; sourceTree = "<group>"; };
+		5D34ACE91F1B36850097D4A1 /* lyrics_001_007.html */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.html; path = lyrics_001_007.html; sourceTree = "<group>"; };
+		5D34ACEB1F1B36850097D4A1 /* lyrics_001_008.html */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.html; path = lyrics_001_008.html; sourceTree = "<group>"; };
+		5D34ACED1F1B36850097D4A1 /* lyrics_001_009.html */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.html; path = lyrics_001_009.html; sourceTree = "<group>"; };
+		5D34ACEE1F1B36850097D4A1 /* albumDetails_001.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = albumDetails_001.json; sourceTree = "<group>"; };
+		5D34ACF11F1B36850097D4A1 /* lyrics_002_001.html */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.html; path = lyrics_002_001.html; sourceTree = "<group>"; };
+		5D34ACF31F1B36850097D4A1 /* lyrics_002_002.html */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.html; path = lyrics_002_002.html; sourceTree = "<group>"; };
+		5D34ACF51F1B36850097D4A1 /* lyrics_002_003.html */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.html; path = lyrics_002_003.html; sourceTree = "<group>"; };
+		5D34ACF71F1B36850097D4A1 /* lyrics_002_004.html */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.html; path = lyrics_002_004.html; sourceTree = "<group>"; };
+		5D34ACF91F1B36850097D4A1 /* lyrics_002_005.html */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.html; path = lyrics_002_005.html; sourceTree = "<group>"; };
+		5D34ACFB1F1B36850097D4A1 /* lyrics_002_006.html */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.html; path = lyrics_002_006.html; sourceTree = "<group>"; };
+		5D34ACFD1F1B36850097D4A1 /* lyrics_002_007.html */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.html; path = lyrics_002_007.html; sourceTree = "<group>"; };
+		5D34ACFF1F1B36850097D4A1 /* lyrics_002_008.html */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.html; path = lyrics_002_008.html; sourceTree = "<group>"; };
+		5D34AD011F1B36850097D4A1 /* lyrics_002_009.html */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.html; path = lyrics_002_009.html; sourceTree = "<group>"; };
+		5D34AD031F1B36850097D4A1 /* lyrics_002_010.html */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.html; path = lyrics_002_010.html; sourceTree = "<group>"; };
+		5D34AD051F1B36850097D4A1 /* lyrics_002_011.html */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.html; path = lyrics_002_011.html; sourceTree = "<group>"; };
+		5D34AD071F1B36850097D4A1 /* lyrics_002_012.html */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.html; path = lyrics_002_012.html; sourceTree = "<group>"; };
+		5D34AD091F1B36850097D4A1 /* lyrics_002_013.html */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.html; path = lyrics_002_013.html; sourceTree = "<group>"; };
+		5D34AD0B1F1B36850097D4A1 /* lyrics_002_014.html */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.html; path = lyrics_002_014.html; sourceTree = "<group>"; };
+		5D34AD0D1F1B36850097D4A1 /* lyrics_002_015.html */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.html; path = lyrics_002_015.html; sourceTree = "<group>"; };
+		5D34AD0F1F1B36850097D4A1 /* lyrics_002_016.html */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.html; path = lyrics_002_016.html; sourceTree = "<group>"; };
+		5D34AD101F1B36850097D4A1 /* albumDetails_002.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = albumDetails_002.json; sourceTree = "<group>"; };
+		5D34AD131F1B36850097D4A1 /* lyrics_003_001.html */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.html; path = lyrics_003_001.html; sourceTree = "<group>"; };
+		5D34AD151F1B36850097D4A1 /* lyrics_003_002.html */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.html; path = lyrics_003_002.html; sourceTree = "<group>"; };
+		5D34AD171F1B36850097D4A1 /* lyrics_003_003.html */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.html; path = lyrics_003_003.html; sourceTree = "<group>"; };
+		5D34AD191F1B36850097D4A1 /* lyrics_003_004.html */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.html; path = lyrics_003_004.html; sourceTree = "<group>"; };
+		5D34AD1B1F1B36850097D4A1 /* lyrics_003_005.html */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.html; path = lyrics_003_005.html; sourceTree = "<group>"; };
+		5D34AD1D1F1B36850097D4A1 /* lyrics_003_006.html */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.html; path = lyrics_003_006.html; sourceTree = "<group>"; };
+		5D34AD1E1F1B36850097D4A1 /* albumDetails_003.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = albumDetails_003.json; sourceTree = "<group>"; };
+		5D34AD211F1B36850097D4A1 /* lyrics_004_001.html */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.html; path = lyrics_004_001.html; sourceTree = "<group>"; };
+		5D34AD231F1B36850097D4A1 /* lyrics_004_002.html */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.html; path = lyrics_004_002.html; sourceTree = "<group>"; };
+		5D34AD251F1B36850097D4A1 /* lyrics_004_003.html */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.html; path = lyrics_004_003.html; sourceTree = "<group>"; };
+		5D34AD271F1B36850097D4A1 /* lyrics_004_004.html */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.html; path = lyrics_004_004.html; sourceTree = "<group>"; };
+		5D34AD291F1B36850097D4A1 /* lyrics_004_005.html */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.html; path = lyrics_004_005.html; sourceTree = "<group>"; };
+		5D34AD2B1F1B36850097D4A1 /* lyrics_004_006.html */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.html; path = lyrics_004_006.html; sourceTree = "<group>"; };
+		5D34AD2D1F1B36850097D4A1 /* lyrics_004_007.html */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.html; path = lyrics_004_007.html; sourceTree = "<group>"; };
+		5D34AD2E1F1B36850097D4A1 /* albumDetails_004.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = albumDetails_004.json; sourceTree = "<group>"; };
+		5D34AD311F1B36850097D4A1 /* lyrics_005_001.html */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.html; path = lyrics_005_001.html; sourceTree = "<group>"; };
+		5D34AD331F1B36850097D4A1 /* lyrics_005_002.html */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.html; path = lyrics_005_002.html; sourceTree = "<group>"; };
+		5D34AD351F1B36850097D4A1 /* lyrics_005_003.html */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.html; path = lyrics_005_003.html; sourceTree = "<group>"; };
+		5D34AD371F1B36850097D4A1 /* lyrics_005_004.html */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.html; path = lyrics_005_004.html; sourceTree = "<group>"; };
+		5D34AD391F1B36850097D4A1 /* lyrics_005_005.html */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.html; path = lyrics_005_005.html; sourceTree = "<group>"; };
+		5D34AD3B1F1B36850097D4A1 /* lyrics_005_006.html */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.html; path = lyrics_005_006.html; sourceTree = "<group>"; };
+		5D34AD3C1F1B36850097D4A1 /* albumDetails_005.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = albumDetails_005.json; sourceTree = "<group>"; };
+		5D34AD3F1F1B36850097D4A1 /* lyrics_009_001.html */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.html; path = lyrics_009_001.html; sourceTree = "<group>"; };
+		5D34AD411F1B36850097D4A1 /* lyrics_009_002.html */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.html; path = lyrics_009_002.html; sourceTree = "<group>"; };
+		5D34AD431F1B36850097D4A1 /* lyrics_009_003.html */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.html; path = lyrics_009_003.html; sourceTree = "<group>"; };
+		5D34AD451F1B36850097D4A1 /* lyrics_009_004.html */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.html; path = lyrics_009_004.html; sourceTree = "<group>"; };
+		5D34AD471F1B36850097D4A1 /* lyrics_009_005.html */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.html; path = lyrics_009_005.html; sourceTree = "<group>"; };
+		5D34AD491F1B36850097D4A1 /* lyrics_009_006.html */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.html; path = lyrics_009_006.html; sourceTree = "<group>"; };
+		5D34AD4A1F1B36850097D4A1 /* albumDetails_009.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = albumDetails_009.json; sourceTree = "<group>"; };
+		5D34AD4D1F1B36850097D4A1 /* lyrics_010_001.html */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.html; path = lyrics_010_001.html; sourceTree = "<group>"; };
+		5D34AD4F1F1B36850097D4A1 /* lyrics_010_002.html */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.html; path = lyrics_010_002.html; sourceTree = "<group>"; };
+		5D34AD511F1B36850097D4A1 /* lyrics_010_003.html */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.html; path = lyrics_010_003.html; sourceTree = "<group>"; };
+		5D34AD531F1B36850097D4A1 /* lyrics_010_004.html */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.html; path = lyrics_010_004.html; sourceTree = "<group>"; };
+		5D34AD551F1B36850097D4A1 /* lyrics_010_005.html */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.html; path = lyrics_010_005.html; sourceTree = "<group>"; };
+		5D34AD571F1B36850097D4A1 /* lyrics_010_006.html */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.html; path = lyrics_010_006.html; sourceTree = "<group>"; };
+		5D34AD591F1B36850097D4A1 /* lyrics_010_007.html */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.html; path = lyrics_010_007.html; sourceTree = "<group>"; };
+		5D34AD5B1F1B36850097D4A1 /* lyrics_010_008.html */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.html; path = lyrics_010_008.html; sourceTree = "<group>"; };
+		5D34AD5D1F1B36850097D4A1 /* lyrics_010_009.html */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.html; path = lyrics_010_009.html; sourceTree = "<group>"; };
+		5D34AD5F1F1B36850097D4A1 /* lyrics_010_010.html */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.html; path = lyrics_010_010.html; sourceTree = "<group>"; };
+		5D34AD611F1B36850097D4A1 /* lyrics_010_011.html */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.html; path = lyrics_010_011.html; sourceTree = "<group>"; };
+		5D34AD631F1B36850097D4A1 /* lyrics_010_012.html */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.html; path = lyrics_010_012.html; sourceTree = "<group>"; };
+		5D34AD651F1B36850097D4A1 /* lyrics_010_013.html */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.html; path = lyrics_010_013.html; sourceTree = "<group>"; };
+		5D34AD671F1B36850097D4A1 /* lyrics_010_014.html */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.html; path = lyrics_010_014.html; sourceTree = "<group>"; };
+		5D34AD681F1B36850097D4A1 /* albumDetails_010.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = albumDetails_010.json; sourceTree = "<group>"; };
+		5D34AD6B1F1B36850097D4A1 /* lyrics_011_001.html */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.html; path = lyrics_011_001.html; sourceTree = "<group>"; };
+		5D34AD6D1F1B36850097D4A1 /* lyrics_011_002.html */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.html; path = lyrics_011_002.html; sourceTree = "<group>"; };
+		5D34AD6F1F1B36850097D4A1 /* lyrics_011_003.html */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.html; path = lyrics_011_003.html; sourceTree = "<group>"; };
+		5D34AD711F1B36850097D4A1 /* lyrics_011_004.html */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.html; path = lyrics_011_004.html; sourceTree = "<group>"; };
+		5D34AD731F1B36850097D4A1 /* lyrics_011_005.html */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.html; path = lyrics_011_005.html; sourceTree = "<group>"; };
+		5D34AD751F1B36850097D4A1 /* lyrics_011_006.html */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.html; path = lyrics_011_006.html; sourceTree = "<group>"; };
+		5D34AD771F1B36850097D4A1 /* lyrics_011_007.html */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.html; path = lyrics_011_007.html; sourceTree = "<group>"; };
+		5D34AD791F1B36850097D4A1 /* lyrics_011_008.html */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.html; path = lyrics_011_008.html; sourceTree = "<group>"; };
+		5D34AD7B1F1B36850097D4A1 /* lyrics_011_009.html */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.html; path = lyrics_011_009.html; sourceTree = "<group>"; };
+		5D34AD7D1F1B36850097D4A1 /* lyrics_011_010.html */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.html; path = lyrics_011_010.html; sourceTree = "<group>"; };
+		5D34AD7F1F1B36850097D4A1 /* lyrics_011_011.html */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.html; path = lyrics_011_011.html; sourceTree = "<group>"; };
+		5D34AD811F1B36850097D4A1 /* lyrics_011_012.html */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.html; path = lyrics_011_012.html; sourceTree = "<group>"; };
+		5D34AD831F1B36850097D4A1 /* lyrics_011_013.html */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.html; path = lyrics_011_013.html; sourceTree = "<group>"; };
+		5D34AD851F1B36850097D4A1 /* lyrics_011_014.html */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.html; path = lyrics_011_014.html; sourceTree = "<group>"; };
+		5D34AD871F1B36850097D4A1 /* lyrics_011_015.html */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.html; path = lyrics_011_015.html; sourceTree = "<group>"; };
+		5D34AD881F1B36850097D4A1 /* albumDetails_011.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = albumDetails_011.json; sourceTree = "<group>"; };
+		5D34AD891F1B36850097D4A1 /* albums.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = albums.json; sourceTree = "<group>"; };
+		5D34ADE21F1B39960097D4A1 /* Song.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Song.h; sourceTree = "<group>"; };
+		5D34ADE31F1B39960097D4A1 /* Song.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = Song.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -290,6 +293,8 @@
 				5D34AB8F1F1509FB0097D4A1 /* AppDelegate.m */,
 				5D34ACD71F1521F00097D4A1 /* Album.h */,
 				5D34ACD81F1521F00097D4A1 /* Album.m */,
+				5D34ADE21F1B39960097D4A1 /* Song.h */,
+				5D34ADE31F1B39960097D4A1 /* Song.m */,
 				5D34AB911F1509FB0097D4A1 /* MainViewController.h */,
 				5D34AB921F1509FB0097D4A1 /* MainViewController.m */,
 				5D34ABBE1F150A320097D4A1 /* AlbumViewController.h */,
@@ -300,7 +305,7 @@
 				5D34AB971F1509FB0097D4A1 /* Assets.xcassets */,
 				5D34AB991F1509FB0097D4A1 /* LaunchScreen.storyboard */,
 				5D34AB9C1F1509FB0097D4A1 /* Info.plist */,
-				5D34ABC41F151C3A0097D4A1 /* Data */,
+				5D34ACDA1F1B36850097D4A1 /* Data */,
 				5D34AB8B1F1509FB0097D4A1 /* Supporting Files */,
 			);
 			path = Tungalahari;
@@ -332,793 +337,793 @@
 			path = TungalahariUITests;
 			sourceTree = "<group>";
 		};
-		5D34ABC41F151C3A0097D4A1 /* Data */ = {
+		5D34ACDA1F1B36850097D4A1 /* Data */ = {
 			isa = PBXGroup;
 			children = (
-				5D34ABC51F151C3A0097D4A1 /* 001 */,
-				5D34ABD91F151C3A0097D4A1 /* 002 */,
-				5D34ABFB1F151C3A0097D4A1 /* 003 */,
-				5D34AC091F151C3A0097D4A1 /* 004 */,
-				5D34AC191F151C3A0097D4A1 /* 005 */,
-				5D34AC271F151C3A0097D4A1 /* 009 */,
-				5D34AC351F151C3A0097D4A1 /* 010 */,
-				5D34AC531F151C3A0097D4A1 /* 011 */,
-				5D34AC731F151C3A0097D4A1 /* albums.json */,
+				5D34ACDB1F1B36850097D4A1 /* 001 */,
+				5D34ACEF1F1B36850097D4A1 /* 002 */,
+				5D34AD111F1B36850097D4A1 /* 003 */,
+				5D34AD1F1F1B36850097D4A1 /* 004 */,
+				5D34AD2F1F1B36850097D4A1 /* 005 */,
+				5D34AD3D1F1B36850097D4A1 /* 009 */,
+				5D34AD4B1F1B36850097D4A1 /* 010 */,
+				5D34AD691F1B36850097D4A1 /* 011 */,
+				5D34AD891F1B36850097D4A1 /* albums.json */,
 			);
 			path = Data;
 			sourceTree = "<group>";
 		};
-		5D34ABC51F151C3A0097D4A1 /* 001 */ = {
+		5D34ACDB1F1B36850097D4A1 /* 001 */ = {
 			isa = PBXGroup;
 			children = (
-				5D34ABC61F151C3A0097D4A1 /* 001 */,
-				5D34ABC81F151C3A0097D4A1 /* 002 */,
-				5D34ABCA1F151C3A0097D4A1 /* 003 */,
-				5D34ABCC1F151C3A0097D4A1 /* 004 */,
-				5D34ABCE1F151C3A0097D4A1 /* 005 */,
-				5D34ABD01F151C3A0097D4A1 /* 006 */,
-				5D34ABD21F151C3A0097D4A1 /* 007 */,
-				5D34ABD41F151C3A0097D4A1 /* 008 */,
-				5D34ABD61F151C3A0097D4A1 /* 009 */,
-				5D34ABD81F151C3A0097D4A1 /* albumDetails.json */,
+				5D34ACDC1F1B36850097D4A1 /* 001 */,
+				5D34ACDE1F1B36850097D4A1 /* 002 */,
+				5D34ACE01F1B36850097D4A1 /* 003 */,
+				5D34ACE21F1B36850097D4A1 /* 004 */,
+				5D34ACE41F1B36850097D4A1 /* 005 */,
+				5D34ACE61F1B36850097D4A1 /* 006 */,
+				5D34ACE81F1B36850097D4A1 /* 007 */,
+				5D34ACEA1F1B36850097D4A1 /* 008 */,
+				5D34ACEC1F1B36850097D4A1 /* 009 */,
+				5D34ACEE1F1B36850097D4A1 /* albumDetails_001.json */,
 			);
 			path = 001;
 			sourceTree = "<group>";
 		};
-		5D34ABC61F151C3A0097D4A1 /* 001 */ = {
+		5D34ACDC1F1B36850097D4A1 /* 001 */ = {
 			isa = PBXGroup;
 			children = (
-				5D34ABC71F151C3A0097D4A1 /* lyrics.html */,
+				5D34ACDD1F1B36850097D4A1 /* lyrics_001_001.html */,
 			);
 			path = 001;
 			sourceTree = "<group>";
 		};
-		5D34ABC81F151C3A0097D4A1 /* 002 */ = {
+		5D34ACDE1F1B36850097D4A1 /* 002 */ = {
 			isa = PBXGroup;
 			children = (
-				5D34ABC91F151C3A0097D4A1 /* lyrics.html */,
+				5D34ACDF1F1B36850097D4A1 /* lyrics_001_002.html */,
 			);
 			path = 002;
 			sourceTree = "<group>";
 		};
-		5D34ABCA1F151C3A0097D4A1 /* 003 */ = {
+		5D34ACE01F1B36850097D4A1 /* 003 */ = {
 			isa = PBXGroup;
 			children = (
-				5D34ABCB1F151C3A0097D4A1 /* lyrics.html */,
+				5D34ACE11F1B36850097D4A1 /* lyrics_001_003.html */,
 			);
 			path = 003;
 			sourceTree = "<group>";
 		};
-		5D34ABCC1F151C3A0097D4A1 /* 004 */ = {
+		5D34ACE21F1B36850097D4A1 /* 004 */ = {
 			isa = PBXGroup;
 			children = (
-				5D34ABCD1F151C3A0097D4A1 /* lyrics.html */,
+				5D34ACE31F1B36850097D4A1 /* lyrics_001_004.html */,
 			);
 			path = 004;
 			sourceTree = "<group>";
 		};
-		5D34ABCE1F151C3A0097D4A1 /* 005 */ = {
+		5D34ACE41F1B36850097D4A1 /* 005 */ = {
 			isa = PBXGroup;
 			children = (
-				5D34ABCF1F151C3A0097D4A1 /* lyrics.html */,
+				5D34ACE51F1B36850097D4A1 /* lyrics_001_005.html */,
 			);
 			path = 005;
 			sourceTree = "<group>";
 		};
-		5D34ABD01F151C3A0097D4A1 /* 006 */ = {
+		5D34ACE61F1B36850097D4A1 /* 006 */ = {
 			isa = PBXGroup;
 			children = (
-				5D34ABD11F151C3A0097D4A1 /* lyrics.html */,
+				5D34ACE71F1B36850097D4A1 /* lyrics_001_006.html */,
 			);
 			path = 006;
 			sourceTree = "<group>";
 		};
-		5D34ABD21F151C3A0097D4A1 /* 007 */ = {
+		5D34ACE81F1B36850097D4A1 /* 007 */ = {
 			isa = PBXGroup;
 			children = (
-				5D34ABD31F151C3A0097D4A1 /* lyrics.html */,
+				5D34ACE91F1B36850097D4A1 /* lyrics_001_007.html */,
 			);
 			path = 007;
 			sourceTree = "<group>";
 		};
-		5D34ABD41F151C3A0097D4A1 /* 008 */ = {
+		5D34ACEA1F1B36850097D4A1 /* 008 */ = {
 			isa = PBXGroup;
 			children = (
-				5D34ABD51F151C3A0097D4A1 /* lyrics.html */,
+				5D34ACEB1F1B36850097D4A1 /* lyrics_001_008.html */,
 			);
 			path = 008;
 			sourceTree = "<group>";
 		};
-		5D34ABD61F151C3A0097D4A1 /* 009 */ = {
+		5D34ACEC1F1B36850097D4A1 /* 009 */ = {
 			isa = PBXGroup;
 			children = (
-				5D34ABD71F151C3A0097D4A1 /* lyrics.html */,
+				5D34ACED1F1B36850097D4A1 /* lyrics_001_009.html */,
 			);
 			path = 009;
 			sourceTree = "<group>";
 		};
-		5D34ABD91F151C3A0097D4A1 /* 002 */ = {
+		5D34ACEF1F1B36850097D4A1 /* 002 */ = {
 			isa = PBXGroup;
 			children = (
-				5D34ABDA1F151C3A0097D4A1 /* 001 */,
-				5D34ABDC1F151C3A0097D4A1 /* 002 */,
-				5D34ABDE1F151C3A0097D4A1 /* 003 */,
-				5D34ABE01F151C3A0097D4A1 /* 004 */,
-				5D34ABE21F151C3A0097D4A1 /* 005 */,
-				5D34ABE41F151C3A0097D4A1 /* 006 */,
-				5D34ABE61F151C3A0097D4A1 /* 007 */,
-				5D34ABE81F151C3A0097D4A1 /* 008 */,
-				5D34ABEA1F151C3A0097D4A1 /* 009 */,
-				5D34ABEC1F151C3A0097D4A1 /* 010 */,
-				5D34ABEE1F151C3A0097D4A1 /* 011 */,
-				5D34ABF01F151C3A0097D4A1 /* 012 */,
-				5D34ABF21F151C3A0097D4A1 /* 013 */,
-				5D34ABF41F151C3A0097D4A1 /* 014 */,
-				5D34ABF61F151C3A0097D4A1 /* 015 */,
-				5D34ABF81F151C3A0097D4A1 /* 016 */,
-				5D34ABFA1F151C3A0097D4A1 /* albumDetails.json */,
+				5D34ACF01F1B36850097D4A1 /* 001 */,
+				5D34ACF21F1B36850097D4A1 /* 002 */,
+				5D34ACF41F1B36850097D4A1 /* 003 */,
+				5D34ACF61F1B36850097D4A1 /* 004 */,
+				5D34ACF81F1B36850097D4A1 /* 005 */,
+				5D34ACFA1F1B36850097D4A1 /* 006 */,
+				5D34ACFC1F1B36850097D4A1 /* 007 */,
+				5D34ACFE1F1B36850097D4A1 /* 008 */,
+				5D34AD001F1B36850097D4A1 /* 009 */,
+				5D34AD021F1B36850097D4A1 /* 010 */,
+				5D34AD041F1B36850097D4A1 /* 011 */,
+				5D34AD061F1B36850097D4A1 /* 012 */,
+				5D34AD081F1B36850097D4A1 /* 013 */,
+				5D34AD0A1F1B36850097D4A1 /* 014 */,
+				5D34AD0C1F1B36850097D4A1 /* 015 */,
+				5D34AD0E1F1B36850097D4A1 /* 016 */,
+				5D34AD101F1B36850097D4A1 /* albumDetails_002.json */,
 			);
 			path = 002;
 			sourceTree = "<group>";
 		};
-		5D34ABDA1F151C3A0097D4A1 /* 001 */ = {
+		5D34ACF01F1B36850097D4A1 /* 001 */ = {
 			isa = PBXGroup;
 			children = (
-				5D34ABDB1F151C3A0097D4A1 /* lyrics.html */,
+				5D34ACF11F1B36850097D4A1 /* lyrics_002_001.html */,
 			);
 			path = 001;
 			sourceTree = "<group>";
 		};
-		5D34ABDC1F151C3A0097D4A1 /* 002 */ = {
+		5D34ACF21F1B36850097D4A1 /* 002 */ = {
 			isa = PBXGroup;
 			children = (
-				5D34ABDD1F151C3A0097D4A1 /* lyrics.html */,
+				5D34ACF31F1B36850097D4A1 /* lyrics_002_002.html */,
 			);
 			path = 002;
 			sourceTree = "<group>";
 		};
-		5D34ABDE1F151C3A0097D4A1 /* 003 */ = {
+		5D34ACF41F1B36850097D4A1 /* 003 */ = {
 			isa = PBXGroup;
 			children = (
-				5D34ABDF1F151C3A0097D4A1 /* lyrics.html */,
+				5D34ACF51F1B36850097D4A1 /* lyrics_002_003.html */,
 			);
 			path = 003;
 			sourceTree = "<group>";
 		};
-		5D34ABE01F151C3A0097D4A1 /* 004 */ = {
+		5D34ACF61F1B36850097D4A1 /* 004 */ = {
 			isa = PBXGroup;
 			children = (
-				5D34ABE11F151C3A0097D4A1 /* lyrics.html */,
+				5D34ACF71F1B36850097D4A1 /* lyrics_002_004.html */,
 			);
 			path = 004;
 			sourceTree = "<group>";
 		};
-		5D34ABE21F151C3A0097D4A1 /* 005 */ = {
+		5D34ACF81F1B36850097D4A1 /* 005 */ = {
 			isa = PBXGroup;
 			children = (
-				5D34ABE31F151C3A0097D4A1 /* lyrics.html */,
+				5D34ACF91F1B36850097D4A1 /* lyrics_002_005.html */,
 			);
 			path = 005;
 			sourceTree = "<group>";
 		};
-		5D34ABE41F151C3A0097D4A1 /* 006 */ = {
+		5D34ACFA1F1B36850097D4A1 /* 006 */ = {
 			isa = PBXGroup;
 			children = (
-				5D34ABE51F151C3A0097D4A1 /* lyrics.html */,
+				5D34ACFB1F1B36850097D4A1 /* lyrics_002_006.html */,
 			);
 			path = 006;
 			sourceTree = "<group>";
 		};
-		5D34ABE61F151C3A0097D4A1 /* 007 */ = {
+		5D34ACFC1F1B36850097D4A1 /* 007 */ = {
 			isa = PBXGroup;
 			children = (
-				5D34ABE71F151C3A0097D4A1 /* lyrics.html */,
+				5D34ACFD1F1B36850097D4A1 /* lyrics_002_007.html */,
 			);
 			path = 007;
 			sourceTree = "<group>";
 		};
-		5D34ABE81F151C3A0097D4A1 /* 008 */ = {
+		5D34ACFE1F1B36850097D4A1 /* 008 */ = {
 			isa = PBXGroup;
 			children = (
-				5D34ABE91F151C3A0097D4A1 /* lyrics.html */,
+				5D34ACFF1F1B36850097D4A1 /* lyrics_002_008.html */,
 			);
 			path = 008;
 			sourceTree = "<group>";
 		};
-		5D34ABEA1F151C3A0097D4A1 /* 009 */ = {
+		5D34AD001F1B36850097D4A1 /* 009 */ = {
 			isa = PBXGroup;
 			children = (
-				5D34ABEB1F151C3A0097D4A1 /* lyrics.html */,
+				5D34AD011F1B36850097D4A1 /* lyrics_002_009.html */,
 			);
 			path = 009;
 			sourceTree = "<group>";
 		};
-		5D34ABEC1F151C3A0097D4A1 /* 010 */ = {
+		5D34AD021F1B36850097D4A1 /* 010 */ = {
 			isa = PBXGroup;
 			children = (
-				5D34ABED1F151C3A0097D4A1 /* lyrics.html */,
+				5D34AD031F1B36850097D4A1 /* lyrics_002_010.html */,
 			);
 			path = 010;
 			sourceTree = "<group>";
 		};
-		5D34ABEE1F151C3A0097D4A1 /* 011 */ = {
+		5D34AD041F1B36850097D4A1 /* 011 */ = {
 			isa = PBXGroup;
 			children = (
-				5D34ABEF1F151C3A0097D4A1 /* lyrics.html */,
+				5D34AD051F1B36850097D4A1 /* lyrics_002_011.html */,
 			);
 			path = 011;
 			sourceTree = "<group>";
 		};
-		5D34ABF01F151C3A0097D4A1 /* 012 */ = {
+		5D34AD061F1B36850097D4A1 /* 012 */ = {
 			isa = PBXGroup;
 			children = (
-				5D34ABF11F151C3A0097D4A1 /* lyrics.html */,
+				5D34AD071F1B36850097D4A1 /* lyrics_002_012.html */,
 			);
 			path = 012;
 			sourceTree = "<group>";
 		};
-		5D34ABF21F151C3A0097D4A1 /* 013 */ = {
+		5D34AD081F1B36850097D4A1 /* 013 */ = {
 			isa = PBXGroup;
 			children = (
-				5D34ABF31F151C3A0097D4A1 /* lyrics.html */,
+				5D34AD091F1B36850097D4A1 /* lyrics_002_013.html */,
 			);
 			path = 013;
 			sourceTree = "<group>";
 		};
-		5D34ABF41F151C3A0097D4A1 /* 014 */ = {
+		5D34AD0A1F1B36850097D4A1 /* 014 */ = {
 			isa = PBXGroup;
 			children = (
-				5D34ABF51F151C3A0097D4A1 /* lyrics.html */,
+				5D34AD0B1F1B36850097D4A1 /* lyrics_002_014.html */,
 			);
 			path = 014;
 			sourceTree = "<group>";
 		};
-		5D34ABF61F151C3A0097D4A1 /* 015 */ = {
+		5D34AD0C1F1B36850097D4A1 /* 015 */ = {
 			isa = PBXGroup;
 			children = (
-				5D34ABF71F151C3A0097D4A1 /* lyrics.html */,
+				5D34AD0D1F1B36850097D4A1 /* lyrics_002_015.html */,
 			);
 			path = 015;
 			sourceTree = "<group>";
 		};
-		5D34ABF81F151C3A0097D4A1 /* 016 */ = {
+		5D34AD0E1F1B36850097D4A1 /* 016 */ = {
 			isa = PBXGroup;
 			children = (
-				5D34ABF91F151C3A0097D4A1 /* lyrics.html */,
+				5D34AD0F1F1B36850097D4A1 /* lyrics_002_016.html */,
 			);
 			path = 016;
 			sourceTree = "<group>";
 		};
-		5D34ABFB1F151C3A0097D4A1 /* 003 */ = {
+		5D34AD111F1B36850097D4A1 /* 003 */ = {
 			isa = PBXGroup;
 			children = (
-				5D34ABFC1F151C3A0097D4A1 /* 001 */,
-				5D34ABFE1F151C3A0097D4A1 /* 002 */,
-				5D34AC001F151C3A0097D4A1 /* 003 */,
-				5D34AC021F151C3A0097D4A1 /* 004 */,
-				5D34AC041F151C3A0097D4A1 /* 005 */,
-				5D34AC061F151C3A0097D4A1 /* 006 */,
-				5D34AC081F151C3A0097D4A1 /* albumDetails.json */,
+				5D34AD121F1B36850097D4A1 /* 001 */,
+				5D34AD141F1B36850097D4A1 /* 002 */,
+				5D34AD161F1B36850097D4A1 /* 003 */,
+				5D34AD181F1B36850097D4A1 /* 004 */,
+				5D34AD1A1F1B36850097D4A1 /* 005 */,
+				5D34AD1C1F1B36850097D4A1 /* 006 */,
+				5D34AD1E1F1B36850097D4A1 /* albumDetails_003.json */,
 			);
 			path = 003;
 			sourceTree = "<group>";
 		};
-		5D34ABFC1F151C3A0097D4A1 /* 001 */ = {
+		5D34AD121F1B36850097D4A1 /* 001 */ = {
 			isa = PBXGroup;
 			children = (
-				5D34ABFD1F151C3A0097D4A1 /* lyrics.html */,
+				5D34AD131F1B36850097D4A1 /* lyrics_003_001.html */,
 			);
 			path = 001;
 			sourceTree = "<group>";
 		};
-		5D34ABFE1F151C3A0097D4A1 /* 002 */ = {
+		5D34AD141F1B36850097D4A1 /* 002 */ = {
 			isa = PBXGroup;
 			children = (
-				5D34ABFF1F151C3A0097D4A1 /* lyrics.html */,
+				5D34AD151F1B36850097D4A1 /* lyrics_003_002.html */,
 			);
 			path = 002;
 			sourceTree = "<group>";
 		};
-		5D34AC001F151C3A0097D4A1 /* 003 */ = {
+		5D34AD161F1B36850097D4A1 /* 003 */ = {
 			isa = PBXGroup;
 			children = (
-				5D34AC011F151C3A0097D4A1 /* lyrics.html */,
+				5D34AD171F1B36850097D4A1 /* lyrics_003_003.html */,
 			);
 			path = 003;
 			sourceTree = "<group>";
 		};
-		5D34AC021F151C3A0097D4A1 /* 004 */ = {
+		5D34AD181F1B36850097D4A1 /* 004 */ = {
 			isa = PBXGroup;
 			children = (
-				5D34AC031F151C3A0097D4A1 /* lyrics.html */,
+				5D34AD191F1B36850097D4A1 /* lyrics_003_004.html */,
 			);
 			path = 004;
 			sourceTree = "<group>";
 		};
-		5D34AC041F151C3A0097D4A1 /* 005 */ = {
+		5D34AD1A1F1B36850097D4A1 /* 005 */ = {
 			isa = PBXGroup;
 			children = (
-				5D34AC051F151C3A0097D4A1 /* lyrics.html */,
+				5D34AD1B1F1B36850097D4A1 /* lyrics_003_005.html */,
 			);
 			path = 005;
 			sourceTree = "<group>";
 		};
-		5D34AC061F151C3A0097D4A1 /* 006 */ = {
+		5D34AD1C1F1B36850097D4A1 /* 006 */ = {
 			isa = PBXGroup;
 			children = (
-				5D34AC071F151C3A0097D4A1 /* lyrics.html */,
+				5D34AD1D1F1B36850097D4A1 /* lyrics_003_006.html */,
 			);
 			path = 006;
 			sourceTree = "<group>";
 		};
-		5D34AC091F151C3A0097D4A1 /* 004 */ = {
+		5D34AD1F1F1B36850097D4A1 /* 004 */ = {
 			isa = PBXGroup;
 			children = (
-				5D34AC0A1F151C3A0097D4A1 /* 001 */,
-				5D34AC0C1F151C3A0097D4A1 /* 002 */,
-				5D34AC0E1F151C3A0097D4A1 /* 003 */,
-				5D34AC101F151C3A0097D4A1 /* 004 */,
-				5D34AC121F151C3A0097D4A1 /* 005 */,
-				5D34AC141F151C3A0097D4A1 /* 006 */,
-				5D34AC161F151C3A0097D4A1 /* 007 */,
-				5D34AC181F151C3A0097D4A1 /* albumDetails.json */,
+				5D34AD201F1B36850097D4A1 /* 001 */,
+				5D34AD221F1B36850097D4A1 /* 002 */,
+				5D34AD241F1B36850097D4A1 /* 003 */,
+				5D34AD261F1B36850097D4A1 /* 004 */,
+				5D34AD281F1B36850097D4A1 /* 005 */,
+				5D34AD2A1F1B36850097D4A1 /* 006 */,
+				5D34AD2C1F1B36850097D4A1 /* 007 */,
+				5D34AD2E1F1B36850097D4A1 /* albumDetails_004.json */,
 			);
 			path = 004;
 			sourceTree = "<group>";
 		};
-		5D34AC0A1F151C3A0097D4A1 /* 001 */ = {
+		5D34AD201F1B36850097D4A1 /* 001 */ = {
 			isa = PBXGroup;
 			children = (
-				5D34AC0B1F151C3A0097D4A1 /* lyrics.html */,
+				5D34AD211F1B36850097D4A1 /* lyrics_004_001.html */,
 			);
 			path = 001;
 			sourceTree = "<group>";
 		};
-		5D34AC0C1F151C3A0097D4A1 /* 002 */ = {
+		5D34AD221F1B36850097D4A1 /* 002 */ = {
 			isa = PBXGroup;
 			children = (
-				5D34AC0D1F151C3A0097D4A1 /* lyrics.html */,
+				5D34AD231F1B36850097D4A1 /* lyrics_004_002.html */,
 			);
 			path = 002;
 			sourceTree = "<group>";
 		};
-		5D34AC0E1F151C3A0097D4A1 /* 003 */ = {
+		5D34AD241F1B36850097D4A1 /* 003 */ = {
 			isa = PBXGroup;
 			children = (
-				5D34AC0F1F151C3A0097D4A1 /* lyrics.html */,
+				5D34AD251F1B36850097D4A1 /* lyrics_004_003.html */,
 			);
 			path = 003;
 			sourceTree = "<group>";
 		};
-		5D34AC101F151C3A0097D4A1 /* 004 */ = {
+		5D34AD261F1B36850097D4A1 /* 004 */ = {
 			isa = PBXGroup;
 			children = (
-				5D34AC111F151C3A0097D4A1 /* lyrics.html */,
+				5D34AD271F1B36850097D4A1 /* lyrics_004_004.html */,
 			);
 			path = 004;
 			sourceTree = "<group>";
 		};
-		5D34AC121F151C3A0097D4A1 /* 005 */ = {
+		5D34AD281F1B36850097D4A1 /* 005 */ = {
 			isa = PBXGroup;
 			children = (
-				5D34AC131F151C3A0097D4A1 /* lyrics.html */,
+				5D34AD291F1B36850097D4A1 /* lyrics_004_005.html */,
 			);
 			path = 005;
 			sourceTree = "<group>";
 		};
-		5D34AC141F151C3A0097D4A1 /* 006 */ = {
+		5D34AD2A1F1B36850097D4A1 /* 006 */ = {
 			isa = PBXGroup;
 			children = (
-				5D34AC151F151C3A0097D4A1 /* lyrics.html */,
+				5D34AD2B1F1B36850097D4A1 /* lyrics_004_006.html */,
 			);
 			path = 006;
 			sourceTree = "<group>";
 		};
-		5D34AC161F151C3A0097D4A1 /* 007 */ = {
+		5D34AD2C1F1B36850097D4A1 /* 007 */ = {
 			isa = PBXGroup;
 			children = (
-				5D34AC171F151C3A0097D4A1 /* lyrics.html */,
+				5D34AD2D1F1B36850097D4A1 /* lyrics_004_007.html */,
 			);
 			path = 007;
 			sourceTree = "<group>";
 		};
-		5D34AC191F151C3A0097D4A1 /* 005 */ = {
+		5D34AD2F1F1B36850097D4A1 /* 005 */ = {
 			isa = PBXGroup;
 			children = (
-				5D34AC1A1F151C3A0097D4A1 /* 001 */,
-				5D34AC1C1F151C3A0097D4A1 /* 002 */,
-				5D34AC1E1F151C3A0097D4A1 /* 003 */,
-				5D34AC201F151C3A0097D4A1 /* 004 */,
-				5D34AC221F151C3A0097D4A1 /* 005 */,
-				5D34AC241F151C3A0097D4A1 /* 006 */,
-				5D34AC261F151C3A0097D4A1 /* albumDetails.json */,
+				5D34AD301F1B36850097D4A1 /* 001 */,
+				5D34AD321F1B36850097D4A1 /* 002 */,
+				5D34AD341F1B36850097D4A1 /* 003 */,
+				5D34AD361F1B36850097D4A1 /* 004 */,
+				5D34AD381F1B36850097D4A1 /* 005 */,
+				5D34AD3A1F1B36850097D4A1 /* 006 */,
+				5D34AD3C1F1B36850097D4A1 /* albumDetails_005.json */,
 			);
 			path = 005;
 			sourceTree = "<group>";
 		};
-		5D34AC1A1F151C3A0097D4A1 /* 001 */ = {
+		5D34AD301F1B36850097D4A1 /* 001 */ = {
 			isa = PBXGroup;
 			children = (
-				5D34AC1B1F151C3A0097D4A1 /* lyrics.html */,
+				5D34AD311F1B36850097D4A1 /* lyrics_005_001.html */,
 			);
 			path = 001;
 			sourceTree = "<group>";
 		};
-		5D34AC1C1F151C3A0097D4A1 /* 002 */ = {
+		5D34AD321F1B36850097D4A1 /* 002 */ = {
 			isa = PBXGroup;
 			children = (
-				5D34AC1D1F151C3A0097D4A1 /* lyrics.html */,
+				5D34AD331F1B36850097D4A1 /* lyrics_005_002.html */,
 			);
 			path = 002;
 			sourceTree = "<group>";
 		};
-		5D34AC1E1F151C3A0097D4A1 /* 003 */ = {
+		5D34AD341F1B36850097D4A1 /* 003 */ = {
 			isa = PBXGroup;
 			children = (
-				5D34AC1F1F151C3A0097D4A1 /* lyrics.html */,
+				5D34AD351F1B36850097D4A1 /* lyrics_005_003.html */,
 			);
 			path = 003;
 			sourceTree = "<group>";
 		};
-		5D34AC201F151C3A0097D4A1 /* 004 */ = {
+		5D34AD361F1B36850097D4A1 /* 004 */ = {
 			isa = PBXGroup;
 			children = (
-				5D34AC211F151C3A0097D4A1 /* lyrics.html */,
+				5D34AD371F1B36850097D4A1 /* lyrics_005_004.html */,
 			);
 			path = 004;
 			sourceTree = "<group>";
 		};
-		5D34AC221F151C3A0097D4A1 /* 005 */ = {
+		5D34AD381F1B36850097D4A1 /* 005 */ = {
 			isa = PBXGroup;
 			children = (
-				5D34AC231F151C3A0097D4A1 /* lyrics.html */,
+				5D34AD391F1B36850097D4A1 /* lyrics_005_005.html */,
 			);
 			path = 005;
 			sourceTree = "<group>";
 		};
-		5D34AC241F151C3A0097D4A1 /* 006 */ = {
+		5D34AD3A1F1B36850097D4A1 /* 006 */ = {
 			isa = PBXGroup;
 			children = (
-				5D34AC251F151C3A0097D4A1 /* lyrics.html */,
+				5D34AD3B1F1B36850097D4A1 /* lyrics_005_006.html */,
 			);
 			path = 006;
 			sourceTree = "<group>";
 		};
-		5D34AC271F151C3A0097D4A1 /* 009 */ = {
+		5D34AD3D1F1B36850097D4A1 /* 009 */ = {
 			isa = PBXGroup;
 			children = (
-				5D34AC281F151C3A0097D4A1 /* 001 */,
-				5D34AC2A1F151C3A0097D4A1 /* 002 */,
-				5D34AC2C1F151C3A0097D4A1 /* 003 */,
-				5D34AC2E1F151C3A0097D4A1 /* 004 */,
-				5D34AC301F151C3A0097D4A1 /* 005 */,
-				5D34AC321F151C3A0097D4A1 /* 006 */,
-				5D34AC341F151C3A0097D4A1 /* albumDetails.json */,
+				5D34AD3E1F1B36850097D4A1 /* 001 */,
+				5D34AD401F1B36850097D4A1 /* 002 */,
+				5D34AD421F1B36850097D4A1 /* 003 */,
+				5D34AD441F1B36850097D4A1 /* 004 */,
+				5D34AD461F1B36850097D4A1 /* 005 */,
+				5D34AD481F1B36850097D4A1 /* 006 */,
+				5D34AD4A1F1B36850097D4A1 /* albumDetails_009.json */,
 			);
 			path = 009;
 			sourceTree = "<group>";
 		};
-		5D34AC281F151C3A0097D4A1 /* 001 */ = {
+		5D34AD3E1F1B36850097D4A1 /* 001 */ = {
 			isa = PBXGroup;
 			children = (
-				5D34AC291F151C3A0097D4A1 /* lyrics.html */,
+				5D34AD3F1F1B36850097D4A1 /* lyrics_009_001.html */,
 			);
 			path = 001;
 			sourceTree = "<group>";
 		};
-		5D34AC2A1F151C3A0097D4A1 /* 002 */ = {
+		5D34AD401F1B36850097D4A1 /* 002 */ = {
 			isa = PBXGroup;
 			children = (
-				5D34AC2B1F151C3A0097D4A1 /* lyrics.html */,
+				5D34AD411F1B36850097D4A1 /* lyrics_009_002.html */,
 			);
 			path = 002;
 			sourceTree = "<group>";
 		};
-		5D34AC2C1F151C3A0097D4A1 /* 003 */ = {
+		5D34AD421F1B36850097D4A1 /* 003 */ = {
 			isa = PBXGroup;
 			children = (
-				5D34AC2D1F151C3A0097D4A1 /* lyrics.html */,
+				5D34AD431F1B36850097D4A1 /* lyrics_009_003.html */,
 			);
 			path = 003;
 			sourceTree = "<group>";
 		};
-		5D34AC2E1F151C3A0097D4A1 /* 004 */ = {
+		5D34AD441F1B36850097D4A1 /* 004 */ = {
 			isa = PBXGroup;
 			children = (
-				5D34AC2F1F151C3A0097D4A1 /* lyrics.html */,
+				5D34AD451F1B36850097D4A1 /* lyrics_009_004.html */,
 			);
 			path = 004;
 			sourceTree = "<group>";
 		};
-		5D34AC301F151C3A0097D4A1 /* 005 */ = {
+		5D34AD461F1B36850097D4A1 /* 005 */ = {
 			isa = PBXGroup;
 			children = (
-				5D34AC311F151C3A0097D4A1 /* lyrics.html */,
+				5D34AD471F1B36850097D4A1 /* lyrics_009_005.html */,
 			);
 			path = 005;
 			sourceTree = "<group>";
 		};
-		5D34AC321F151C3A0097D4A1 /* 006 */ = {
+		5D34AD481F1B36850097D4A1 /* 006 */ = {
 			isa = PBXGroup;
 			children = (
-				5D34AC331F151C3A0097D4A1 /* lyrics.html */,
+				5D34AD491F1B36850097D4A1 /* lyrics_009_006.html */,
 			);
 			path = 006;
 			sourceTree = "<group>";
 		};
-		5D34AC351F151C3A0097D4A1 /* 010 */ = {
+		5D34AD4B1F1B36850097D4A1 /* 010 */ = {
 			isa = PBXGroup;
 			children = (
-				5D34AC361F151C3A0097D4A1 /* 001 */,
-				5D34AC381F151C3A0097D4A1 /* 002 */,
-				5D34AC3A1F151C3A0097D4A1 /* 003 */,
-				5D34AC3C1F151C3A0097D4A1 /* 004 */,
-				5D34AC3E1F151C3A0097D4A1 /* 005 */,
-				5D34AC401F151C3A0097D4A1 /* 006 */,
-				5D34AC421F151C3A0097D4A1 /* 007 */,
-				5D34AC441F151C3A0097D4A1 /* 008 */,
-				5D34AC461F151C3A0097D4A1 /* 009 */,
-				5D34AC481F151C3A0097D4A1 /* 010 */,
-				5D34AC4A1F151C3A0097D4A1 /* 011 */,
-				5D34AC4C1F151C3A0097D4A1 /* 012 */,
-				5D34AC4E1F151C3A0097D4A1 /* 013 */,
-				5D34AC501F151C3A0097D4A1 /* 014 */,
-				5D34AC521F151C3A0097D4A1 /* albumDetails.json */,
+				5D34AD4C1F1B36850097D4A1 /* 001 */,
+				5D34AD4E1F1B36850097D4A1 /* 002 */,
+				5D34AD501F1B36850097D4A1 /* 003 */,
+				5D34AD521F1B36850097D4A1 /* 004 */,
+				5D34AD541F1B36850097D4A1 /* 005 */,
+				5D34AD561F1B36850097D4A1 /* 006 */,
+				5D34AD581F1B36850097D4A1 /* 007 */,
+				5D34AD5A1F1B36850097D4A1 /* 008 */,
+				5D34AD5C1F1B36850097D4A1 /* 009 */,
+				5D34AD5E1F1B36850097D4A1 /* 010 */,
+				5D34AD601F1B36850097D4A1 /* 011 */,
+				5D34AD621F1B36850097D4A1 /* 012 */,
+				5D34AD641F1B36850097D4A1 /* 013 */,
+				5D34AD661F1B36850097D4A1 /* 014 */,
+				5D34AD681F1B36850097D4A1 /* albumDetails_010.json */,
 			);
 			path = 010;
 			sourceTree = "<group>";
 		};
-		5D34AC361F151C3A0097D4A1 /* 001 */ = {
+		5D34AD4C1F1B36850097D4A1 /* 001 */ = {
 			isa = PBXGroup;
 			children = (
-				5D34AC371F151C3A0097D4A1 /* lyrics.html */,
+				5D34AD4D1F1B36850097D4A1 /* lyrics_010_001.html */,
 			);
 			path = 001;
 			sourceTree = "<group>";
 		};
-		5D34AC381F151C3A0097D4A1 /* 002 */ = {
+		5D34AD4E1F1B36850097D4A1 /* 002 */ = {
 			isa = PBXGroup;
 			children = (
-				5D34AC391F151C3A0097D4A1 /* lyrics.html */,
+				5D34AD4F1F1B36850097D4A1 /* lyrics_010_002.html */,
 			);
 			path = 002;
 			sourceTree = "<group>";
 		};
-		5D34AC3A1F151C3A0097D4A1 /* 003 */ = {
+		5D34AD501F1B36850097D4A1 /* 003 */ = {
 			isa = PBXGroup;
 			children = (
-				5D34AC3B1F151C3A0097D4A1 /* lyrics.html */,
+				5D34AD511F1B36850097D4A1 /* lyrics_010_003.html */,
 			);
 			path = 003;
 			sourceTree = "<group>";
 		};
-		5D34AC3C1F151C3A0097D4A1 /* 004 */ = {
+		5D34AD521F1B36850097D4A1 /* 004 */ = {
 			isa = PBXGroup;
 			children = (
-				5D34AC3D1F151C3A0097D4A1 /* lyrics.html */,
+				5D34AD531F1B36850097D4A1 /* lyrics_010_004.html */,
 			);
 			path = 004;
 			sourceTree = "<group>";
 		};
-		5D34AC3E1F151C3A0097D4A1 /* 005 */ = {
+		5D34AD541F1B36850097D4A1 /* 005 */ = {
 			isa = PBXGroup;
 			children = (
-				5D34AC3F1F151C3A0097D4A1 /* lyrics.html */,
+				5D34AD551F1B36850097D4A1 /* lyrics_010_005.html */,
 			);
 			path = 005;
 			sourceTree = "<group>";
 		};
-		5D34AC401F151C3A0097D4A1 /* 006 */ = {
+		5D34AD561F1B36850097D4A1 /* 006 */ = {
 			isa = PBXGroup;
 			children = (
-				5D34AC411F151C3A0097D4A1 /* lyrics.html */,
+				5D34AD571F1B36850097D4A1 /* lyrics_010_006.html */,
 			);
 			path = 006;
 			sourceTree = "<group>";
 		};
-		5D34AC421F151C3A0097D4A1 /* 007 */ = {
+		5D34AD581F1B36850097D4A1 /* 007 */ = {
 			isa = PBXGroup;
 			children = (
-				5D34AC431F151C3A0097D4A1 /* lyrics.html */,
+				5D34AD591F1B36850097D4A1 /* lyrics_010_007.html */,
 			);
 			path = 007;
 			sourceTree = "<group>";
 		};
-		5D34AC441F151C3A0097D4A1 /* 008 */ = {
+		5D34AD5A1F1B36850097D4A1 /* 008 */ = {
 			isa = PBXGroup;
 			children = (
-				5D34AC451F151C3A0097D4A1 /* lyrics.html */,
+				5D34AD5B1F1B36850097D4A1 /* lyrics_010_008.html */,
 			);
 			path = 008;
 			sourceTree = "<group>";
 		};
-		5D34AC461F151C3A0097D4A1 /* 009 */ = {
+		5D34AD5C1F1B36850097D4A1 /* 009 */ = {
 			isa = PBXGroup;
 			children = (
-				5D34AC471F151C3A0097D4A1 /* lyrics.html */,
+				5D34AD5D1F1B36850097D4A1 /* lyrics_010_009.html */,
 			);
 			path = 009;
 			sourceTree = "<group>";
 		};
-		5D34AC481F151C3A0097D4A1 /* 010 */ = {
+		5D34AD5E1F1B36850097D4A1 /* 010 */ = {
 			isa = PBXGroup;
 			children = (
-				5D34AC491F151C3A0097D4A1 /* lyrics.html */,
+				5D34AD5F1F1B36850097D4A1 /* lyrics_010_010.html */,
 			);
 			path = 010;
 			sourceTree = "<group>";
 		};
-		5D34AC4A1F151C3A0097D4A1 /* 011 */ = {
+		5D34AD601F1B36850097D4A1 /* 011 */ = {
 			isa = PBXGroup;
 			children = (
-				5D34AC4B1F151C3A0097D4A1 /* lyrics.html */,
+				5D34AD611F1B36850097D4A1 /* lyrics_010_011.html */,
 			);
 			path = 011;
 			sourceTree = "<group>";
 		};
-		5D34AC4C1F151C3A0097D4A1 /* 012 */ = {
+		5D34AD621F1B36850097D4A1 /* 012 */ = {
 			isa = PBXGroup;
 			children = (
-				5D34AC4D1F151C3A0097D4A1 /* lyrics.html */,
+				5D34AD631F1B36850097D4A1 /* lyrics_010_012.html */,
 			);
 			path = 012;
 			sourceTree = "<group>";
 		};
-		5D34AC4E1F151C3A0097D4A1 /* 013 */ = {
+		5D34AD641F1B36850097D4A1 /* 013 */ = {
 			isa = PBXGroup;
 			children = (
-				5D34AC4F1F151C3A0097D4A1 /* lyrics.html */,
+				5D34AD651F1B36850097D4A1 /* lyrics_010_013.html */,
 			);
 			path = 013;
 			sourceTree = "<group>";
 		};
-		5D34AC501F151C3A0097D4A1 /* 014 */ = {
+		5D34AD661F1B36850097D4A1 /* 014 */ = {
 			isa = PBXGroup;
 			children = (
-				5D34AC511F151C3A0097D4A1 /* lyrics.html */,
+				5D34AD671F1B36850097D4A1 /* lyrics_010_014.html */,
 			);
 			path = 014;
 			sourceTree = "<group>";
 		};
-		5D34AC531F151C3A0097D4A1 /* 011 */ = {
+		5D34AD691F1B36850097D4A1 /* 011 */ = {
 			isa = PBXGroup;
 			children = (
-				5D34AC541F151C3A0097D4A1 /* 001 */,
-				5D34AC561F151C3A0097D4A1 /* 002 */,
-				5D34AC581F151C3A0097D4A1 /* 003 */,
-				5D34AC5A1F151C3A0097D4A1 /* 004 */,
-				5D34AC5C1F151C3A0097D4A1 /* 005 */,
-				5D34AC5E1F151C3A0097D4A1 /* 006 */,
-				5D34AC601F151C3A0097D4A1 /* 007 */,
-				5D34AC621F151C3A0097D4A1 /* 008 */,
-				5D34AC641F151C3A0097D4A1 /* 009 */,
-				5D34AC661F151C3A0097D4A1 /* 010 */,
-				5D34AC681F151C3A0097D4A1 /* 011 */,
-				5D34AC6A1F151C3A0097D4A1 /* 012 */,
-				5D34AC6C1F151C3A0097D4A1 /* 013 */,
-				5D34AC6E1F151C3A0097D4A1 /* 014 */,
-				5D34AC701F151C3A0097D4A1 /* 015 */,
-				5D34AC721F151C3A0097D4A1 /* albumDetails.json */,
+				5D34AD6A1F1B36850097D4A1 /* 001 */,
+				5D34AD6C1F1B36850097D4A1 /* 002 */,
+				5D34AD6E1F1B36850097D4A1 /* 003 */,
+				5D34AD701F1B36850097D4A1 /* 004 */,
+				5D34AD721F1B36850097D4A1 /* 005 */,
+				5D34AD741F1B36850097D4A1 /* 006 */,
+				5D34AD761F1B36850097D4A1 /* 007 */,
+				5D34AD781F1B36850097D4A1 /* 008 */,
+				5D34AD7A1F1B36850097D4A1 /* 009 */,
+				5D34AD7C1F1B36850097D4A1 /* 010 */,
+				5D34AD7E1F1B36850097D4A1 /* 011 */,
+				5D34AD801F1B36850097D4A1 /* 012 */,
+				5D34AD821F1B36850097D4A1 /* 013 */,
+				5D34AD841F1B36850097D4A1 /* 014 */,
+				5D34AD861F1B36850097D4A1 /* 015 */,
+				5D34AD881F1B36850097D4A1 /* albumDetails_011.json */,
 			);
 			path = 011;
 			sourceTree = "<group>";
 		};
-		5D34AC541F151C3A0097D4A1 /* 001 */ = {
+		5D34AD6A1F1B36850097D4A1 /* 001 */ = {
 			isa = PBXGroup;
 			children = (
-				5D34AC551F151C3A0097D4A1 /* lyrics.html */,
+				5D34AD6B1F1B36850097D4A1 /* lyrics_011_001.html */,
 			);
 			path = 001;
 			sourceTree = "<group>";
 		};
-		5D34AC561F151C3A0097D4A1 /* 002 */ = {
+		5D34AD6C1F1B36850097D4A1 /* 002 */ = {
 			isa = PBXGroup;
 			children = (
-				5D34AC571F151C3A0097D4A1 /* lyrics.html */,
+				5D34AD6D1F1B36850097D4A1 /* lyrics_011_002.html */,
 			);
 			path = 002;
 			sourceTree = "<group>";
 		};
-		5D34AC581F151C3A0097D4A1 /* 003 */ = {
+		5D34AD6E1F1B36850097D4A1 /* 003 */ = {
 			isa = PBXGroup;
 			children = (
-				5D34AC591F151C3A0097D4A1 /* lyrics.html */,
+				5D34AD6F1F1B36850097D4A1 /* lyrics_011_003.html */,
 			);
 			path = 003;
 			sourceTree = "<group>";
 		};
-		5D34AC5A1F151C3A0097D4A1 /* 004 */ = {
+		5D34AD701F1B36850097D4A1 /* 004 */ = {
 			isa = PBXGroup;
 			children = (
-				5D34AC5B1F151C3A0097D4A1 /* lyrics.html */,
+				5D34AD711F1B36850097D4A1 /* lyrics_011_004.html */,
 			);
 			path = 004;
 			sourceTree = "<group>";
 		};
-		5D34AC5C1F151C3A0097D4A1 /* 005 */ = {
+		5D34AD721F1B36850097D4A1 /* 005 */ = {
 			isa = PBXGroup;
 			children = (
-				5D34AC5D1F151C3A0097D4A1 /* lyrics.html */,
+				5D34AD731F1B36850097D4A1 /* lyrics_011_005.html */,
 			);
 			path = 005;
 			sourceTree = "<group>";
 		};
-		5D34AC5E1F151C3A0097D4A1 /* 006 */ = {
+		5D34AD741F1B36850097D4A1 /* 006 */ = {
 			isa = PBXGroup;
 			children = (
-				5D34AC5F1F151C3A0097D4A1 /* lyrics.html */,
+				5D34AD751F1B36850097D4A1 /* lyrics_011_006.html */,
 			);
 			path = 006;
 			sourceTree = "<group>";
 		};
-		5D34AC601F151C3A0097D4A1 /* 007 */ = {
+		5D34AD761F1B36850097D4A1 /* 007 */ = {
 			isa = PBXGroup;
 			children = (
-				5D34AC611F151C3A0097D4A1 /* lyrics.html */,
+				5D34AD771F1B36850097D4A1 /* lyrics_011_007.html */,
 			);
 			path = 007;
 			sourceTree = "<group>";
 		};
-		5D34AC621F151C3A0097D4A1 /* 008 */ = {
+		5D34AD781F1B36850097D4A1 /* 008 */ = {
 			isa = PBXGroup;
 			children = (
-				5D34AC631F151C3A0097D4A1 /* lyrics.html */,
+				5D34AD791F1B36850097D4A1 /* lyrics_011_008.html */,
 			);
 			path = 008;
 			sourceTree = "<group>";
 		};
-		5D34AC641F151C3A0097D4A1 /* 009 */ = {
+		5D34AD7A1F1B36850097D4A1 /* 009 */ = {
 			isa = PBXGroup;
 			children = (
-				5D34AC651F151C3A0097D4A1 /* lyrics.html */,
+				5D34AD7B1F1B36850097D4A1 /* lyrics_011_009.html */,
 			);
 			path = 009;
 			sourceTree = "<group>";
 		};
-		5D34AC661F151C3A0097D4A1 /* 010 */ = {
+		5D34AD7C1F1B36850097D4A1 /* 010 */ = {
 			isa = PBXGroup;
 			children = (
-				5D34AC671F151C3A0097D4A1 /* lyrics.html */,
+				5D34AD7D1F1B36850097D4A1 /* lyrics_011_010.html */,
 			);
 			path = 010;
 			sourceTree = "<group>";
 		};
-		5D34AC681F151C3A0097D4A1 /* 011 */ = {
+		5D34AD7E1F1B36850097D4A1 /* 011 */ = {
 			isa = PBXGroup;
 			children = (
-				5D34AC691F151C3A0097D4A1 /* lyrics.html */,
+				5D34AD7F1F1B36850097D4A1 /* lyrics_011_011.html */,
 			);
 			path = 011;
 			sourceTree = "<group>";
 		};
-		5D34AC6A1F151C3A0097D4A1 /* 012 */ = {
+		5D34AD801F1B36850097D4A1 /* 012 */ = {
 			isa = PBXGroup;
 			children = (
-				5D34AC6B1F151C3A0097D4A1 /* lyrics.html */,
+				5D34AD811F1B36850097D4A1 /* lyrics_011_012.html */,
 			);
 			path = 012;
 			sourceTree = "<group>";
 		};
-		5D34AC6C1F151C3A0097D4A1 /* 013 */ = {
+		5D34AD821F1B36850097D4A1 /* 013 */ = {
 			isa = PBXGroup;
 			children = (
-				5D34AC6D1F151C3A0097D4A1 /* lyrics.html */,
+				5D34AD831F1B36850097D4A1 /* lyrics_011_013.html */,
 			);
 			path = 013;
 			sourceTree = "<group>";
 		};
-		5D34AC6E1F151C3A0097D4A1 /* 014 */ = {
+		5D34AD841F1B36850097D4A1 /* 014 */ = {
 			isa = PBXGroup;
 			children = (
-				5D34AC6F1F151C3A0097D4A1 /* lyrics.html */,
+				5D34AD851F1B36850097D4A1 /* lyrics_011_014.html */,
 			);
 			path = 014;
 			sourceTree = "<group>";
 		};
-		5D34AC701F151C3A0097D4A1 /* 015 */ = {
+		5D34AD861F1B36850097D4A1 /* 015 */ = {
 			isa = PBXGroup;
 			children = (
-				5D34AC711F151C3A0097D4A1 /* lyrics.html */,
+				5D34AD871F1B36850097D4A1 /* lyrics_011_015.html */,
 			);
 			path = 015;
 			sourceTree = "<group>";
@@ -1232,97 +1237,97 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				5D34ACC21F151C3A0097D4A1 /* lyrics.html in Resources */,
-				5D34ACB21F151C3A0097D4A1 /* lyrics.html in Resources */,
-				5D34ACAB1F151C3A0097D4A1 /* albumDetails.json in Resources */,
-				5D34ACB31F151C3A0097D4A1 /* lyrics.html in Resources */,
-				5D34AC9C1F151C3A0097D4A1 /* lyrics.html in Resources */,
-				5D34ACA11F151C3A0097D4A1 /* lyrics.html in Resources */,
-				5D34ACA21F151C3A0097D4A1 /* lyrics.html in Resources */,
-				5D34ACB01F151C3A0097D4A1 /* lyrics.html in Resources */,
-				5D34AC991F151C3A0097D4A1 /* lyrics.html in Resources */,
-				5D34AC911F151C3A0097D4A1 /* lyrics.html in Resources */,
-				5D34AC861F151C3A0097D4A1 /* lyrics.html in Resources */,
-				5D34ACBA1F151C3A0097D4A1 /* albumDetails.json in Resources */,
-				5D34AC9E1F151C3A0097D4A1 /* lyrics.html in Resources */,
-				5D34AC7C1F151C3A0097D4A1 /* lyrics.html in Resources */,
-				5D34ACB81F151C3A0097D4A1 /* lyrics.html in Resources */,
-				5D34ACAD1F151C3A0097D4A1 /* lyrics.html in Resources */,
-				5D34AC971F151C3A0097D4A1 /* lyrics.html in Resources */,
-				5D34ACBC1F151C3A0097D4A1 /* lyrics.html in Resources */,
-				5D34AC891F151C3A0097D4A1 /* lyrics.html in Resources */,
-				5D34AC8B1F151C3A0097D4A1 /* lyrics.html in Resources */,
-				5D34ACAC1F151C3A0097D4A1 /* lyrics.html in Resources */,
-				5D34AC901F151C3A0097D4A1 /* lyrics.html in Resources */,
-				5D34AC7B1F151C3A0097D4A1 /* lyrics.html in Resources */,
-				5D34ACBD1F151C3A0097D4A1 /* lyrics.html in Resources */,
-				5D34AC761F151C3A0097D4A1 /* lyrics.html in Resources */,
-				5D34AC871F151C3A0097D4A1 /* lyrics.html in Resources */,
-				5D34ACB71F151C3A0097D4A1 /* lyrics.html in Resources */,
-				5D34ACA31F151C3A0097D4A1 /* lyrics.html in Resources */,
-				5D34ACB61F151C3A0097D4A1 /* lyrics.html in Resources */,
-				5D34AC771F151C3A0097D4A1 /* lyrics.html in Resources */,
-				5D34ACBB1F151C3A0097D4A1 /* lyrics.html in Resources */,
-				5D34AC951F151C3A0097D4A1 /* albumDetails.json in Resources */,
-				5D34ACC51F151C3A0097D4A1 /* lyrics.html in Resources */,
-				5D34ACBF1F151C3A0097D4A1 /* lyrics.html in Resources */,
-				5D34AC981F151C3A0097D4A1 /* lyrics.html in Resources */,
-				5D34AC9F1F151C3A0097D4A1 /* lyrics.html in Resources */,
-				5D34ACA41F151C3A0097D4A1 /* albumDetails.json in Resources */,
-				5D34ACC41F151C3A0097D4A1 /* lyrics.html in Resources */,
-				5D34ACC61F151C3A0097D4A1 /* lyrics.html in Resources */,
-				5D34ACB51F151C3A0097D4A1 /* lyrics.html in Resources */,
-				5D34AC8C1F151C3A0097D4A1 /* lyrics.html in Resources */,
-				5D34ACA71F151C3A0097D4A1 /* lyrics.html in Resources */,
-				5D34ACCA1F151C3A0097D4A1 /* albumDetails.json in Resources */,
-				5D34AC801F151C3A0097D4A1 /* lyrics.html in Resources */,
-				5D34AC941F151C3A0097D4A1 /* lyrics.html in Resources */,
-				5D34ACC81F151C3A0097D4A1 /* lyrics.html in Resources */,
-				5D34AC7A1F151C3A0097D4A1 /* lyrics.html in Resources */,
-				5D34ACB41F151C3A0097D4A1 /* lyrics.html in Resources */,
-				5D34AC8D1F151C3A0097D4A1 /* lyrics.html in Resources */,
-				5D34ACBE1F151C3A0097D4A1 /* lyrics.html in Resources */,
-				5D34AC961F151C3A0097D4A1 /* lyrics.html in Resources */,
-				5D34AC8E1F151C3A0097D4A1 /* albumDetails.json in Resources */,
-				5D34AC741F151C3A0097D4A1 /* lyrics.html in Resources */,
-				5D34AC791F151C3A0097D4A1 /* lyrics.html in Resources */,
-				5D34ACA61F151C3A0097D4A1 /* lyrics.html in Resources */,
-				5D34AC8F1F151C3A0097D4A1 /* lyrics.html in Resources */,
-				5D34ACC91F151C3A0097D4A1 /* lyrics.html in Resources */,
-				5D34AC7D1F151C3A0097D4A1 /* albumDetails.json in Resources */,
-				5D34AC7E1F151C3A0097D4A1 /* lyrics.html in Resources */,
-				5D34ACC01F151C3A0097D4A1 /* lyrics.html in Resources */,
-				5D34AC881F151C3A0097D4A1 /* lyrics.html in Resources */,
-				5D34ACA81F151C3A0097D4A1 /* lyrics.html in Resources */,
+				5D34ADD01F1B36850097D4A1 /* albumDetails_010.json in Resources */,
+				5D34ADC41F1B36850097D4A1 /* lyrics_010_003.html in Resources */,
+				5D34ADA71F1B36850097D4A1 /* lyrics_003_003.html in Resources */,
+				5D34ADDB1F1B36850097D4A1 /* lyrics_011_011.html in Resources */,
+				5D34ADBB1F1B36850097D4A1 /* lyrics_009_001.html in Resources */,
+				5D34ADA81F1B36850097D4A1 /* lyrics_003_004.html in Resources */,
+				5D34ADC11F1B36850097D4A1 /* albumDetails_009.json in Resources */,
+				5D34AD921F1B36850097D4A1 /* lyrics_001_009.html in Resources */,
+				5D34ADAA1F1B36850097D4A1 /* lyrics_003_006.html in Resources */,
+				5D34AD9D1F1B36850097D4A1 /* lyrics_002_010.html in Resources */,
+				5D34AD991F1B36850097D4A1 /* lyrics_002_006.html in Resources */,
+				5D34ADCB1F1B36850097D4A1 /* lyrics_010_010.html in Resources */,
+				5D34ADD31F1B36850097D4A1 /* lyrics_011_003.html in Resources */,
+				5D34ADB91F1B36850097D4A1 /* lyrics_005_006.html in Resources */,
+				5D34AD911F1B36850097D4A1 /* lyrics_001_008.html in Resources */,
+				5D34AD8E1F1B36850097D4A1 /* lyrics_001_005.html in Resources */,
+				5D34AD8C1F1B36850097D4A1 /* lyrics_001_003.html in Resources */,
+				5D34ADDE1F1B36850097D4A1 /* lyrics_011_014.html in Resources */,
+				5D34ADBD1F1B36850097D4A1 /* lyrics_009_003.html in Resources */,
+				5D34ADCE1F1B36850097D4A1 /* lyrics_010_013.html in Resources */,
+				5D34ADAF1F1B36850097D4A1 /* lyrics_004_004.html in Resources */,
+				5D34ADA21F1B36850097D4A1 /* lyrics_002_015.html in Resources */,
+				5D34ADBC1F1B36850097D4A1 /* lyrics_009_002.html in Resources */,
+				5D34ADB31F1B36850097D4A1 /* albumDetails_004.json in Resources */,
+				5D34ADBF1F1B36850097D4A1 /* lyrics_009_005.html in Resources */,
+				5D34AD901F1B36850097D4A1 /* lyrics_001_007.html in Resources */,
+				5D34ADC51F1B36850097D4A1 /* lyrics_010_004.html in Resources */,
+				5D34AD8A1F1B36850097D4A1 /* lyrics_001_001.html in Resources */,
+				5D34ADC31F1B36850097D4A1 /* lyrics_010_002.html in Resources */,
+				5D34ADC21F1B36850097D4A1 /* lyrics_010_001.html in Resources */,
+				5D34ADA01F1B36850097D4A1 /* lyrics_002_013.html in Resources */,
+				5D34ADDF1F1B36850097D4A1 /* lyrics_011_015.html in Resources */,
+				5D34ADB11F1B36850097D4A1 /* lyrics_004_006.html in Resources */,
+				5D34ADB81F1B36850097D4A1 /* lyrics_005_005.html in Resources */,
+				5D34ADAC1F1B36850097D4A1 /* lyrics_004_001.html in Resources */,
+				5D34ADAB1F1B36850097D4A1 /* albumDetails_003.json in Resources */,
+				5D34ADA51F1B36850097D4A1 /* lyrics_003_001.html in Resources */,
+				5D34AD9A1F1B36850097D4A1 /* lyrics_002_007.html in Resources */,
+				5D34ADA41F1B36850097D4A1 /* albumDetails_002.json in Resources */,
+				5D34ADD11F1B36850097D4A1 /* lyrics_011_001.html in Resources */,
+				5D34ADA11F1B36850097D4A1 /* lyrics_002_014.html in Resources */,
+				5D34AD971F1B36850097D4A1 /* lyrics_002_004.html in Resources */,
+				5D34ADA61F1B36850097D4A1 /* lyrics_003_002.html in Resources */,
+				5D34AD9F1F1B36850097D4A1 /* lyrics_002_012.html in Resources */,
+				5D34AD8F1F1B36850097D4A1 /* lyrics_001_006.html in Resources */,
+				5D34ADB71F1B36850097D4A1 /* lyrics_005_004.html in Resources */,
+				5D34ADC81F1B36850097D4A1 /* lyrics_010_007.html in Resources */,
 				5D34AB9B1F1509FB0097D4A1 /* LaunchScreen.storyboard in Resources */,
-				5D34ACB11F151C3A0097D4A1 /* lyrics.html in Resources */,
-				5D34ACC11F151C3A0097D4A1 /* lyrics.html in Resources */,
-				5D34AC931F151C3A0097D4A1 /* lyrics.html in Resources */,
-				5D34AC781F151C3A0097D4A1 /* lyrics.html in Resources */,
-				5D34ACAA1F151C3A0097D4A1 /* lyrics.html in Resources */,
-				5D34ACB91F151C3A0097D4A1 /* lyrics.html in Resources */,
-				5D34AC8A1F151C3A0097D4A1 /* lyrics.html in Resources */,
-				5D34AC841F151C3A0097D4A1 /* lyrics.html in Resources */,
-				5D34ACAE1F151C3A0097D4A1 /* lyrics.html in Resources */,
-				5D34ACC71F151C3A0097D4A1 /* lyrics.html in Resources */,
-				5D34ACCB1F151C3A0097D4A1 /* albums.json in Resources */,
-				5D34AC821F151C3A0097D4A1 /* lyrics.html in Resources */,
-				5D34ACA01F151C3A0097D4A1 /* lyrics.html in Resources */,
-				5D34AC751F151C3A0097D4A1 /* lyrics.html in Resources */,
-				5D34AC851F151C3A0097D4A1 /* lyrics.html in Resources */,
-				5D34AC7F1F151C3A0097D4A1 /* lyrics.html in Resources */,
-				5D34ACA51F151C3A0097D4A1 /* lyrics.html in Resources */,
-				5D34AC9A1F151C3A0097D4A1 /* lyrics.html in Resources */,
+				5D34AD8D1F1B36850097D4A1 /* lyrics_001_004.html in Resources */,
+				5D34ADAE1F1B36850097D4A1 /* lyrics_004_003.html in Resources */,
+				5D34ADCC1F1B36850097D4A1 /* lyrics_010_011.html in Resources */,
+				5D34AD8B1F1B36850097D4A1 /* lyrics_001_002.html in Resources */,
+				5D34ADD91F1B36850097D4A1 /* lyrics_011_009.html in Resources */,
+				5D34ADB21F1B36850097D4A1 /* lyrics_004_007.html in Resources */,
+				5D34ADD61F1B36850097D4A1 /* lyrics_011_006.html in Resources */,
+				5D34ADDC1F1B36850097D4A1 /* lyrics_011_012.html in Resources */,
+				5D34ADCA1F1B36850097D4A1 /* lyrics_010_009.html in Resources */,
 				5D34AB981F1509FB0097D4A1 /* Assets.xcassets in Resources */,
-				5D34AC9B1F151C3A0097D4A1 /* lyrics.html in Resources */,
-				5D34AC831F151C3A0097D4A1 /* lyrics.html in Resources */,
-				5D34ACAF1F151C3A0097D4A1 /* lyrics.html in Resources */,
-				5D34AC811F151C3A0097D4A1 /* lyrics.html in Resources */,
-				5D34AC9D1F151C3A0097D4A1 /* albumDetails.json in Resources */,
-				5D34ACA91F151C3A0097D4A1 /* lyrics.html in Resources */,
-				5D34AC921F151C3A0097D4A1 /* lyrics.html in Resources */,
+				5D34AD941F1B36850097D4A1 /* lyrics_002_001.html in Resources */,
+				5D34ADC71F1B36850097D4A1 /* lyrics_010_006.html in Resources */,
+				5D34AD951F1B36850097D4A1 /* lyrics_002_002.html in Resources */,
+				5D34ADB61F1B36850097D4A1 /* lyrics_005_003.html in Resources */,
+				5D34ADD41F1B36850097D4A1 /* lyrics_011_004.html in Resources */,
+				5D34ADB41F1B36850097D4A1 /* lyrics_005_001.html in Resources */,
+				5D34ADC61F1B36850097D4A1 /* lyrics_010_005.html in Resources */,
+				5D34ADCD1F1B36850097D4A1 /* lyrics_010_012.html in Resources */,
+				5D34ADA91F1B36850097D4A1 /* lyrics_003_005.html in Resources */,
+				5D34ADBA1F1B36850097D4A1 /* albumDetails_005.json in Resources */,
+				5D34ADDD1F1B36850097D4A1 /* lyrics_011_013.html in Resources */,
+				5D34ADCF1F1B36850097D4A1 /* lyrics_010_014.html in Resources */,
+				5D34ADAD1F1B36850097D4A1 /* lyrics_004_002.html in Resources */,
+				5D34ADB01F1B36850097D4A1 /* lyrics_004_005.html in Resources */,
+				5D34ADD51F1B36850097D4A1 /* lyrics_011_005.html in Resources */,
+				5D34ADE11F1B36850097D4A1 /* albums.json in Resources */,
+				5D34ADB51F1B36850097D4A1 /* lyrics_005_002.html in Resources */,
+				5D34ADDA1F1B36850097D4A1 /* lyrics_011_010.html in Resources */,
+				5D34ADBE1F1B36850097D4A1 /* lyrics_009_004.html in Resources */,
+				5D34AD931F1B36850097D4A1 /* albumDetails_001.json in Resources */,
+				5D34AD981F1B36850097D4A1 /* lyrics_002_005.html in Resources */,
+				5D34ADA31F1B36850097D4A1 /* lyrics_002_016.html in Resources */,
+				5D34ADD81F1B36850097D4A1 /* lyrics_011_008.html in Resources */,
+				5D34ADC91F1B36850097D4A1 /* lyrics_010_008.html in Resources */,
+				5D34AD9B1F1B36850097D4A1 /* lyrics_002_008.html in Resources */,
+				5D34ADD71F1B36850097D4A1 /* lyrics_011_007.html in Resources */,
+				5D34AD9C1F1B36850097D4A1 /* lyrics_002_009.html in Resources */,
 				5D34AB961F1509FB0097D4A1 /* Main.storyboard in Resources */,
-				5D34ACC31F151C3A0097D4A1 /* lyrics.html in Resources */,
+				5D34ADE01F1B36850097D4A1 /* albumDetails_011.json in Resources */,
+				5D34AD9E1F1B36850097D4A1 /* lyrics_002_011.html in Resources */,
+				5D34AD961F1B36850097D4A1 /* lyrics_002_003.html in Resources */,
+				5D34ADD21F1B36850097D4A1 /* lyrics_011_002.html in Resources */,
+				5D34ADC01F1B36850097D4A1 /* lyrics_009_006.html in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -1347,6 +1352,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				5D34ADE41F1B39960097D4A1 /* Song.m in Sources */,
 				5D34ABC01F150A320097D4A1 /* AlbumViewController.m in Sources */,
 				5D34AB931F1509FB0097D4A1 /* MainViewController.m in Sources */,
 				5D34AB901F1509FB0097D4A1 /* AppDelegate.m in Sources */,
@@ -1592,6 +1598,7 @@
 				5D34ABB71F1509FB0097D4A1 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		5D34ABB81F1509FB0097D4A1 /* Build configuration list for PBXNativeTarget "TungalahariTests" */ = {
 			isa = XCConfigurationList;
@@ -1600,6 +1607,7 @@
 				5D34ABBA1F1509FB0097D4A1 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		5D34ABBB1F1509FB0097D4A1 /* Build configuration list for PBXNativeTarget "TungalahariUITests" */ = {
 			isa = XCConfigurationList;
@@ -1608,6 +1616,7 @@
 				5D34ABBD1F1509FB0097D4A1 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
