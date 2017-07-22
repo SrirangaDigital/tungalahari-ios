@@ -71,7 +71,12 @@
 
 - (CGSize)collectionView:(UICollectionView *)collectionView layout:(UICollectionViewLayout *)collectionViewLayout sizeForItemAtIndexPath:(NSIndexPath *)indexPath
 {
-    return CGSizeMake(CGRectGetWidth(self.view.frame)/3 + 40, (CGRectGetHeight(self.view.frame))/3 );
+    CGRect screenRect = [[UIScreen mainScreen] bounds];
+    CGFloat screenWidth = screenRect.size.width;
+    CGFloat displayWidth = screenWidth/2 - (1.75* (screenWidth/32));
+//    CGFloat screenHeight = screenRect.size.height;
+//    (CGRectGetWidth(self.view.frame)/2) + 3*(CGRectGetWidth(self.view.frame)/32)
+    return CGSizeMake(displayWidth, (CGRectGetHeight(self.view.frame))/3 );
 }
 
 - (__kindof UICollectionViewCell *)collectionView:(UICollectionView *)collectionView cellForItemAtIndexPath:(NSIndexPath *)indexPath
