@@ -73,7 +73,7 @@
 {
     CGRect screenRect = [[UIScreen mainScreen] bounds];
     CGFloat screenWidth = screenRect.size.width;
-    CGFloat displayWidth = screenWidth/2 - (1.75* (screenWidth/32));
+    CGFloat displayWidth = screenWidth/2 - (1.35* (screenWidth/32));
 //    CGFloat screenHeight = screenRect.size.height;
 //    (CGRectGetWidth(self.view.frame)/2) + 3*(CGRectGetWidth(self.view.frame)/32)
     return CGSizeMake(displayWidth, (CGRectGetHeight(self.view.frame))/3 );
