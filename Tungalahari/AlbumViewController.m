@@ -7,6 +7,7 @@
 //
 
 #import "AlbumViewController.h"
+#import "MediaPlayerViewController.h"
 #import "Song.h"
 #define cellIdentifier @"songCell"
 @interface AlbumViewController ()
@@ -22,8 +23,11 @@
     [_albumTitle setText:_album.albumTitle];
     [_albumArt setImage:[UIImage imageNamed:_album.albumId]];
     [self fetchSongsInAlbum];
+    self.navigationController.navigationBar.tintColor = [UIColor whiteColor];
     // Do any additional setup after loading the view.
 }
+
+
 
 - (void)fetchSongsInAlbum
 {
@@ -81,23 +85,61 @@
     UILabel * serialNumber = (UILabel *)[cell viewWithTag:100];
     UILabel * songTitle = (UILabel *)[cell viewWithTag:101];
     UILabel * songDuration = (UILabel *)[cell viewWithTag:102];
-    
+    UILabel *songDetails = (UILabel *)[cell viewWithTag:103];
+
     Song * song = [_listOfSongs objectAtIndex:indexPath.row];
-    [serialNumber setText:[NSString stringWithFormat:@"%d.",indexPath.row+1]];
+    
+    [serialNumber setText:[NSString stringWithFormat:@"%ld.",indexPath.row+1]];
     [songTitle setText:song.songTitle];
     [songDuration setText:song.songDuration];
+
     
+    if ([song.songWriter length] != 0)
+    {
+        [songDetails setText:[NSString stringWithFormat:@"%@",song.songWriter]];
+    }
+    else
+    {
+        songDetails.hidden = true;
+        CGRect frame = cell.frame;
+        NSLog(@"%f",frame.origin.x);
+        
+        
+        
+    }
     
     return cell;
 }
-/*
+
+- (void)tableView:(UITableView *)tableView didSelectRowAtIndexPath:(NSIndexPath *)indexPath
+{
+    Song * song = [_listOfSongs objectAtIndex:indexPath.row];
+    self.albumidToPass = song.songAlbum.albumId;
+    self.songDetailsToPass = [NSString stringWithFormat:@"%@\n%@",song.songTitle, song.songWriter];
+    NSString * albumID = [[_album.albumId componentsSeparatedByString:@"_"] objectAtIndex:1];
+    NSString *songID = [[song.songID componentsSeparatedByString:@"_"] objectAtIndex:1];
+    self.songURLToPass = [NSString stringWithFormat:@"http://192.155.224.66/stage/files/tungalahari/128/%@/%@/index.mp3",albumID,songID];
+    self.lyricsLinkToPass = [NSString stringWithFormat:@"Data/%@/%@",albumID, songID];
+    self.totalDuration = song.songDuration;
+    [self performSegueWithIdentifier:@"songSegue" sender:self];
+    self.albumArtToPass = [UIImage imageNamed:_album.albumId];
+    self.albumidToPass = albumID;
+}
 #pragma mark - Navigation
 
 // In a storyboard-based application, you will often want to do a little preparation before navigation
 - (void)prepareForSegue:(UIStoryboardSegue *)segue sender:(id)sender {
-    // Get the new view controller using [segue destinationViewController].
-    // Pass the selected object to the new view controller.
+    if ([[segue identifier] isEqualToString:@"songSegue"])
+    {
+        // Get reference to the destination view controller
+        MediaPlayerViewController *mediaPlayer = [segue destinationViewController];
+        mediaPlayer.ID = self.albumidToPass;
+        mediaPlayer.songDetails = self.songDetailsToPass;
+        mediaPlayer.songURL = self.songURLToPass;
+        mediaPlayer.lyricsLink = self.lyricsLinkToPass;
+        mediaPlayer.totalDuration = self.totalDuration;
+    }
 }
-*/
+
 
 @end

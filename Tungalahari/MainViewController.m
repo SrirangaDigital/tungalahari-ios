@@ -14,6 +14,7 @@
 #define cellIdentifier @"albumCell"
 @interface MainViewController ()
 @property NSArray * listOfAlbums;
+
 @property Album * selectedAlbum;
 @end
 
@@ -22,11 +23,11 @@
 - (void)viewDidLoad {
     [super viewDidLoad];
     [ self.navigationController.navigationBar setBarTintColor :
-            [UIColor colorWithRed:0.82
-                            green:0.19
-                             blue:0.21
-                            alpha:1.0]];
+            [UIColor colorWithRed:0.83 green:0.18 blue:0.18 alpha:1.0]];
+    self.navigationItem.title = @"Tungalahari";
     [self initData];
+    self.navigationController.navigationBar.titleTextAttributes = [NSDictionary dictionaryWithObject:[UIColor whiteColor] forKey:UITextAttributeTextColor];
+
 //    _listOfAlbums = @[@"album_009",@"album_010",@"album_005",
 //                      @"album_003",@"album_004",@"album_011",
 //                      @"album_001",@"album_002"];

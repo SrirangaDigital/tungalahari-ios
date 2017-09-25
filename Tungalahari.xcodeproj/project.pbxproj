@@ -16,7 +16,6 @@
 		5D34ABA61F1509FB0097D4A1 /* TungalahariTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 5D34ABA51F1509FB0097D4A1 /* TungalahariTests.m */; };
 		5D34ABB11F1509FB0097D4A1 /* TungalahariUITests.m in Sources */ = {isa = PBXBuildFile; fileRef = 5D34ABB01F1509FB0097D4A1 /* TungalahariUITests.m */; };
 		5D34ABC01F150A320097D4A1 /* AlbumViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 5D34ABBF1F150A320097D4A1 /* AlbumViewController.m */; };
-		5D34ABC31F150A3D0097D4A1 /* MediaPlayerViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 5D34ABC21F150A3D0097D4A1 /* MediaPlayerViewController.m */; };
 		5D34ACD91F1521F00097D4A1 /* Album.m in Sources */ = {isa = PBXBuildFile; fileRef = 5D34ACD81F1521F00097D4A1 /* Album.m */; };
 		5D34AD8A1F1B36850097D4A1 /* lyrics_001_001.html in Resources */ = {isa = PBXBuildFile; fileRef = 5D34ACDD1F1B36850097D4A1 /* lyrics_001_001.html */; };
 		5D34AD8B1F1B36850097D4A1 /* lyrics_001_002.html in Resources */ = {isa = PBXBuildFile; fileRef = 5D34ACDF1F1B36850097D4A1 /* lyrics_001_002.html */; };
@@ -107,6 +106,11 @@
 		5D34ADE01F1B36850097D4A1 /* albumDetails_011.json in Resources */ = {isa = PBXBuildFile; fileRef = 5D34AD881F1B36850097D4A1 /* albumDetails_011.json */; };
 		5D34ADE11F1B36850097D4A1 /* albums.json in Resources */ = {isa = PBXBuildFile; fileRef = 5D34AD891F1B36850097D4A1 /* albums.json */; };
 		5D34ADE41F1B39960097D4A1 /* Song.m in Sources */ = {isa = PBXBuildFile; fileRef = 5D34ADE31F1B39960097D4A1 /* Song.m */; };
+		645D272C0FCE7FAFA3B095B1 /* libPods-TungalahariUITests.a in Frameworks */ = {isa = PBXBuildFile; fileRef = F0CE1202BCC1D8BB6510EFEB /* libPods-TungalahariUITests.a */; };
+		905DE5D41F6435160042BCF5 /* MediaPlayerViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 905DE5D31F6435160042BCF5 /* MediaPlayerViewController.m */; };
+		90A9909A1F265F9E004E6991 /* AVFoundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 90A990991F265F9E004E6991 /* AVFoundation.framework */; };
+		90A9909C1F265FA3004E6991 /* AVKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 90A9909B1F265FA3004E6991 /* AVKit.framework */; };
+		BD8109A8205EA405A8FD10F2 /* libPods-TungalahariTests.a in Frameworks */ = {isa = PBXBuildFile; fileRef = F72E6C9CDA5BE971F5F4A136 /* libPods-TungalahariTests.a */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -145,8 +149,6 @@
 		5D34ABB21F1509FB0097D4A1 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		5D34ABBE1F150A320097D4A1 /* AlbumViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = AlbumViewController.h; sourceTree = "<group>"; };
 		5D34ABBF1F150A320097D4A1 /* AlbumViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = AlbumViewController.m; sourceTree = "<group>"; };
-		5D34ABC11F150A3D0097D4A1 /* MediaPlayerViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = MediaPlayerViewController.h; sourceTree = "<group>"; };
-		5D34ABC21F150A3D0097D4A1 /* MediaPlayerViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = MediaPlayerViewController.m; sourceTree = "<group>"; };
 		5D34ACD71F1521F00097D4A1 /* Album.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Album.h; sourceTree = "<group>"; };
 		5D34ACD81F1521F00097D4A1 /* Album.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = Album.m; sourceTree = "<group>"; };
 		5D34ACDD1F1B36850097D4A1 /* lyrics_001_001.html */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.html; path = lyrics_001_001.html; sourceTree = "<group>"; };
@@ -239,6 +241,13 @@
 		5D34AD891F1B36850097D4A1 /* albums.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = albums.json; sourceTree = "<group>"; };
 		5D34ADE21F1B39960097D4A1 /* Song.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Song.h; sourceTree = "<group>"; };
 		5D34ADE31F1B39960097D4A1 /* Song.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = Song.m; sourceTree = "<group>"; };
+		905DE5D21F6435160042BCF5 /* MediaPlayerViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = MediaPlayerViewController.h; sourceTree = "<group>"; };
+		905DE5D31F6435160042BCF5 /* MediaPlayerViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = MediaPlayerViewController.m; sourceTree = "<group>"; };
+		90A990991F265F9E004E6991 /* AVFoundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = AVFoundation.framework; path = System/Library/Frameworks/AVFoundation.framework; sourceTree = SDKROOT; };
+		90A9909B1F265FA3004E6991 /* AVKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = AVKit.framework; path = System/Library/Frameworks/AVKit.framework; sourceTree = SDKROOT; };
+		E45FE135305BA3F1DA953649 /* libPods-Tungalahari.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = "libPods-Tungalahari.a"; sourceTree = BUILT_PRODUCTS_DIR; };
+		F0CE1202BCC1D8BB6510EFEB /* libPods-TungalahariUITests.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = "libPods-TungalahariUITests.a"; sourceTree = BUILT_PRODUCTS_DIR; };
+		F72E6C9CDA5BE971F5F4A136 /* libPods-TungalahariTests.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = "libPods-TungalahariTests.a"; sourceTree = BUILT_PRODUCTS_DIR; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -246,6 +255,8 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				90A9909C1F265FA3004E6991 /* AVKit.framework in Frameworks */,
+				90A9909A1F265F9E004E6991 /* AVFoundation.framework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -253,6 +264,7 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				BD8109A8205EA405A8FD10F2 /* libPods-TungalahariTests.a in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -260,6 +272,7 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				645D272C0FCE7FAFA3B095B1 /* libPods-TungalahariUITests.a in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -273,6 +286,7 @@
 				5D34ABA41F1509FB0097D4A1 /* TungalahariTests */,
 				5D34ABAF1F1509FB0097D4A1 /* TungalahariUITests */,
 				5D34AB891F1509FB0097D4A1 /* Products */,
+				90A990981F265F9E004E6991 /* Frameworks */,
 			);
 			sourceTree = "<group>";
 		};
@@ -289,6 +303,8 @@
 		5D34AB8A1F1509FB0097D4A1 /* Tungalahari */ = {
 			isa = PBXGroup;
 			children = (
+				905DE5D21F6435160042BCF5 /* MediaPlayerViewController.h */,
+				905DE5D31F6435160042BCF5 /* MediaPlayerViewController.m */,
 				5D34AB8E1F1509FB0097D4A1 /* AppDelegate.h */,
 				5D34AB8F1F1509FB0097D4A1 /* AppDelegate.m */,
 				5D34ACD71F1521F00097D4A1 /* Album.h */,
@@ -299,8 +315,6 @@
 				5D34AB921F1509FB0097D4A1 /* MainViewController.m */,
 				5D34ABBE1F150A320097D4A1 /* AlbumViewController.h */,
 				5D34ABBF1F150A320097D4A1 /* AlbumViewController.m */,
-				5D34ABC11F150A3D0097D4A1 /* MediaPlayerViewController.h */,
-				5D34ABC21F150A3D0097D4A1 /* MediaPlayerViewController.m */,
 				5D34AB941F1509FB0097D4A1 /* Main.storyboard */,
 				5D34AB971F1509FB0097D4A1 /* Assets.xcassets */,
 				5D34AB991F1509FB0097D4A1 /* LaunchScreen.storyboard */,
@@ -1128,6 +1142,18 @@
 			path = 015;
 			sourceTree = "<group>";
 		};
+		90A990981F265F9E004E6991 /* Frameworks */ = {
+			isa = PBXGroup;
+			children = (
+				90A9909B1F265FA3004E6991 /* AVKit.framework */,
+				90A990991F265F9E004E6991 /* AVFoundation.framework */,
+				E45FE135305BA3F1DA953649 /* libPods-Tungalahari.a */,
+				F72E6C9CDA5BE971F5F4A136 /* libPods-TungalahariTests.a */,
+				F0CE1202BCC1D8BB6510EFEB /* libPods-TungalahariUITests.a */,
+			);
+			name = Frameworks;
+			sourceTree = "<group>";
+		};
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
@@ -1152,9 +1178,12 @@
 			isa = PBXNativeTarget;
 			buildConfigurationList = 5D34ABB81F1509FB0097D4A1 /* Build configuration list for PBXNativeTarget "TungalahariTests" */;
 			buildPhases = (
+				945B953D1F9AE378294CD71B /* [CP] Check Pods Manifest.lock */,
 				5D34AB9D1F1509FB0097D4A1 /* Sources */,
 				5D34AB9E1F1509FB0097D4A1 /* Frameworks */,
 				5D34AB9F1F1509FB0097D4A1 /* Resources */,
+				5D3B1B34B6E4018CD345CE7C /* [CP] Embed Pods Frameworks */,
+				8AEEA8C38C7E6FEF26641E5A /* [CP] Copy Pods Resources */,
 			);
 			buildRules = (
 			);
@@ -1170,9 +1199,12 @@
 			isa = PBXNativeTarget;
 			buildConfigurationList = 5D34ABBB1F1509FB0097D4A1 /* Build configuration list for PBXNativeTarget "TungalahariUITests" */;
 			buildPhases = (
+				87B46A26546BFBE12C2917ED /* [CP] Check Pods Manifest.lock */,
 				5D34ABA81F1509FB0097D4A1 /* Sources */,
 				5D34ABA91F1509FB0097D4A1 /* Frameworks */,
 				5D34ABAA1F1509FB0097D4A1 /* Resources */,
+				F99F27C35D171E30D83DFEEF /* [CP] Embed Pods Frameworks */,
+				1624550771CA0C8E36E914E4 /* [CP] Copy Pods Resources */,
 			);
 			buildRules = (
 			);
@@ -1197,6 +1229,11 @@
 						CreatedOnToolsVersion = 8.3.3;
 						DevelopmentTeam = L8JSCA8WK4;
 						ProvisioningStyle = Automatic;
+						SystemCapabilities = {
+							com.apple.BackgroundModes = {
+								enabled = 1;
+							};
+						};
 					};
 					5D34ABA01F1509FB0097D4A1 = {
 						CreatedOnToolsVersion = 8.3.3;
@@ -1347,6 +1384,105 @@
 		};
 /* End PBXResourcesBuildPhase section */
 
+/* Begin PBXShellScriptBuildPhase section */
+		1624550771CA0C8E36E914E4 /* [CP] Copy Pods Resources */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputPaths = (
+			);
+			name = "[CP] Copy Pods Resources";
+			outputPaths = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "\"${SRCROOT}/Pods/Target Support Files/Pods-TungalahariUITests/Pods-TungalahariUITests-resources.sh\"\n";
+			showEnvVarsInLog = 0;
+		};
+		5D3B1B34B6E4018CD345CE7C /* [CP] Embed Pods Frameworks */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputPaths = (
+			);
+			name = "[CP] Embed Pods Frameworks";
+			outputPaths = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "\"${SRCROOT}/Pods/Target Support Files/Pods-TungalahariTests/Pods-TungalahariTests-frameworks.sh\"\n";
+			showEnvVarsInLog = 0;
+		};
+		87B46A26546BFBE12C2917ED /* [CP] Check Pods Manifest.lock */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputPaths = (
+				"${PODS_PODFILE_DIR_PATH}/Podfile.lock",
+				"${PODS_ROOT}/Manifest.lock",
+			);
+			name = "[CP] Check Pods Manifest.lock";
+			outputPaths = (
+				"$(DERIVED_FILE_DIR)/Pods-TungalahariUITests-checkManifestLockResult.txt",
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "diff \"${PODS_PODFILE_DIR_PATH}/Podfile.lock\" \"${PODS_ROOT}/Manifest.lock\" > /dev/null\nif [ $? != 0 ] ; then\n    # print error to STDERR\n    echo \"error: The sandbox is not in sync with the Podfile.lock. Run 'pod install' or update your CocoaPods installation.\" >&2\n    exit 1\nfi\n# This output is used by Xcode 'outputs' to avoid re-running this script phase.\necho \"SUCCESS\" > \"${SCRIPT_OUTPUT_FILE_0}\"\n";
+			showEnvVarsInLog = 0;
+		};
+		8AEEA8C38C7E6FEF26641E5A /* [CP] Copy Pods Resources */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputPaths = (
+			);
+			name = "[CP] Copy Pods Resources";
+			outputPaths = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "\"${SRCROOT}/Pods/Target Support Files/Pods-TungalahariTests/Pods-TungalahariTests-resources.sh\"\n";
+			showEnvVarsInLog = 0;
+		};
+		945B953D1F9AE378294CD71B /* [CP] Check Pods Manifest.lock */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputPaths = (
+				"${PODS_PODFILE_DIR_PATH}/Podfile.lock",
+				"${PODS_ROOT}/Manifest.lock",
+			);
+			name = "[CP] Check Pods Manifest.lock";
+			outputPaths = (
+				"$(DERIVED_FILE_DIR)/Pods-TungalahariTests-checkManifestLockResult.txt",
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "diff \"${PODS_PODFILE_DIR_PATH}/Podfile.lock\" \"${PODS_ROOT}/Manifest.lock\" > /dev/null\nif [ $? != 0 ] ; then\n    # print error to STDERR\n    echo \"error: The sandbox is not in sync with the Podfile.lock. Run 'pod install' or update your CocoaPods installation.\" >&2\n    exit 1\nfi\n# This output is used by Xcode 'outputs' to avoid re-running this script phase.\necho \"SUCCESS\" > \"${SCRIPT_OUTPUT_FILE_0}\"\n";
+			showEnvVarsInLog = 0;
+		};
+		F99F27C35D171E30D83DFEEF /* [CP] Embed Pods Frameworks */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputPaths = (
+			);
+			name = "[CP] Embed Pods Frameworks";
+			outputPaths = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "\"${SRCROOT}/Pods/Target Support Files/Pods-TungalahariUITests/Pods-TungalahariUITests-frameworks.sh\"\n";
+			showEnvVarsInLog = 0;
+		};
+/* End PBXShellScriptBuildPhase section */
+
 /* Begin PBXSourcesBuildPhase section */
 		5D34AB841F1509FB0097D4A1 /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
@@ -1356,9 +1492,9 @@
 				5D34ABC01F150A320097D4A1 /* AlbumViewController.m in Sources */,
 				5D34AB931F1509FB0097D4A1 /* MainViewController.m in Sources */,
 				5D34AB901F1509FB0097D4A1 /* AppDelegate.m in Sources */,
+				905DE5D41F6435160042BCF5 /* MediaPlayerViewController.m in Sources */,
 				5D34ACD91F1521F00097D4A1 /* Album.m in Sources */,
 				5D34AB8D1F1509FB0097D4A1 /* main.m in Sources */,
-				5D34ABC31F150A3D0097D4A1 /* MediaPlayerViewController.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -1509,11 +1645,15 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
 				DEVELOPMENT_TEAM = L8JSCA8WK4;
 				INFOPLIST_FILE = Tungalahari/Info.plist;
+				IPHONEOS_DEPLOYMENT_TARGET = 9.1;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = com.srirangadigital.Tungalahari;
+				PRODUCT_BUNDLE_IDENTIFIER = "com.srirangadigital.tungalahari-ios1";
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				PROVISIONING_PROFILE = "";
+				PROVISIONING_PROFILE_SPECIFIER = "";
 			};
 			name = Debug;
 		};
@@ -1521,11 +1661,15 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
 				DEVELOPMENT_TEAM = L8JSCA8WK4;
 				INFOPLIST_FILE = Tungalahari/Info.plist;
+				IPHONEOS_DEPLOYMENT_TARGET = 9.1;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = com.srirangadigital.Tungalahari;
+				PRODUCT_BUNDLE_IDENTIFIER = "com.srirangadigital.tungalahari-ios1";
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				PROVISIONING_PROFILE = "";
+				PROVISIONING_PROFILE_SPECIFIER = "";
 			};
 			name = Release;
 		};
